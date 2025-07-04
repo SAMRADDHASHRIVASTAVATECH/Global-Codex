@@ -1,0 +1,3977 @@
+============
+2D Animation
+============
+
+The Illusion of Life: Disney Animation by Frank Thomas & Ollie Johnston
+
+Cartoon Animation by Preston Blair
+
+The Animator's Survival Kit by Richard Williams
+
+Timing for Animation by Harold Whitaker & John Halas
+
+Character Animation Crash Course! by Eric Goldberg
+
+Acting for Animators by Ed Hooks
+
+Drawn to Life: 20 Golden Years of Disney Master Classes by Walt Stanchfield
+
+Animation: From Script to Screen by Shamus Culhane
+
+========================
+3D Animation & Rigging
+========================
+
+The Animator’s Survival Kit by Richard Williams
+
+Rig It Right! Maya Animation Rigging Concepts by Tina O'Hailey
+
+A Complete Guide to Character Rigging for Games Using Blender by Armin Halač
+
+Body Language: Advanced Character Rigging by Eric Allen, Kelly L. Murdock, Jared Fong, Adam Sidwell
+
+3D Character Rigging in Blender by Jaime Kelly
+
+==============
+3D Modeling
+==============
+
+3D Art Essentials: The Fundamentals of 3D Modeling, Texturing, and Animation by Ami Chopine
+
+Digital Modeling by William Vaughan
+
+Blender 3D By Example by Oscar Baechler & Xury Greer
+
+Blender 3D Incredible Models by Arijan Belec
+
+Blender 3D Basics by Gordon C. Fisher
+
+=========================
+Accommodation Management
+=========================
+
+Introduction to Hospitality by John R. Walker
+
+Be Our Guest: Perfecting the Art of Customer Service by Theodore Kinni
+
+The Heart of Hospitality: Great Hotel and Restaurant Leaders Share Their Secrets by Micah Solomon
+
+100 Tips for Hoteliers: What Every Successful Hotel Professional Needs to Know and Do by Peter Venison
+
+Hospitality Strategic Management: Concepts and Cases by Cathy A. Enz
+
+The Cornell School of Hotel Administration on Hospitality by Michael C. Sturman, Jack B. Corgel & Rohit Verma
+
+Hotel Management and Operations by Denney & Rutherford
+
+========
+Acrylic
+========
+
+Lee Hammond's Big Book of Acrylic Painting by Lee Hammond
+
+Acrylic Painting Mediums and Methods by Unknown/Various
+
+Secrets of Acrylic – Landscapes Start to Finish by Jerry Yarnell
+
+The Art of Painting in Acrylic by Alicia VanNoy Call
+
+Acrylic Revolution: New Tricks and Techniques by Nancy Reyner
+
+Color and Light by James Gurney (excellent for color mastery)
+
+=================
+Adobe Illustrator
+=================
+
+Adobe Illustrator Classroom in a Book (latest edition) by Adobe Press/Adobe Creative Team
+
+Vector Basic Training by Von Glitschka
+
+The Illustrator WOW! Book by Sharon Steuer
+
+Real World Illustrator (e.g., CS5) by Deke McClelland
+
+===============
+Adobe Photoshop
+===============
+
+Adobe Photoshop Classroom in a Book (2025 Release) by Conrad Chavez & Andrew Faulkner
+
+The Photoshop Book for Digital Photographers by Scott Kelby
+
+Photoshop Studio Techniques by Ben Willmore
+
+Photoshop LAB Color & Other Color-Workflow Guides by Dan Margulis
+
+==============================
+Advanced Construction Technology
+==============================
+
+Advanced Construction Technology by Roy Chudley & Roger Greeno (3rd ed., Addison‑Wesley, 1999)
+
+Advanced Construction Technology by R. P. Rathaliya (1st Indian ed., 2013)
+
+Advanced Construction Technology (4th ed.) by Roy Chudley & Roger Greeno
+
+Construction 4.0: Advanced Technology, Tools and Materials for the Digital Transformation of the Construction Industry by Marco Casini
+
+=======================
+Advanced Culinary Arts
+=======================
+
+On Cooking: A Textbook of Culinary Fundamentals by Sarah R. Labensky et al.
+
+The Professional Chef by The Culinary Institute of America
+
+Larousse Gastronomique by Prosper Montagné & Anne Willan
+
+Modernist Cuisine: The Art and Science of Cooking by Nathan Myhrvold, Chris Young & Maxime Bilet
+
+========================
+Advanced F&B Service
+========================
+
+Food & Beverage Service: Principles and Practices by Deepa Prasad Venkatraman & Sameer Koranne
+
+Food & Beverage Service: Practicals and Techniques by Deepa Prasad Venkatraman & Ulhas Chaudhari
+
+=========================
+Advanced Food Production
+=========================
+
+Introduction to Food Production Operations by Nigel Slater
+
+Advanced Food Preparation by Janet Keeler & Andrew Keeler
+
+Advanced Research Methods in Food Processing Technologies: Technology for Sustainable Food Production edited by Junaid Ahmad Malik, Megh R. Goyal, Preeti Birwal & Ritesh B. Watharkar
+
+==========================
+Advanced Garment Construction
+==========================
+
+Dressmaking: Beginner to Advanced by June Gilbank
+
+Patternmaking for Fashion Design by Helen Joseph-Armstrong
+
+Advanced Garment Construction Guide by Dr. M. Sumithra (Woodhead, 2019)
+
+====================
+Advanced Hematology
+====================
+
+Hoffbrand’s Essential Haematology (9th ed., 2024) by A. Victor Hoffbrand, Pratima Chowdary & others
+
+Rodak’s Hematology: Clinical Principles and Applications (7th ed.) by Keohane et al.
+
+Williams Hematology (10th ed., 2021) by Kaushansky, Lichtman, Prchal & Levi
+
+Recent Advances in Hematology‑4 (2023) edited by Ishani Gupta, Shivani Gandhi & Reetika Menia
+
+==============================
+Advanced Manufacturing Processes
+==============================
+
+Introduction to Advanced Manufacturing Processes by Ramy Harik & Thorsten Wuest (SAE Publishers)
+
+Factory Physics by Wallace Hopp & Mark Spearman
+
+========================
+Advanced Microcontrollers
+========================
+
+The 8051 Microcontroller & Embedded Systems by Muhammad Ali Mazidi
+
+Hands-On RTOS with Microcontrollers by Brian Amos & others
+
+Advanced Microprocessors & Microcontrollers by P. Jayachandar, P. Brindha & M. Parimala Devi
+
+======================================================================
+Advanced Physiotherapy in Musculoskeletal, Neurological, and Cardio-Respiratory Conditions
+======================================================================
+
+Clinical Orthopedic Rehabilitation by Havinga & Brunnstrom
+
+Neurorehabilitation: Neural Repair & Plasticity by Martha S. Lum et al.
+
+Cardiorespiratory Physiotherapy: Adults & Paediatrics by Gosselink et al.
+
+==============================
+Advanced Radiographic Techniques
+==============================
+
+A Guide on Special Radiographic Investigations & Techniques by Lalit Agarwal & Kushal Gehlot (2019)
+
+Specialised Radiographic Techniques: X‑ray Imaging by Anjani Kumar Shukla & Ashok Kumar (2017)
+
+Medical Radiographic Techniques & Dark Room Practices by A. Krishnamurthy
+
+============
+Advertising
+============
+
+Advertising for Dummies by Shawna Bader‑Zaar
+
+Ogilvy on Advertising by David Ogilvy
+
+Scientific Advertising by Claude C. Hopkins
+
+Breakthrough Advertising by Eugene Schwartz
+
+The Copy Book by D&AD
+
+Confessions of an Advertising Man by David Ogilvy
+
+=============================================
+Agricultural Economics & Extension
+=============================================
+
+Principles of Agricultural Economics by Sundar
+
+Principles of Agricultural Economics: Markets and Prices in Less Developed Countries by David Colman & Trevor Young
+
+Handbook of Agricultural Extension by ICAR
+
+Agricultural Extension by Anne W. van den Ban & H.S. Hawkins
+
+=======================
+Agricultural Meteorology
+=======================
+
+Principles of Agricultural Meteorology by Mote
+
+Textbook of Agricultural Meteorology by M.C. Varshneya
+
+Basics of Agricultural Meteorology by Pandey, Mishra, Agrahari & Gupta
+
+==============================
+Air Ticketing & Fare Construction
+==============================
+
+Air Travel Ticketing and Fare Construction (with Examination Questions) by Jagmohan Negi
+
+===============
+Aircraft Design
+===============
+
+Aircraft Design: A Conceptual Approach (5th ed.) by Daniel P. Raymer
+
+Introduction to Aircraft Design by John P. Fielding
+
+===================
+Aircraft Instruments
+===================
+
+Aircraft Instruments by E. H. J. Pallett
+
+Aircraft Flight Instruments and Guidance Systems by David Wyatt
+
+Aircraft Instrumentation and Systems by S. Nagabhushana & L. K. Sudha
+
+=============================
+Aircraft Maintenance Practices
+=============================
+
+Aircraft Maintenance Engineer’s Training & Experience Logbook by Sterling Book House
+
+Maintenance Practices for Aircraft Maintenance (3rd ed., EASA Part‑66) by Aircraft Technical Book Company
+
+Aircraft Maintenance Programs (Springer, 2022) by Various
+
+===================
+Aircraft Materials
+===================
+
+Introduction to Aerospace Structures and Materials by René Alderliesten
+
+Aerospace Materials (general overview on Wikipedia)
+
+====================
+Aircraft Structures-I
+====================
+
+Aircraft Structures by G. Lakshmi Narasaiah
+
+Aircraft Structures for Engineering Students by T.H. Megson
+
+=====================
+Aircraft Structures-II
+=====================
+
+Aircraft Structural Maintenance: Principles, Materials and Techniques (Avotek AMT Series Vol. 2)
+
+Airframe Structural Design & Airframe Stress Analysis and Sizing by Michael Niu
+
+==================
+Aircraft Systems
+==================
+
+Aircraft Systems: Mechanical, Electrical, and Avionics Subsystems Integration by Ian Moir & Allan Seabridge
+
+Advanced Aircraft Systems by David A. Lombardo
+
+Aircraft Systems Classifications by Allan Seabridge & Mohammad Radaei
+
+===========================
+Airworthiness & Regulations
+===========================
+
+Airworthiness: An Introduction to Aircraft Certification and Operations by Filippo De Florio
+
+Civil and Military Airworthiness (MDPI editors)
+
+==================
+Analog Electronics
+==================
+
+Electronic Principles by Albert Malvino
+
+Analog Fundamentals: A Systems Approach by Thomas L. Floyd & David Buchla
+
+The Art of Electronics by Paul Horowitz & Winfield Hill
+
+Mastering Analog Electronics: Unlocking the Power of Circuits and Semiconductors by Hubert Henry Ward
+
+========
+Anatomy
+========
+
+Anatomy & Physiology Made Incredibly Easy! (5th Ed.) by Lippincott/Wolters Kluwer
+
+Gray’s Anatomy for Students by Richard Drake, Wayne Vogl & Adam Mitchell
+
+Gray’s Anatomy: The Anatomical Basis of Clinical Practice (42nd Ed.)
+
+Human Anatomy by B.D. Chaurasia
+
+========
+Anatomy
+========
+
+Beginner’s Book of Anatomy by Adrian Hill
+
+Gray’s Anatomy for Students by Richard Drake, Wayne Vogl & Adam Mitchell
+
+Snell’s Clinical Anatomy by Regions by Richard S. Snell
+
+Gray’s Anatomy: The Anatomical Basis of Clinical Practice (42nd ed.) by Susan Standring (editor)
+
+==================================
+Animal Husbandry & Poultry
+==================================
+
+The Small‑Scale Poultry Flock by Harvey Ussery
+
+The Complete Book of Raising Livestock & Poultry by Katie Thear
+
+Animal Genetics by Frederick B. Hutt
+
+=================
+Applied Chemistry
+=================
+
+Brown, LeMay & Bursten – Chemistry: The Central Science
+
+Oxtoby, Gillis & Nachtrieb – Principles of Modern Chemistry
+
+Applied Chemistry and Chemical Engineering (5‑Volume Set) edited by A. K. Haghi et al.
+
+=====================================
+Applied Mathematics‑I & Applied Mathematics‑II
+=====================================
+
+Introduction to Applied Mathematics by Gilbert Strang
+
+Mathematical Methods in the Physical Sciences by Mary L. Boas
+
+Advanced Mathematical Methods for Scientists and Engineers by Bender & Orszag
+
+==================
+Applied Mechanics
+==================
+
+Applied Mechanics by J. Hannah & M. J. Hillier (3rd ed.)
+
+Applied Mechanics for Engineers, Volume I
+
+A Textbook of Applied Mechanics by R. K. Rajput
+
+================================
+Applied Physics-I & Applied Physics-II
+================================
+
+Fundamentals of Physics by David Halliday, Robert Resnick & Jearl Walker (12th ed., 2021)
+
+University Physics with Modern Physics by Hugh D. Young & Roger A. Freedman
+
+Introduction to Electrodynamics by David J. Griffiths
+
+===========
+Art History
+===========
+
+Gardner’s Art Through the Ages: A Global History by Helen Gardner et al.
+
+The Story of Art by E. H. Gombrich
+
+Ways of Seeing by John Berger
+
+Art History: A Very Short Introduction by Dana Arnold
+
+=================================
+Artificial Intelligence & Machine Learning
+=================================
+
+Artificial Intelligence: A Modern Approach by Stuart J. Russell & Peter Norvig (4th ed., 2020)
+
+Deep Learning by Ian Goodfellow, Yoshua Bengio & Aaron Courville
+
+The Alignment Problem: Machine Learning and Human Values by Brian Christian
+
+===============
+Audio Editing
+===============
+
+Audio Engineering 101: A Beginner's Guide to Music Production by Tim Dittmar
+
+Modern Recording Techniques by David Miles Huber
+
+Mixing Audio: Concepts, Practices, and Tools by Roey Izhaki
+
+The Art of Digital Audio Recording by Steve Savage
+
+The Sound Effects Bible by Ric Viers
+
+========
+Auditing
+========
+
+Auditing for Dummies by Maureen Broderick
+
+Principles of Auditing & Assurance Services by Ray Whittington & Kurt Pany
+
+Internal Auditing: Assurance & Advisory Services by The Institute of Internal Auditors (IIA)
+
+======================
+Automobile Engineering
+======================
+
+Automotive Technology: Principles, Diagnosis, and Service by James D. Halderman
+
+Automotive Engineering: Powertrain, Chassis System & Vehicle Body by David Crolla
+
+Internal Combustion Engine Fundamentals by John B. Heywood
+
+===================
+Automotive Chassis
+===================
+
+The Automotive Chassis by Jörnsen Reimpell, Helmut Stoll & Jürgen Betzler
+
+Automotive Chassis Engineering by David C. Barton & John D. Fieldhouse
+
+Automotive Chassis Systems (6th ed.) by James D. Halderman
+
+The Automotive Chassis: Volume 2 – System Design by Giancarlo Genta & Lorenzo Morello
+
+===============================
+Automotive Electrical Systems
+===============================
+
+Automotive Wiring and Electrical Systems by Tony Candela
+
+Automotive Electrical Equipment by P. Kohli
+
+Automobile Electrical and Electronic Systems by Tom Denton (4th or 5th ed.)
+
+=========================
+Automotive Electronics
+=========================
+
+Hillier’s Fundamentals of Automotive Electronics by V. A. W. Hillier
+
+Diagnosis and Troubleshooting of Automotive Electrical, Electronic, and Computer Systems by James D. Halderman
+
+Handbook of Automotive Power Electronics and Motor Drives edited by Ali Emadi
+
+=====================
+Automotive Engines
+=====================
+
+Automotive Engines: Diagnosis, Repair, and Rebuilding by Tim Gilles
+
+Internal Combustion Engine Fundamentals by John B. Heywood
+
+Performance Automotive Engine Math by John Baechtel
+
+===============================
+Automotive Transmission Systems
+===============================
+
+Automotive Technology: A Systems Approach by Jack Erjavec & Rob Thompson
+
+Automotive Transmission Systems by H. Naunheimer
+
+Engine Management: Advanced Tuning by Greg Banish
+
+===================================
+Avionics–I (Fundamentals & Systems)
+===================================
+
+Introduction to Avionics by R. P. G. Collinson
+
+Principles of Avionics by Albert Helfrick
+
+Digital Avionics Systems: Principles and Practice by Cary R. Spitzer (2nd ed.)
+
+===========================================
+Avionics–II (Advanced Systems & Troubleshooting)
+===========================================
+
+Avionics II by James Fiore
+
+Avionics: Beyond the AET by Tom Inman
+
+Avionics: Systems and Troubleshooting by Thomas K. Eismin
+
+Civil Avionics Systems by Ian Moir, Allan Seabridge & Malcolm Jukes (2nd ed.)
+
+=========================
+🍰 Bakery & Patisserie‑I
+=========================
+
+On Baking: A Textbook of Baking and Pastry Fundamentals by Sarah R. Labensky et al.
+
+Patisserie: Mastering the Fundamentals of French Pastry by Christophe Felder
+
+Patisserie: Master the Art of French Pastry by Melanie Dupuis & Anne Cazor
+
+===================
+🛫 Basic Aerodynamics
+===================
+
+Basic Aerodynamics by Flandro, McMahon & Roach
+
+Fundamentals of Aerodynamics by John D. Anderson Jr.
+
+======================
+🧪 Basic Biochemistry
+======================
+
+Biochemistry: A Short Course by John Tymoczko, Jeremy Berg & Gregory Gatto Jr.
+
+Lehninger Principles of Biochemistry (7th ed.) by David L. Nelson & Michael M. Cox
+
+Biochemistry (8th ed.) by Lubert Stryer, Jeremy Berg et al.
+
+Fundamentals of Biochemistry by Voet, Voet & Pratt
+
+====================================================
+👩‍🍳 Basic Culinary Techniques (Larder & Hot Kitchen)
+====================================================
+
+On Food and Cooking by Harold McGee
+
+Jacques Pépin’s New Complete Techniques by Jacques Pépin
+
+Modernist Cuisine: The Art and Science of Cooking by Nathan Myhrvold, Chris Young & Maxime Bilet
+
+=============================
+✏️ Basic Drafting & Graphics
+=============================
+
+Engineering Drawing by Thomas Ewing French & Charles J. Vierck
+
+Engineering Drawing and Graphic Technology (later editions) by French, Vierck & Robt. J. Foster
+
+================================
+⚡ Basic Electrical Engineering
+================================
+
+Basic Electrical Engineering by K. Vijayarekha et al. (Cengage, 2024)
+
+Basic Electrical Engineering by B.L. Theraja
+
+Basic Electrical Engineering by D.P. Kothari & I.J. Nagrath
+
+Electrical Engineering 101: Everything You Should Have Learned by Darren Ashby
+
+====================
+🩸 Basic Hematology
+====================
+
+Basic Principles and Practice (7th Ed.) by Leslie E. Silberstein & John Anastasi
+
+Clinical Hematology Made Ridiculously Simple by Neil Harris
+
+A Laboratory Guide to Clinical Hematology (Open Textbook)
+
+======================
+🦠 Basic Microbiology
+======================
+
+General Microbiology (Open Textbook)
+
+Murray’s Basic Medical Microbiology (2nd Ed.) by Patrick R. Murray
+
+==================================
+📷 Basic Radiographic Positioning
+==================================
+
+Textbook of Radiographic Positioning and Related Anatomy (11th Ed., 2024) by Lampignano & Kendrick
+
+Handbook of Radiographic Positioning and Techniques (11th Ed.) by same authors
+
+Delmar’s Radiographic Positioning and Procedures, Vol I
+
+=================================
+🧪 Basics of Chemical Engineering
+=================================
+
+The Beginner’s Guide to Engineering: Chemical Engineering by John T. Stimus
+
+Chemical Engineering Explained: Basic Concepts for Novices by David Shallcross
+
+Principles of Chemical Engineering Practice (McGraw‑Hill series)
+
+Perry’s Chemical Engineers’ Handbook (9th ed.) by Don W. Green & Marylee Z. Southard
+
+=====================================
+⚡ Basics of Electrical Engineering
+=====================================
+
+The Beginner’s Guide to Engineering: Electrical Engineering by Mary Ellen Latschar
+
+Electrical Engineering Without Prior Knowledge by Benjamin Spahic
+
+Step‑by‑Step Electrical Engineering by Gregor Haynes
+
+Principles of Electronics by Colin Simpson
+
+The Art of Electronics by Horowitz & Hill
+
+=====================================
+🧠 Behavioral Sciences (Psychology, Sociology)
+=====================================
+
+Psychology: A Very Short Introduction by Gill Padfield
+
+Sociology: A Brief Introduction by Richard T. Schaefer & Kristin L. Steffen
+
+Thinking, Fast and Slow by Daniel Kahneman
+
+The Sociological Imagination by C. Wright Mills
+
+====================================================
+🧬 Bio-Sciences (Anatomy, Physiology, Microbiology)
+=====================================================
+
+OpenStax Anatomy & Physiology (free online)
+
+Gray’s Anatomy for Students by Drake, Vogl & Mitchell
+
+Murray’s Basic Medical Microbiology by Patrick R. Murray
+
+Lehninger Principles of Biochemistry by Nelson & Cox
+
+=====================================
+🧬 Biochemistry & Clinical Pathology
+=====================================
+
+Biochemistry: A Short Course by Tymoczko, Berg & Gatto Jr.
+
+Lehninger Principles of Biochemistry by Nelson & Cox
+
+Fundamentals of Biochemistry: Life at the Molecular Level by Voet, Voet & Pratt
+
+Wilson & Walker’s Principles and Techniques of Biochemistry and Molecular Biology
+
+Clinical Hematology Made Ridiculously Simple by Neil Harris
+
+Rodak’s Hematology Atlas
+
+================
+⚙️ Biomechanics
+================
+
+Basic Biomechanics by Susan J. Hall
+
+Clinical Mechanics and Kinesiology by Loudon, Manske & Reiman
+
+Sports Biomechanics: The Basics by Anthony J. Blazevich
+
+Biomechanics of Movement: The Science of Sports, Robotics, and Rehabilitation by Thomas K. Uchida
+
+=============================
+🧱 Building Materials & Construction
+=============================
+
+Building Construction Materials and Techniques by P. Purushothama Raj
+
+Building Construction: Principles, Materials and Systems by Madan Mehta, Walter Scarborough & Diane Armpriest
+
+Building Construction Illustrated by Francis D. K. Ching (6th ed.)
+
+Fundamentals of Building Construction by Edward Allen & Joseph Iano (7th ed.)
+
+Mechanical & Electrical Equipment for Buildings (11th ed.) by Grondzik, Kwok, Stein & Reynolds
+
+====================
+📣 Business Communication
+====================
+
+The Business Style Handbook by Helen Cunningham & Brenda Greene
+
+Crucial Conversations: Tools for Talking When Stakes Are High by Kerry Patterson, Joseph Grenny, Ron McMillan & Al Switzler
+
+Getting to Yes by Roger Fisher, William Ury & Bruce Patton
+
+===========
+⚖️ Business Law
+===========
+
+Essentials of Business Law and the Legal Environment by Bovée, Courtland & Thill (13th Ed.)
+
+Business Law: Text and Cases by Kenneth W. Clarkson et al.
+
+Business Law by Henry R. Cheeseman
+
+===================
+📊 Business Statistics
+===================
+
+Statistics for Business and Economics by McClave, Benson & Sincich (13th Ed., Pearson)
+
+Business Statistics: A Decision-Making Approach by David F. Groebner et al.
+
+Statistical Methods for Business and Economics by Anderson, Sweeney & Williams
+
+=================
+👗 CAD for Fashion
+=================
+
+Introduction to Fashion CAD by Franca Milizia
+
+CAD in Clothing Technology by Janet Ward
+
+Digital Pattern Cutting for Fashion with Lectra Modaris®
+
+========================
+🏡 CAD for Interior Design
+========================
+
+Home: The Foundations of Enduring Spaces by Ellen S. Fisher
+
+Interaction of Color by Josef Albers
+
+The Furnishing Handbook by Frida Ramstedt
+
+Autodesk AutoCAD for Interior Design by Dean Muccio
+
+===========
+🔧 CAD/CAM
+===========
+
+Mastering CAD/CAM: Fundamentals and Applications
+
+CNC Programming Handbook by Peter Smid
+
+Computer-Aided Manufacturing by David Bedworth & Jeffrey Slater
+
+==================
+📦 Cargo Management
+==================
+
+Cargo Management for Beginners by Jane Smith
+
+Air Cargo and Logistics Management by IATA
+
+International Cargo Management: Advanced Principles and Applications by John W. Tripp
+
+=================
+🎨 Character Design
+=================
+
+Force: Character Design from Life Drawing
+
+The Silver Way by Stephen Silver
+
+Fundamentals of Character Design
+
+Creating Animated Cartoons with Character by Joe Murray
+
+============================
+🔥 Chemical Engineering Thermodynamics
+============================
+
+Introduction to Chemical Engineering Thermodynamics by Smith, Van Ness & Abbott (8th ed., 2019)
+
+Fundamentals of Chemical Engineering Thermodynamics by Dahm & Visco (2012)
+
+Thermodynamics and Exergy Analysis for Engineers by Rajinder Pal (2022)
+
+Advanced Engineering Thermodynamics by Adrian Bejan (2018)
+
+==============================
+⚗️ Chemical Reaction Engineering‑I
+==============================
+
+Elements of Chemical Reaction Engineering by H. Scott Fogler (5th ed., 2016)
+
+Chemical Reaction Engineering by Octave Levenspiel (3rd ed., 2006)
+
+Chemical Reaction Engineering: Beyond the Fundamentals by Doraiswamy & Uner (2014)
+
+Chemical Reaction Engineering: A Computer-Aided Approach by Salmi et al. (2023)
+
+=================================
+🔬 Chemical Reaction Engineering – II
+=================================
+
+Chemical Reaction Engineering II by K. A. Gavhane
+
+Chemical Reactor Analysis and Design by Froment & Bischoff
+
+Elements of Chemical Reaction Engineering by H. Scott Fogler
+
+==============================
+🏭 Chemical Technology – I & II
+==============================
+
+Chemical Technology, Volume I & II by O. P. Panchal et al.
+
+Perry’s Chemical Engineers’ Handbook by Green & Southard
+
+Kirk-Othmer Encyclopedia of Chemical Technology
+
+==============================
+🧠 Child Development & Psychology
+==============================
+
+Child Development: A Thematic Approach (6th ed.) by Daehler & Bukatko
+
+Developmental Psychology by Shaffer & Kipp (10th ed.)
+
+The Nature of the Child by Jerome Kagan
+
+Developmental Science: An Advanced Textbook edited by Bornstein & Lamb
+
+===================================
+Childhood and the Development of Children
+===================================
+
+How Children Learn by John Holt (1967, revised 1983, 1995)
+
+Child Development edited by Paola Ostinelli
+
+The Wonder Weeks by Hetty van de Rijt & Frans X. Plooij
+
+Your Baby and Child by Penelope Leach
+
+==============
+Circuit Theory
+==============
+
+Fundamentals of Electric Circuits by Charles K. Alexander & Matthew N. O. Sadiku
+
+Basic Electric Circuit Theory by Lawson (UMD open text)
+
+Electrical Circuit Theory and Technology by John Bird
+
+The Art of Electronics by Paul Horowitz & Winfield Hill (3rd ed., 2015)
+
+=========================
+🧪 Clinical Biochemistry
+=========================
+
+Practical Clinical Biochemistry: Methods & Interpretations by Ranjna Chawla
+
+Textbook of Clinical Biochemistry with Clinical Correlations by Thomas M. Devlin
+
+Tietz Textbook of Clinical Chemistry & Molecular Diagnostics by Burtis & Ashwood
+
+================================
+👁️ Clinical Examination of Visual System
+================================
+
+Manual for Eye Examination & Diagnosis by Mark W. Leitman
+
+================================
+🧫 Clinical Pathology & Parasitology
+================================
+
+Paniker’s Textbook of Medical Parasitology by Sougata Ghosh & C. Paniker
+
+Modern Blood Banking & Transfusion Practices by Beth H. Shaz et al.
+
+===========================
+🏥 Clinical Practice (Physiotherapy)
+===========================
+
+Textbook of Physiotherapy by Basanta Kumar Nanda
+
+=============
+☁️ Cloud Computing
+=============
+
+Explain the Cloud Like I'm 10 by Todd Hoffious
+
+Cloud Computing: Concepts, Technology & Architecture by Thomas Erl
+
+The DevOps Handbook by Gene Kim, Jez Humble et al.
+
+Building Microservices by Sam Newman
+
+=======================================
+🎨 Collection Development & Portfolio (Fashion)
+=======================================
+
+Creating a Successful Fashion Collection by Steven Faerm
+
+Developing a Fashion Collection (Bloomsbury)
+
+Fashion Portfolio: Create, Curate, Innovate by Tamara Albu & Michelle Nahum‑Albright
+
+Fashion School in a Book Design Journal by Zoë Hong
+
+=============
+🎨 Color Theory
+=============
+
+Special Subjects: Basic Color Theory
+
+Color: A Course in Mastering the Art of Mixing Colors by Betty Edwards
+
+Color and Light by James Gurney
+
+Interaction of Color by Josef Albers
+
+The Secret Lives of Colour by Kassia St. Clair
+
+=============================
+👁️ Common Eye Diseases & Management
+=============================
+
+Common Eye Diseases and their Management (5th Ed.) by Galloway, Amoaku & Browning
+
+==============
+🗣️ Communication
+==============
+
+Effective Public Relations: Pathways to Public Favor by Scott M. Cutlip & Allen H. Center
+
+Communication Skills Guidebook by Iain Hay et al.
+
+Intercultural Communication Encounters by Iain Hay & Peter McCroskey
+
+===================================
+🌐 Communication Skills (Tourism Context)
+===================================
+
+Upworldly Mobile: Behaviour and Business Skills for the New Indian Manager by Ranjini Manian
+
+========================
+📘 Communication Skills–I
+========================
+
+Interacting in Groups: Theory and Practice by Donald W. Klopf
+
+Speaking Skills for Prospective Teachers by Klopf & Cambra
+
+==========================
+📡 Communication Systems–I
+==========================
+
+Introduction to Communication Systems by Upamanyu Madhow
+
+Communication Systems by V. Chandra Sekar
+
+Communication Systems by Simon Haykin & Michael Moher (5th ed., Wiley India)
+
+==========================
+📶 Communication Systems–II
+==========================
+
+Digital Communication Systems by Simon Haykin
+
+Fundamentals of Communication Systems by Proakis & Salehi
+
+Principles of Spread‑Spectrum Communication Systems by Don J. Torrieri
+
+=================================
+🏥 Community Health Nursing – I & II
+=================================
+
+A Comprehensive Textbook of Community Health Nursing by [Author Unknown]
+
+Advanced Practice Nursing in the Community by Carl O. Helvie
+
+=================
+💊 Community Pharmacy
+=================
+
+Remington: The Science and Practice of Pharmacy by Michael G. Wells & Paul Weller
+
+Community Pharmacy Practice: Case Studies by William J. Twigg
+
+A Textbook of Community Pharmacy Practice by Dr. G. Parthasarathi & J. Umadevi
+
+===========
+🧱 Compositing
+===========
+
+The Art of Composition: A Simple Application of Dynamic Symmetry by Rockwell Kent
+
+Compositing Visual Effects in After Effects by Lee Lanier
+
+The Art and Science of Digital Compositing by Ron Brinkmann
+
+==========================
+🖌️ Composition (Art/Design Context)
+==========================
+
+Picture This: How Pictures Work by Molly Bang
+
+The Elements of Graphic Design by Alexander W. White
+
+Graphic Design: The New Basics by Ellen Lupton & Jennifer Cole Phillips
+
+=========================
+🌫️ Computational Fluid Dynamics
+=========================
+
+An Introduction to Computational Fluid Dynamics: The Finite Volume Method by Versteeg & Malalasekera
+
+Computational Fluid Dynamics: An Introduction for Mechanical Engineering Students by Sergei Sazhin (2025)
+
+Computational Methods for Fluid Dynamics by Ferziger & Perić
+
+Computational Fluid Mechanics and Heat Transfer by Anderson, Pletcher & Tannehill
+
+Numerical Heat Transfer and Fluid Flow by S. V. Patankar
+
+The Finite Volume Method in Computational Fluid Dynamics by Moukalled, Mangani & Darwish
+
+Computational Fluid Dynamics: Principles and Applications by Jiri Blazek
+
+===================
+💻 Computer Education
+===================
+
+Teaching Computing in Secondary Schools by Sue Sentance & Harry T. Richards
+
+Computer Science Education: Perspectives on Teaching and Learning in School edited by Noah Podolefsky & Christine Cunningham
+
+Exploring Computer Science by Sundance & Curzon
+
+=================
+🎨 Computer Graphics
+=================
+
+Computer Graphics: Principles and Practice by Foley, van Dam, Feiner & Hughes
+
+Real-Time Rendering by Tomas Akenine-Möller, Eric Haines & Naty Hoffman
+
+Fundamentals of Computer Graphics by Peter Shirley et al.
+
+=================
+🌐 Computer Networks
+=================
+
+Computer Networking: A Top-Down Approach by Kurose & Ross
+
+Computer Networking First‑Step by Wendell Odom
+
+Networking All‑in‑One For Dummies
+
+Data Communications and Networking by Forouzan
+
+=================================
+⚙️ Computer Organization & Architecture
+=================================
+
+Computer Organization & Design: The Hardware/Software Interface by Patterson & Hennessy
+
+Structured Computer Organization by Tanenbaum
+
+Modern Computer Architecture and Organization (2nd ed.)
+
+Computer Organization, Design and Architecture by Shiva
+
+=============================
+🧾 Computerized Accounting (Tally/ERP)
+=============================
+
+Official Tally ERP training manuals
+
+Accredited Tally ERP certification books
+
+====================
+🧱 Concrete Technology
+====================
+
+Concrete Technology Book (University-level PDF)
+
+Advanced Concrete Technology by Zongjin Li (2nd ed.)
+
+Handbook on Advanced Concrete Technology by N. V. Nayak
+
+Advanced Concrete Technology: Constituent Materials
+
+========================
+🏗️ Construction Management
+========================
+
+Construction Project Management 101 by P. D. Mason
+
+Handbook of Construction Management edited by Abdul R. Rumane
+
+Construction Superintendents Job Guide by Diamant & Debo
+
+Essential Construction Management Books (body language, budgets, leadership)
+
+===============
+🧿 Contact Lenses
+===============
+
+Clinical Manual of Contact Lenses (5th ed.) by Bennett & Rabbetts
+
+Contact Lens Practice by Booysen
+
+Specialty Contact Lenses edited by Fadel & Barnett (2025)
+
+==============
+🎛️ Control Systems
+==============
+
+Control Systems Engineering by Norman S. Nise
+
+Modern Control Engineering by Katsuhiko Ogata
+
+Feedback Control of Dynamic Systems by Franklin, Powell & Emami‑Naeini
+
+Automatic Control Systems by Benjamin C. Kuo & Golnaraghi
+
+Linear State‑Space Control Systems by Williams & Lawrence
+
+Nonlinear Dynamical Systems and Control by Haddad
+
+===================
+🧠 Corporate Accounting
+===================
+
+Problems in Accounting by Windsor A. Hosmer
+
+Accounting All-in-One for Dummies
+
+Accounting for Non‑Accountants by Wayne A. Label
+
+Financial Accounting by Walter T. Harrison
+
+Business Analysis and Valuation by Palepu & Healy
+
+=================
+📊 Cost Accounting
+=================
+
+Cost Accounting for Dummies by Kenneth W. Boyd
+
+Fundamentals of Cost Accounting by William N. Lanen et al.
+
+Cost Accounting: Principles & Practices by M.N. Arora
+
+Cost Accounting: A Managerial Emphasis by Charles T. Horngren
+
+Schaum’s Outline of Cost Accounting by Cashin, Polimeni et al.
+
+=====================
+🎨 Creative Arts & Play
+=====================
+
+The Art of Play by Anthony De Mello
+
+Play: How It Shapes the Brain, Opens the Imagination, and Invigorates the Soul by Stuart Brown & Christopher Vaughan
+
+Pedagogy of Play by Drew Raven
+
+Art as Therapy by Alain de Botton & John Armstrong
+
+==============
+🌾 Crop Production
+==============
+
+Principles of Crop Production (Open textbook)
+
+Fundamentals of Crop Science by Anderson & Gilley
+
+Advanced Crop Production by Robert F. Chandler
+
+Crop Production in India by Pramod Kumar & S. Arora
+
+=======================================
+🎓 Curriculum & Pedagogy for Early Years
+=======================================
+
+The Discovery of the Child by Maria Montessori (1950)
+
+Threads of Thinking: Young Children Learning and the Role of Early Education by Cathy Nutbrown
+
+Understanding Schematic Learning at Two by Nutbrown & Brierley (2017)
+
+🌍 Customer Relationship Management (Tourism Context)
+=======================================
+
+The Loyalty Effect by Fred Reichheld
+
+Winning at Social Customer Care by Dan Gingiss
+
+Unreasonable Hospitality by Will Guidara
+
+Raving Fans by Ken Blanchard & Sheldon Bowles
+
+================
+🛎️ Customer Service
+================
+
+How to Win Friends & Influence People by Dale Carnegie
+
+Be Our Guest: Perfecting the Art of Customer Service by Theodore Kinni
+
+Delivering Happiness by Tony Hsieh (Zappos)
+
+The Nordstrom Way to Customer Service Excellence by Spector & McCarthy
+
+Uplifting Service by Ron Kaufman
+
+========================
+🧮 Data Structures Using C
+========================
+
+Data Structures: An Advanced Approach Using C by Jeffrey Esakov & Tom Weiss
+
+Data Structures Using C by Yedidyah Langsam & Aaron M. Tenenbaum
+
+Data Structures and Algorithm Analysis in C by Clifford A. Shaffer
+
+Introduction to Algorithms (CLRS) by Cormen, Leiserson, Rivest & Stein
+
+The Art of Computer Programming by Donald Knuth
+
+=======================
+🏛 Data Warehousing & Mining
+=======================
+
+Data Warehousing: The Ultimate Guide by Paulraj Ponniah
+
+Data Mining: Concepts and Techniques by Jiawei Han, Micheline Kamber & Jian Pei
+
+The Data Warehouse Toolkit by Ralph Kimball
+
+=================================
+🗄️ Database Management System (DBMS)
+=================================
+
+Database System Concepts by Silberschatz, Korth & Sudarshan
+
+Fundamentals of Database Systems by Elmasri & Navathe
+
+Database Management Systems by Ramakrishnan & Gehrke
+
+==================
+🎨 Design Fundamentals
+==================
+
+Design Elements: A Graphic Style Manual by Timothy Samara
+
+The Elements of Graphic Design by Alexander W. White
+
+Graphic Design: The New Basics by Lupton & Phillips
+
+Visual Grammar by Christian Leborg
+
+=========================
+🧱 Design of RCC Structures
+=========================
+
+Design of Reinforced Concrete by McCormac & Brown
+
+Design of Concrete Structures by Darwin & Dolan (16th ed.)
+
+Reinforced Cement Concrete Structures: Practical Design and Standard Details by Ashoke Kumar Dasgupta (2025)
+
+Eurocode 2: Design of Concrete Structures
+
+========================
+🏗️ Design of Steel Structures
+========================
+
+Design of Steel Structures by N. Subramanian
+
+Steel Structures: Design and Behavior by Salmon & Johnson
+
+Structural Steel Design by Jack C. McCormac & Stephen F. Csernak
+
+Design of Steel Structures by B. C. Punmia et al.
+
+===================
+💻 Digital Electronics
+===================
+
+Digital Electronics by William H. Gothmann
+
+Digital Fundamentals by Thomas L. Floyd
+
+Digital Design by M. Morris Mano & Michael D. Ciletti
+
+Mastering Digital Electronics (2022)
+
+=================
+🖼️ Digital Graphics
+=================
+
+Graphic Design for Everyone by Cath Caldwell
+
+Graphic Design and Print Production Fundamentals (Open Textbook)
+
+Thinking with Type by Ellen Lupton
+
+Now You See It and Other Essays on Design by Michael Bierut
+
+===============
+🌐 Digital Media
+===============
+
+Digital Media Production for Beginners by Julia V. Griffey (2025)
+
+Introduction to Digital Media Design by David Leicester Hardy
+
+Expressive Processing: Digital Fictions, Games, and Software by Noah Wardrip‑Fruin
+
+=========================
+📈 Digital Signal Processing
+=========================
+
+Understanding Digital Signal Processing by Lyons
+
+The Scientist and Engineer’s Guide to DSP by Smith
+
+Digital Signal Processing: Principles, Algorithms & Applications by Proakis & Manolakis
+
+Discrete-Time Signal Processing by Oppenheim & Schafer
+
+Multirate Digital Signal Processing by Crochiere & Rabiner
+
+=================
+💰 Direct Taxation
+=================
+
+Direct Taxes Law & Practice by Dr. Vinod K. Singhania & Dr. Kapil Singhania
+
+Students’ Guide to Income Tax by Dr. Girish Ahuja & Dr. Ravi Gupta
+
+Indirect and Direct Taxation by V.K. Singh
+
+=================
+👓 Dispensing Optics
+=================
+
+Dispensing Optics by Susan Blaken
+
+Bennett & Rabbetts’ Clinical Visual Optics
+
+Optometric Management of Binocular Vision by H. O. Aul
+
+==================================
+🌍 Diversity, Gender & Inclusive Education
+==================================
+
+What Works in Diversity and Inclusion by Judith Katz
+
+Gender and Education: Inequality in Learning by Caroline Bowles
+
+Inclusion: Effective Practices for All Students by James McLeskey et al.
+
+Gender, Race & Class in Education by Lois Weis & Michelle Fine
+
+===========
+👗 Draping
+===========
+
+Draping: The Complete Course by Karolyn Kiisel
+
+Fundamentals of Fashion Draping by David Paul & Nick Verreos
+
+The Art of Fashion Draping by Connie Amaden-Crawford
+
+=============================
+✏️ Drawing & Illustration / Drawing & Sketching
+=============================
+
+Fun With a Pencil & Figure Drawing for All It’s Worth by Andrew Loomis
+
+How to Draw Cool Stuff by Catherine V. Holmes
+
+Drawing on the Right Side of the Brain by Betty Edwards
+
+Keys to Drawing by Bert Dodson
+
+Drawing for Illustration by Salisbury
+
+Lessons for Young Artists by David Gentleman
+
+==============================
+🏥 Drug Store & Business Management
+==============================
+
+Drug Store and Business Management by R.M. Mehta
+
+===========================
+🧾 E‑filing of Returns (India)
+===========================
+
+Introduction to E‑Filing of Returns by Varun Panwar & Jyoti Mahajan (2021)
+
+Self Preparation and Filing of Income Tax Returns by Individuals (2024)
+
+Procedure of E‑Filing by Dr. Kamal Pant (2017)
+
+=====================================
+📚 Education in Contemporary Indian Society
+=====================================
+
+Education in Contemporary Indian Society (Set 2 vols) [Neelkamal]
+
+Education in Emerging Indian Society: The Challenges and Issues by Sunanda Ghosh & Radha Mohan
+
+Hindi Is Our Ground, English Is Our Sky by Chaise LaDousa
+
+The Argumentative Indian by Amartya Sen
+
+===================================
+🎯 Elective–I & Elective–II (Common ME electives)
+===================================
+
+Modern Control Engineering by Katsuhiko Ogata
+
+Power Electronics: Converters, Applications, and Design by M. H. Rashid
+
+Applied Thermodynamics by G.F. C. Rogers & Y.R. Mayhew
+
+Robotics: Control, Sensing, Vision & Intelligence by K.S. Fu, R.C. Gonzales & C.S.G. Lee
+
+==================
+📐 Electrical Circuits
+==================
+
+Fundamentals of Electric Circuits by Alexander & Sadiku
+
+Electric Circuits by Nilsson & Riedel
+
+Engineering Circuit Analysis by Hayt, Kemmerly & Durbin
+
+================================
+🏗️ Electrical Installation & Estimation
+================================
+
+Mike Holt’s Illustrated Guide to Electrical Estimating
+
+Electrical Estimating Methods by Wayne J. Del Pico (RSMeans, 4th Ed.)
+
+DEWALT Electrical Estimating Professional Reference
+
+===================
+⚙️ Electrical Machines–I
+===================
+
+Electric Machinery and Transformers by Guru & Hiziroglu
+
+Electric Machinery by A.E. Fitzgerald, Kingsley & Umans
+
+Electrical Machinery by P.S. Bimbhra
+
+===================================
+⚙️ Electrical Measurements & Instrumentation
+===================================
+
+Electrical & Electronic Measurements by A. K. Sawhney
+
+Electrical Measurements and Instrumentation by Leena N. Suranglikar (Nirali)
+
+Instrumentation and Measurement in Electrical Engineering by Roman Malaric
+
+Electrical Measuring Instruments and Measurements by S. C. Bhargava
+
+===========================
+🧩 Electronic Components & Devices
+===========================
+
+Electronic Devices and Circuits by Boylestad & Nashelsky
+
+Microelectronic Circuits by Sedra & Smith
+
+Electronic Components and Technology by Edward Boysen
+
+===============================
+🎛 Electronic Instruments & Measurement
+===============================
+
+An Introduction to Electrical Instrumentation and Measurement Systems
+
+Electronic Instrumentation by H.S. Kalsi
+
+Principles of Electronic Instrumentation by Wilson & Hawkes
+
+=========================
+📻 Electronic Media (Radio & TV)
+=========================
+
+Writing for Electronic Media by Brian Champagne
+
+Electronic Media: An Introduction by Lynne S. Gross
+
+Electronic Media and Broadcasting by Hubert Reeve
+
+Introduction to Electronic Media and Broadcasting edited by Antonio Farrell
+
+===================
+⚡ Electrotherapy–I & II
+===================
+
+Electrotherapy Explained by Melvin Perry
+
+Electrotherapy in Physical Therapy Practice by Thérèse McGee
+
+Physical Agents in Rehabilitation by Fourie & Hachmeister
+
+===============================
+👗 Elements of Design (Fashion Context)
+===============================
+
+Elements of Fashion Design by Michael J. Daley
+
+Designing Fashion Accessories by Sandra Keiser & Myrna B. Garner
+
+Elements of Dress: From Costume to Fashion by Jayne Sheridan
+
+=================
+📟 Embedded Systems
+=================
+
+Embedded Systems: A Contemporary Design Tool by James K. Peckol
+
+Embedded System Design: A Unified Hardware/Software Introduction by Frank Vahid & Tony Givargis
+
+Making Embedded Systems by Elecia White (2nd ed., 2024)
+
+Embedded Systems Fundamentals with ARM Cortex-M by Alexander G. Dean
+
+===================================
+🛠️ Engineering Drawing–I & Engineering Graphics
+===================================
+
+Engineering Drawing by French & Vierck
+
+Engineering Drawing and Graphic Technology by French, Vierck & Foster
+
+===================
+⚙️ Engineering Mechanics
+===================
+
+Engineering Mechanics: Statics & Dynamics by R.C. Hibbeler
+
+Engineering Mechanics by Ferdinand Beer & E. Russell Johnston Jr.
+
+Mechanics of Materials by Beer, Johnston, DeWolf & Mazurek
+
+==========
+🐞 Entomology
+==========
+
+The Insects: An Outline of Entomology by P.J. Gullan & P.S. Cranston
+
+Borror & Delong’s Introduction to the Study of Insects by Borror & Delong
+
+Insects: Their Natural History and Diversity by Stephen A. Marshall
+
+Imms’ General Textbook of Entomology by A.D. Imms et al. (10th ed.)
+
+========================
+🚀 Entrepreneurship Development
+========================
+
+The Lean Startup by Eric Ries
+
+Zero to One by Peter Thiel
+
+The Startup Owner’s Manual by Steve Blank & Bob Dorf
+
+=====================
+🌿 Environmental Science
+=====================
+
+Living in the Environment by Ehrlich & Kerr
+
+Environmental Science: Principles and Practice by Withgott & Laposata
+
+Fundamentals of Environmental and Pollution Science by Baird
+
+=================
+Embedded Systems
+=================
+
+Introduction to Embedded Systems — Shibu K.V.
+
+Embedded Systems: Architecture, Programming and Design — Raj Kamal
+
+Embedded System Design: A Unified Hardware/Software Introduction — Frank Vahid, Tony Givargis
+
+Embedded Systems: A Contemporary Design Tool — James K. Peckol
+
+===================================
+Engineering Drawing-I / Engineering Graphics
+===================================
+
+Engineering Drawing — N.D. Bhatt
+
+A Textbook of Engineering Drawing — K. Venugopal, V. Prabhu Raja
+
+Engineering Graphics with AutoCAD — James D. Bethune
+
+Technical Drawing with Engineering Graphics — Frederick E. Giesecke
+
+===================
+Engineering Mechanics
+===================
+
+Engineering Mechanics — S.S. Bhavikatti
+
+Engineering Mechanics: Statics and Dynamics — R.C. Hibbeler
+
+Vector Mechanics for Engineers — Ferdinand P. Beer, E. Russell Johnston Jr.
+
+Engineering Mechanics: Dynamics — J.L. Meriam, L.G. Kraige
+
+==========
+Entomology
+==========
+
+A Textbook of Entomology — T.N. Ananthakrishnan
+
+Fundamentals of Applied Entomology — Robert E. Pfadt
+
+The Insects: An Outline of Entomology — R.J. Gullan, P.S. Cranston
+
+Principles of Insect Morphology — R.E. Snodgrass
+
+========================
+Entrepreneurship Development
+========================
+
+Entrepreneurship Development — S.S. Khanka
+
+Entrepreneurship — Robert D. Hisrich, Michael P. Peters, Dean A. Shepherd
+
+Innovation and Entrepreneurship — Peter F. Drucker
+
+Essentials of Entrepreneurship and Small Business Management — Norman M. Scarborough
+
+=====================
+Environmental Science
+=====================
+
+Environmental Studies — Erach Bharucha
+
+Fundamentals of Environmental Studies — Benny Joseph
+
+Environmental Science: A Global Concern — William P. Cunningham, Mary Ann Cunningham
+
+Principles of Environmental Science — William Cunningham, Barbara Cunningham
+
+=================================
+Event Management (Tourism Context)
+=================================
+
+Event Management and Event Tourism — Donald Getz
+
+Events Management: An Introduction — Charles Bladen, James Kennell, Emma Abson, Nick Wilde
+
+Tourism: Principles and Practice — Chris Cooper, John Fletcher, Alan Fyall, David Gilbert, Stephen Wanhill
+
+==========================
+Event Marketing & Sponsorship
+==========================
+
+Event Marketing: How to Successfully Promote Events, Festivals, Conventions, and Expositions — Leonard H. Hoyle
+
+Event Sponsorship — Nigel King
+
+Experiential Marketing — Kerry Smith, Dan Hanover
+
+=============================
+Event Planning & Conceptualization
+=============================
+
+Special Events: Creating and Sustaining a New World for Celebration — Joe Goldblatt
+
+The Complete Guide to Successful Event Planning — Shannon Kilkenny
+
+Professional Event Coordination — Julia Rutherford Silvers
+
+===========================
+Event Production & Logistics
+===========================
+
+The Event Planning Toolkit — Linda Joyce Jones
+
+Event Planning: The Ultimate Guide — Judy Allen
+
+Technical Production for Live Events — Mark Johnson
+
+============================
+Event Safety & Risk Management
+============================
+
+Risk Management for Meetings and Events — Julia Rutherford Silvers
+
+Crowd Management: In the Event Industry — Peter Ashwin
+
+Health and Safety at Events — Julia Rutherford Silvers
+
+=====================
+Exercise Therapy-I
+=====================
+
+Principles and Practice of Therapeutic Exercise — Carolyn Kisner, Lynn Allen Colby
+
+Therapeutic Exercise: Foundations and Techniques — Carolyn Kisner, Lynn Allen Colby
+
+Physical Rehabilitation — Susan B. O'Sullivan, Thomas J. Schmitz
+
+=====================
+Exercise Therapy-II
+=====================
+
+Orthopaedic Physical Therapy — David J. Magee
+
+Brunnstrom's Clinical Kinesiology — Peggy A. Houglum
+
+Muscles: Testing and Function with Posture and Pain — Florence Peterson Kendall
+
+==============
+Farm Machinery
+==============
+
+Elements of Farm Machinery — Jagdishwar Sahay
+
+Principles of Farm Machinery — Roy Bainer, Edward L. Barger, Arnold O. Hauck
+
+Farm Machinery and Power — Dr. A.C. Srivastava, Dr. C.E. Gajendra Singh
+
+===============
+Fashion History
+===============
+
+Fashion: The Definitive History of Costume and Style — DK
+
+The History of Modern Fashion — Daniel James Cole, Nancy Deihl
+
+Survey of Historic Costume — Phyllis G. Tortora, Sara B. Marcketti
+
+Fashion History from the 18th to the 20th Century (Taschen)
+
+Fashion: A History from the 18th to the 20th Century — Kyoto Costume Institute
+
+====================
+Fashion Illustration
+====================
+
+Fashion Illustration: Inspiration and Technique — Anna Kiper
+
+9 Heads: A Guide to Drawing Fashion — Nancy Riegelman
+
+Fashion Illustration: Contemporary Techniques — Kevin Tallon
+
+===================
+Financial Accounting
+===================
+
+Financial Accounting — T.S. Grewal
+
+Financial Accounting — Jerry J. Weygandt, Paul D. Kimmel, Donald E. Kieso
+
+Financial Accounting for Management — N. Ramachandran, Ram Kumar Kakani
+
+===================
+Financial Management
+===================
+
+Financial Management — I.M. Pandey
+
+Financial Management: Theory and Practice — Prasanna Chandra
+
+Essentials of Financial Management — Eugene F. Brigham, Joel F. Houston
+
+===========================
+Financial Management in Hotels
+===========================
+
+Accounting and Financial Analysis in the Hospitality Industry — Jonathan Hales
+
+Managerial Accounting for the Hospitality Industry — Lea R. Dopson, David K. Hayes
+
+Hotel Finance — S.K. Singh
+
+========================
+Fine Arts and Education
+========================
+
+Art in Education — Lambert Zuidervaart
+
+The Arts and the Creation of Mind — Elliot W. Eisner
+
+Teaching Visual Culture: Curriculum, Aesthetics and the Social Life of Art — Kerry Freedman
+
+=======================================
+Finite Element Analysis / Finite Element Method
+=======================================
+
+Introduction to Finite Elements in Engineering — Tirupathi R. Chandrupatla, Ashok D. Belegundu
+
+The Finite Element Method: Its Basis and Fundamentals — Olek C. Zienkiewicz, Robert L. Taylor
+
+Concepts and Applications of Finite Element Analysis — Robert D. Cook
+
+==========
+First Aid
+==========
+
+First Aid Manual — British Red Cross, St John Ambulance, St Andrew’s First Aid
+
+First Aid Handbook — Alton L. Thygerson
+
+Emergency First Response — International First Aid Guidelines
+
+===============
+Flight Mechanics
+===============
+
+Introduction to Flight — John D. Anderson Jr.
+
+Flight Stability and Automatic Control — Robert C. Nelson
+
+Aircraft Flight — W.J. H. McLean
+
+===========
+Fluid Flow
+===========
+
+Fluid Mechanics — Frank M. White
+
+Fundamentals of Fluid Mechanics — Bruce R. Munson, Donald F. Young, Theodore H. Okiishi
+
+Fluid Mechanics and Thermodynamics of Turbomachinery — S.L. Dixon
+
+==============
+Fluid Mechanics
+==============
+
+Engineering Fluid Mechanics — K.L. Kumar
+
+Fluid Mechanics — Yunus A. Çengel, John M. Cimbala
+
+Fluid Mechanics — R.K. Bansal
+
+========================
+Fluid Mechanics & Machinery
+========================
+
+A Textbook of Fluid Mechanics and Hydraulic Machines — R.K. Bansal
+
+Hydraulics and Fluid Mechanics Including Hydraulic Machines — P.N. Modi, S.M. Seth
+
+Fluid Mechanics and Machinery — D.S. Kumar
+
+=======================
+Food & Beverage Service
+=======================
+
+Food and Beverage Service — R. Singaravelavan
+
+Food and Beverage Service — Dennis Lillicrap, John Cousins
+
+The Theory of Hospitality and Catering — David Foskett, Patricia Paskins
+
+=================
+Food Commodities
+=================
+
+Food Commodities — Bernard Davis, Andrew Lockwood
+
+Food Commodities — A. Henry, J. K. Chapman
+
+Introduction to Food Science — Rick Parker
+
+===============
+Food Production
+===============
+
+Theory of Cookery — Krishna Arora
+
+Modern Cookery for Teaching and the Trade — Thangam E. Philip
+
+Professional Cooking — Wayne Gisslen
+
+========================
+Food Safety & Hygiene
+========================
+
+Food Safety and Hygiene — Sunetra Roday
+
+Food Hygiene and Sanitation — S.R. Roday
+
+Food Safety: Theory and Practice — Paul L. Knechtges
+
+=======================
+Front Office Management
+=======================
+
+Front Office Management — S.K. Bhatnagar
+
+Hotel Front Office Management — James A. Bardi
+
+Managing Front Office Operations — Michael L. Kasavana, Richard M. Brooks
+
+=====================
+Front Office Operations
+=====================
+
+Front Office Operations — R.K. Malhotra
+
+Front Office Operations and Management — Ahmed Ismail
+
+Hotel Front Office: Operations and Management — Jatashankar R. Tewari
+
+===================================
+Fundamentals of Electrical & Electronics
+===================================
+
+Basic Electrical and Electronics Engineering — S.K. Bhattacharya
+
+Fundamentals of Electrical and Electronics Engineering — B.L. Theraja
+
+Electrical and Electronics Engineering Fundamentals — Vincent Del Toro
+
+=======================
+Fundamentals of Nursing
+=======================
+
+Fundamentals of Nursing — Patricia A. Potter, Anne Griffin Perry
+
+Fundamentals of Nursing: The Art and Science of Patient Care — Carol Taylor, Carol Lillis, Pamela Lynn
+
+Textbook of Fundamentals of Nursing — Caroline Bunker Rosdahl
+
+===========================
+Fundamentals of Soil Science
+===========================
+
+Fundamentals of Soil Science — Henry D. Foth
+
+Soil Science: An Introduction — Raymond W. Miller, Roy L. Donahue
+
+Introductory Soil Science — D.K. Das
+
+=======================
+Fundamentals of Tourism
+=======================
+
+Fundamentals of Tourism — A.K. Bhatia
+
+Tourism Principles and Practices — Cooper, Fletcher, Fyall, Gilbert, Wanhill
+
+Fundamentals of Tourism and Travel — Raj Kumar
+
+=================
+Furniture Design
+=================
+
+Furniture Design — Jim Postell
+
+Furniture Design Handbook — Rob Young
+
+Design and Make: Furniture for the 21st Century — John Makepeace
+
+===============
+Garde Manger
+===============
+
+Garde Manger: The Art and Craft of the Cold Kitchen — The Culinary Institute of America
+
+Modern Garde Manger: A Global Perspective — Robert Garlough
+
+Professional Garde Manger — Lou Sackett, Jaclyn Pestka, Wayne Gisslen
+
+=====================
+Garment Construction
+=====================
+
+Basic Pattern Making and Garment Construction — M. Mehta
+
+Garry's Garment Construction — Amandeep Kaur
+
+Patternmaking for Fashion Design — Helen Joseph Armstrong
+
+===========================
+General Anatomy & Physiology
+===========================
+
+Human Anatomy & Physiology — Elaine N. Marieb, Katja Hoehn
+
+Essentials of Human Anatomy & Physiology — Elaine N. Marieb
+
+Ross and Wilson Anatomy and Physiology in Health and Illness — Anne Waugh, Allison Grant
+
+========================
+General Medicine & Surgery
+========================
+
+Davidson's Principles and Practice of Medicine — Brian R. Walker, Nicki R. Colledge
+
+Macleod's Clinical Examination — Graham Douglas, Fiona Nicol, Colin Robertson
+
+Bailey & Love's Short Practice of Surgery — Norman S. Williams, P. Ronan O’Connell
+
+===============================
+General Physics & Radiation Physics
+===============================
+
+Concepts of Physics — H.C. Verma
+
+Fundamentals of Physics — David Halliday, Robert Resnick, Jearl Walker
+
+Introduction to Health Physics — Herman Cember, Thomas E. Johnson
+
+=======================
+Geotechnical Engineering
+=======================
+
+Principles of Geotechnical Engineering — Braja M. Das
+
+Geotechnical Engineering — C. Venkatramaiah
+
+Soil Mechanics and Foundations — B.C. Punmia, Ashok Kumar Jain, Arun Kumar Jain
+
+===================================
+Health & Nutrition for Young Children
+===================================
+
+Nutrition, Health and Safety for Young Children — Joanne Sorte, Inge Daeschel, Carolina Amador
+
+Health, Safety, and Nutrition for the Young Child — Lynn R. Marotz
+
+Child Nutrition and Health — M.S. Bamji, N.P. Rao
+
+=================================
+Health Education & Community Pharmacy
+=================================
+
+Health Education and Community Pharmacy — P. P. Sharma
+
+Health Education & Community Pharmacy — R. S. Satoskar
+
+Community Pharmacy: Symptoms, Diagnosis and Treatment — Paul Rutter
+
+=================
+Health Education
+=================
+
+Foundations for Health Promotion — Jane Wills
+
+Principles of Health Education and Promotion — Cottrell, Girvan, Seabert
+
+Introduction to Health Education — James M. Eddy
+
+=============
+Heat Transfer
+=============
+
+Heat and Mass Transfer — R.K. Rajput
+
+Fundamentals of Heat and Mass Transfer — Frank P. Incropera, David P. DeWitt
+
+Heat Transfer — J.P. Holman
+
+=================
+Helicopter Theory
+=================
+
+Principles of Helicopter Aerodynamics — J. Gordon Leishman
+
+Helicopter Performance, Stability, and Control — Raymond W. Prouty
+
+Basic Helicopter Aerodynamics — John Seddon, Simon Newman
+
+=========================
+Histopathology & Cytology
+=========================
+
+Theory and Practice of Histological Techniques — John D. Bancroft, Marilyn Gamble
+
+Histopathology Techniques and its Management — R.C. Bray, R.A. Clarke
+
+Cytology: Diagnostic Principles and Clinical Correlates — Edmund S. Cibas, Barbara S. Ducatman
+
+===============
+History of Media
+===============
+
+Media and Society — David Croteau, William Hoynes
+
+The Media and Modernity: A Social Theory of the Media — John B. Thompson
+
+A History of Media — Asa Briggs, Peter Burke
+
+============================
+Hospital and Clinical Pharmacy
+============================
+
+Hospital and Clinical Pharmacy — Siddiqui & Sharma
+
+Textbook of Hospital and Clinical Pharmacy — P. Suresh, R. Sarasija
+
+Clinical Pharmacy and Therapeutics — Roger Walker, Cate Whittlesea
+
+======================
+Hospitality Management
+======================
+
+Hospitality Management: An Introduction — Tim Knowles
+
+Hotel Management and Operations — Michael J. O'Fallon, Denney G. Rutherford
+
+Introduction to Hospitality Management — John R. Walker
+
+===========
+Hot Kitchen
+===========
+
+Professional Cooking — Wayne Gisslen
+
+Theory of Cookery — Krishna Arora
+
+Modern Cookery for Teaching and the Trade — Thangam E. Philip
+
+=================
+Hotel Accountancy
+=================
+
+Hotel Accounting — Jagmohan Negi
+
+Hotel Accountancy and Financial Control — Ozi J. D'Cunha, G. Lesley Jacob
+
+Accounting for Hospitality Industry — Raymond S. Schmidgall
+
+=================
+Hotel Engineering
+=================
+
+Hotel Engineering — Sujit Ghosal
+
+Hotel Engineering — Tarun Bansal
+
+Facility Management for Hospitality Industry — David M. Stipanuk
+
+=====================
+Housekeeping Operations
+=====================
+
+Hotel Housekeeping: Operations and Management — G.Raghubalan, Smritee Raghubalan
+
+Professional Housekeeping — Madhavi Sethi
+
+Managing Housekeeping Operations — Aleta A. Nitschke, Margaret M. Kappa
+
+===========================
+Human Anatomy & Physiology
+===========================
+
+Human Anatomy & Physiology — Elaine N. Marieb, Katja Hoehn
+
+Ross and Wilson Anatomy and Physiology in Health and Illness — Anne Waugh, Allison Grant
+
+Essentials of Human Anatomy and Physiology — Elaine N. Marieb
+
+=======================
+Human Resource Management
+=======================
+
+Human Resource Management — Gary Dessler
+
+Human Resource Management — K. Aswathappa
+
+Human Resource Management — V.S.P. Rao
+
+=============================
+Human Resource Management in Tourism
+=============================
+
+Human Resource Management in the Hospitality and Tourism Industry — Michael J. Boella, Steven Goss-Turner
+
+Human Resource Management for the Hospitality and Tourism Industries — Dennis Nickson
+
+Managing People in the Hospitality Industry — Michael Riley
+
+===========
+Hydraulics
+===========
+
+Hydraulics and Fluid Mechanics Including Hydraulics Machines — P.N. Modi, S.M. Seth
+
+Hydraulics and Fluid Mechanics — R.K. Rajput
+
+A Textbook of Hydraulics, Fluid Mechanics and Hydraulic Machines — R.S. Khurmi
+
+=====================
+Hydraulics & Pneumatics
+=====================
+
+Hydraulics and Pneumatics — Andrew Parr
+
+Industrial Hydraulics and Pneumatics — Majumdar S.R.
+
+Introduction to Hydraulics and Pneumatics — Ilango Sivasubramaniam, V. Soundararajan
+
+===================
+Hygiene & Sanitation
+===================
+
+Food Hygiene and Sanitation — S.R. Roday
+
+Textbook of Food Hygiene and Sanitation — R.C. Aggarwal
+
+Introduction to Food Safety and Sanitation — David McSwane
+
+==============
+IT in Retail
+==============
+
+Retail Information Systems Based on SAP Products — Jörg Becker, Wolfgang Uhr, Oliver Vering
+
+Information Technology for Retail — Girdhar Joshi
+
+Retail Management and Information Technology — S.M. Ali
+
+=======================
+Indirect Taxation (GST)
+=======================
+
+GST Manual — R.K. Jain
+
+Indirect Taxes: GST and Other Indirect Taxes — V.S. Datey
+
+Students’ Guide to Indirect Tax Laws — Vineet Sodhani, Keshav R. Garg
+
+=============================
+Industrial Electronics & Control
+=============================
+
+Industrial Electronics — J.S. Katre
+
+Industrial Electronics and Control — S.K. Bhattacharya
+
+Industrial Electronics — T.J. Maloney
+
+====================
+Industrial Management
+====================
+
+Industrial Engineering and Management — O.P. Khanna
+
+Industrial Management — E.S. Buffa
+
+Production and Operations Management — S.N. Chary
+
+============================
+Industrial Training / Internship
+============================
+
+Industrial Training Report Guidelines — Dr. V. Jayakumar
+
+The Successful Internship: Personal, Professional, and Civic Development — H. Frederick Sweitzer, Mary A. King
+
+Internship Manual for Hospitality, Tourism and Event Management Students — Lynn Van Der Wagen
+
+====================
+International Cuisines
+====================
+
+International Cuisine — Jeremy MacVeigh
+
+Professional Cooking for Canadian Chefs — Wayne Gisslen
+
+The Professional Chef — The Culinary Institute of America
+
+==========================
+Internship (Tourism Context)
+==========================
+
+Internship Manual for Hospitality, Tourism and Event Management Students — Lynn Van Der Wagen
+
+Tourism Principles and Practice — Chris Cooper et al.
+
+The Internship Bible — Mark Oldman
+
+================================================================
+Internship (including nursing education, research, professional trends, and administration)
+================================================================
+
+Nursing Research and Statistics — P. R. Ashalatha, Deepa G.
+
+Essentials of Nursing Administration — Basavanthappa B.T.
+
+Professional Trends and Adjustment in Nursing — Elizabeth Christopher
+
+============================
+Internship / Practical Teaching
+============================
+
+Essentials of Teaching and Learning — M. Leask, N. Pachler
+
+The Skillful Teacher — Stephen D. Brookfield
+
+A Handbook for Student Teachers — Val Brooks, Ian Abbott
+
+=================================
+Introduction to Communication & Media
+=================================
+
+Mass Communication in India — Keval J. Kumar
+
+Introduction to Communication Studies — John Fiske
+
+Media and Communication — Paddy Scannell
+
+========================================
+Introduction to Design Software (Adobe Photoshop, Illustrator)
+========================================
+
+Adobe Photoshop Classroom in a Book — Conrad Chavez, Andrew Faulkner
+
+Adobe Illustrator Classroom in a Book — Brian Wood
+
+Photoshop for Designers — John Foster
+
+=====================
+Introduction to Events
+=====================
+
+Events Management: An Introduction — Charles Bladen, James Kennell
+
+Introduction to the Event Planning Industry — Shannon Kilkenny
+
+Special Events: Creating and Sustaining a New World of Celebration — Joe Goldblatt
+
+====================================
+Introduction to IT (excluding programming languages)
+====================================
+
+Fundamentals of Information Technology — Alexis Leon, Mathews Leon
+
+Introduction to Information Technology — V. Rajaraman
+
+Information Technology: Principles and Applications — P.K. Sinha
+
+=======================
+Introduction to Retailing
+=======================
+
+Retail Management: A Strategic Approach — Barry R. Berman, Joel R. Evans
+
+Retailing Management — Michael Levy, Barton Weitz
+
+Retail Management — Chetan Bajaj, Rajnish Tuli, Nidhi Srivastava
+
+======================
+Irrigation Engineering
+======================
+
+Irrigation Engineering and Hydraulic Structures — S.K. Garg
+
+Irrigation Engineering — R.K. Sharma, T.K. Sharma
+
+Irrigation, Water Resources and Water Power Engineering — P.N. Modi
+
+=================
+Kitchen Management
+=================
+
+Kitchen Management — Parvinder S. Bali
+
+The Theory of Catering — Ronald Kinton, Victor Ceserani
+
+Professional Kitchen Management — David D. Allen
+
+=======================
+Lab Management & Ethics
+=======================
+
+Laboratory Management — D. M. Vandepitte
+
+Laboratory Management and Clinical Ethics — Dr. R. D. Lele
+
+Medical Laboratory Management and Supervision — Lionel A. Varnadoe Jr.
+
+==============================================
+Larousse Gastronomique (Comprehensive Culinary Encyclopedia)
+==============================================
+
+Larousse Gastronomique — Prosper Montagné (Edited by Librairie Larousse)
+
+Larousse Gastronomique: The World's Greatest Culinary Encyclopedia — Joël Robuchon (Editor-in-Chief)
+
+The New Larousse Gastronomique — Hamlyn
+
+==============
+Layout Design
+==============
+
+Facility Planning — James A. Tompkins, John A. White
+
+Plant Layout and Material Handling — James M. Apple
+
+Facilities Design — Sunderesh Heragu
+
+====================
+Leadership and Change
+====================
+
+Leading Change — John P. Kotter
+
+Leadership in Organizations — Gary Yukl
+
+Leadership and Change Management — Annabel Beerel
+
+===============
+Lighting Design
+===============
+
+Stage Lighting Design — Neil Fraser
+
+Theatrical Design and Production — J. Michael Gillette
+
+Lighting for Interior Design — Malcolm Innes
+
+========
+Lighting
+========
+
+Lighting for Interior Design — Malcolm Innes
+
+Stage Lighting Handbook — Francis Reid
+
+The Architecture of Light — Sage Russell
+
+=======================
+Linear Integrated Circuits
+=======================
+
+Linear Integrated Circuits — D. Roy Choudhury, Shail B. Jain
+
+Op-Amps and Linear Integrated Circuits — Ramakant A. Gayakwad
+
+Linear Integrated Circuits — J.B. Gupta
+
+===================
+Living Language Series
+===================
+
+Living Language: French Complete Edition — Living Language
+
+Living Language: Spanish Complete Edition — Living Language
+
+Living Language: Japanese Complete Edition — Living Language
+
+===============
+Machine Design
+===============
+
+Design of Machine Elements — V.B. Bhandari
+
+Machine Design — R.S. Khurmi, J.K. Gupta
+
+Mechanical Engineering Design — Joseph E. Shigley
+
+===============
+Machine Drawing
+===============
+
+Machine Drawing — K.L. Narayana, P. Kannaiah
+
+A Textbook of Machine Drawing — R.K. Dhawan
+
+Machine Drawing — N.D. Bhatt
+
+=============
+Macroeconomics
+=============
+
+Macroeconomics — N. Gregory Mankiw
+
+Macroeconomics: Theory and Policy — D.N. Dwivedi
+
+Macroeconomics — Olivier Blanchard
+
+=======================
+Manufacturing Processes-I
+=======================
+
+Manufacturing Processes — H.N. Gupta, R.C. Gupta, Arun Mittal
+
+Production Technology — R.K. Jain
+
+Manufacturing Science — Amitabha Ghosh, Ashok Kumar Malik
+
+========================
+Manufacturing Processes-II
+========================
+
+Manufacturing Processes — Rajender Singh
+
+Technology of Machine Tools — Steve F. Krar, Arthur R. Gill
+
+Production and Operations Management — P. Rama Murthy
+
+==========
+Marketing
+==========
+
+Principles of Marketing — Philip Kotler, Gary Armstrong
+
+Marketing Management — Rajan Saxena
+
+Marketing: An Introduction — Gary Armstrong, Philip Kotler
+
+===================
+Marketing Management
+===================
+
+Marketing Management — Philip Kotler, Kevin Lane Keller, Rajan Saxena
+
+Strategic Marketing Management — Alexander Chernev
+
+=================
+Mass Transfer-I
+=================
+
+Mass Transfer Operations — Robert E. Treybal
+
+Chemical Engineering Vol. 1 — J.M. Coulson, J.F. Richardson
+
+Introduction to Chemical Engineering — Badger & Banchero
+
+==================
+Mass Transfer-II
+==================
+
+Mass Transfer — K.A. Gavhane
+
+Separation Process Principles — J.D. Seader, Ernest J. Henley
+
+Chemical Engineering Design — Sinnott, Towler
+
+=================
+Material Science
+=================
+
+Material Science and Engineering — William D. Callister
+
+Material Science — R.S. Khurmi, R.S. Sedha
+
+Engineering Materials and Metallurgy — R.K. Rajput
+
+====================================
+Mathematics Education for the Primary
+====================================
+
+Teaching Mathematics in Primary Schools — D. Reynolds, M. Wheatley
+
+Mathematics Explained for Primary Teachers — Derek Haylock
+
+Primary Mathematics: Teaching for Understanding — Penelope Serow, Rosemary Callingham
+
+==================
+Mechanical Operations
+==================
+
+Unit Operations of Chemical Engineering — Warren L. McCabe, Julian Smith, Peter Harriott
+
+Mechanical Operations — K.A. Gavhane
+
+Introduction to Chemical Engineering — S.K. Ghosal
+
+===================
+Media Laws & Ethics
+===================
+
+Mass Media Laws and Regulations in India — Kiran Prasad
+
+Media Ethics: Truth, Fairness, and Objectivity — Paranjoy Guha Thakurta
+
+Mass Communication: Principles and Concepts — Seema Hasan
+
+=================
+Media Management
+=================
+
+Media Management in the Age of Giants — Dennis F. Herrick
+
+Media Management — C. R. Hardy
+
+Strategic Media Decisions — Susan Tyler Eastman, Douglas A. Ferguson
+
+===========================
+Medical Ethics & Patient Care
+===========================
+
+Medical Ethics and Law — Dominic Wilkinson, Jonathan Herring
+
+Patient Care Standards — Joint Commission
+
+Clinical Ethics — Albert R. Jonsen, Mark Siegler, William J. Winslade
+
+=============================
+Medical-Surgical Nursing I & II
+=============================
+
+Brunner & Suddarth's Textbook of Medical-Surgical Nursing — Janice L. Hinkle, Kerry H. Cheever
+
+Medical-Surgical Nursing — Joyce M. Black, Jane Hokanson Hawks
+
+Textbook of Medical Surgical Nursing — P.D. Sharma
+
+========
+Medicine
+========
+
+Davidson’s Principles and Practice of Medicine — Brian R. Walker, Nicki R. Colledge
+
+Kumar and Clark’s Clinical Medicine — Parveen Kumar, Michael Clark
+
+Harrison's Principles of Internal Medicine — Dennis L. Kasper et al.
+
+=================================
+Mental Health & Psychiatric Nursing
+=================================
+
+Psychiatric Mental Health Nursing — Sheila L. Videbeck
+
+Essentials of Mental Health Nursing — Mary C. Townsend
+
+Psychiatric Nursing — K. Nirupa
+
+=======================
+Menu Planning & Costing
+=======================
+
+Menu Planning — Marian C. Gagliardi
+
+Food and Beverage Cost Control — Lea R. Dopson, David K. Hayes
+
+Foundations of Menu Planning — Daniel Traster
+
+=============
+Merchandising
+=============
+
+Merchandising: Theory, Principles, and Practice — Grace I. Kunz
+
+Retail Buying and Merchandising — Rosemary Varley
+
+Visual Merchandising and Display — Martin M. Pegler
+
+=========================
+Metrology & Instrumentation
+=========================
+
+Engineering Metrology and Measurements — R.K. Jain
+
+A Textbook of Engineering Metrology — I.C. Gupta
+
+Instrumentation and Control Systems — William Bolton
+
+=============
+Microbiology
+=============
+
+Microbiology: An Introduction — Gerard J. Tortora, Berdell R. Funke, Christine L. Case
+
+Prescott's Microbiology — Joanne Willey, Linda Sherwood, Christopher Woolverton
+
+Textbook of Microbiology — C.P. Baveja
+
+==============
+Microeconomics
+==============
+
+Microeconomics — Robert S. Pindyck, Daniel L. Rubinfeld
+
+Microeconomics — N. Gregory Mankiw
+
+Modern Microeconomics: Theory and Applications — A. Koutsoyiannis
+
+=============
+Microprocessors
+=============
+
+Microprocessor Architecture, Programming and Applications with the 8085 — Ramesh S. Gaonkar
+
+Advanced Microprocessors and Peripherals — K.M. Bhurchandi, A.K. Ray
+
+The 8086 Microprocessor — Kenneth J. Ayala
+
+=========================
+Microprocessors & Interfacing
+=========================
+
+Microprocessors and Interfacing — Douglas V. Hall
+
+Microprocessor Systems: The 8086/8088 Family — Liu Gibson
+
+Introduction to Microprocessors — Aditya P. Mathur
+
+===========================
+Microwave & Radar Engineering
+===========================
+
+Microwave Engineering — David M. Pozar
+
+Microwave and Radar Engineering — M. Kulkarni
+
+Elements of Microwave Engineering — R. Chattopadhyay
+
+==============================
+Midwifery & Gynaecological Nursing
+==============================
+
+Midwifery and Obstetrical Nursing — D.C. Dutta
+
+Essentials of Midwifery and Obstetrical Nursing — Jaypee Brothers
+
+Myles Textbook for Midwives — Diane Fraser, Margaret A. Cooper
+
+===========================
+Mobile Application Development
+===========================
+
+Professional Android — Reto Meier
+
+Beginning Android Programming — Jerome DiMarzio
+
+Android Programming: The Big Nerd Ranch Guide — Bill Phillips, Chris Stewart
+
+====================
+Mobile Communication
+====================
+
+Wireless Communications and Networks — William Stallings
+
+Mobile Communications — Jochen Schiller
+
+Principles of Mobile Communication — Gordon L. Stüber
+
+=========================
+Modern Vehicle Technology
+=========================
+
+Modern Electric, Hybrid Electric, and Fuel Cell Vehicles — Mehrdad Ehsani
+
+Automobile Engineering — Kirpal Singh
+
+Automotive Technology: A Systems Approach — Jack Erjavec, Rob Thompson
+
+=============
+Musculoskeletal
+=============
+
+Orthopaedic Physical Assessment — David J. Magee
+
+Muscles: Testing and Function with Posture and Pain — Florence Peterson Kendall
+
+Orthopaedics and Trauma — Ronald McRae, Max Esser
+
+=======================
+National Electrical Code (NEC)
+=======================
+
+National Electrical Code (NEC) 2023 Handbook by National Fire Protection Association (NFPA)
+
+Illustrated Guide to the National Electrical Code by Charles R. Miller
+
+Ugly’s Electrical References by Charles R. Miller
+
+===============
+Network Security
+===============
+
+Cryptography and Network Security by William Stallings
+
+Network Security Essentials: Applications and Standards by William Stallings
+
+Computer Security: Principles and Practice by William Stallings, Lawrie Brown
+
+============
+Network Theory
+============
+
+Network Analysis by M.E. Van Valkenburg
+
+Network Theory: Analysis and Synthesis by Smarajit Ghosh
+
+Electric Circuits and Network Analysis by K.S. Suresh Kumar
+
+===========
+Neurological
+===========
+
+Textbook of Clinical Neurology by David Greenberg, Michael Aminoff, Roger Simon
+
+Adams and Victor's Principles of Neurology by Allan H. Ropper, Martin A. Samuels
+
+Manual of Neurological Therapeutics by Martin A. Samuels, Allan H. Ropper
+
+===============
+Nursing Education
+===============
+
+Nursing Education: Principles and Practice by R. G. Sharma
+
+Essentials of Nursing Education by T. K. Indrani
+
+Foundations of Nursing Education by B.T. Basavanthappa
+
+===================================
+Object-Oriented Programming (OOPs) using C++
+===================================
+
+Object-Oriented Programming with C++ — E. Balagurusamy
+
+The C++ Programming Language — Bjarne Stroustrup
+
+Object-Oriented Programming in C++ — Robert Lafore
+
+=========================
+Ocular Anatomy & Physiology
+=========================
+
+Anatomy and Physiology of the Eye — A.K. Khurana
+
+Clinical Anatomy of the Visual System — Lee Ann Remington
+
+Essentials of Anatomy and Physiology of Eye — Samar K. Basak
+
+=====
+Oil:
+=====
+
+Petroleum Refining: Technology and Economics — James H. Gary, Glenn E. Handwerk
+
+Elements of Petroleum Geology — Richard C. Selley
+
+Oil and Gas Production Handbook — Havard Devold
+
+================
+Operating Systems
+================
+
+Operating System Concepts — Abraham Silberschatz, Peter B. Galvin, Greg Gagne
+
+Modern Operating Systems — Andrew S. Tanenbaum
+
+Operating Systems: Internals and Design Principles — William Stallings
+
+=================
+Operations Research
+=================
+
+Operations Research: An Introduction — Hamdy A. Taha
+
+Introduction to Operations Research — Frederick S. Hillier, Gerald J. Lieberman
+
+Operations Research — Kanti Swarup, P.K. Gupta, Man Mohan
+
+=====================
+Ophthalmic Instruments
+=====================
+
+Clinical Optics and Refraction: A Guide for Optometrists, Contact Lens Opticians and Dispensing Opticians — Andrew Keirl, Caroline Christie
+
+Manual of Ophthalmic Instruments — Anthony J. Bron
+
+Ophthalmic Instruments and Techniques — Garg
+
+=================
+Ophthalmic Optics
+=================
+
+Clinical Optics — Andrew R. Elkington, Helena J. Frank, Michael J. Greaney
+
+Ophthalmic Lenses and Dispensing — Mo Jalie
+
+Textbook of Ophthalmic Optics — Lakshmi S. Kalyani
+
+=======================
+Optical Fiber Communication
+=======================
+
+Optical Fiber Communications — Gerd Keiser
+
+Fiber-Optic Communication Systems — Govind P. Agrawal
+
+Introduction to Fiber Optics — Ajoy Ghatak, K. Thyagarajan
+
+=========================
+Orthopedics & Traumatology
+=========================
+
+Apley's System of Orthopaedics and Fractures — Louis Solomon, David Warwick, Selvadurai Nayagam
+
+Essentials of Orthopaedics — Maheshwari J.
+
+Textbook of Orthopaedics and Trauma — G.S. Kulkarni
+
+==============
+PLC & SCADA
+==============
+
+Programmable Logic Controllers — Frank D. Petruzella
+
+Industrial Automation: Hands On — Frank Lamb
+
+SCADA: Supervisory Control and Data Acquisition — Stuart A. Boyer
+
+===============
+Packaging Design
+===============
+
+Packaging Design: Successful Product Branding from Concept to Shelf — Marianne R. Klimchuk, Sandra A. Krasovec
+
+The Package Design Book — Pentawards
+
+Structural Packaging: Design Your Own Boxes and 3D Forms — Paul Jackson
+
+=============================
+Painting (Watercolor, Oil, Acrylic)
+=============================
+
+The Watercolor Book — David Dewey
+
+Oil Painting Techniques and Materials — Harold Speed
+
+Acrylic Painting Mediums and Methods — Rheni Tauchid
+
+=============================
+Parent & Community Involvement
+=============================
+
+Beyond the Bake Sale: The Essential Guide to Family-School Partnerships — Anne T. Henderson
+
+Engaging Families in Schools — Nicola S. Morgan
+
+Building Parent Engagement in Schools — Larry Ferlazzo
+
+=======================
+Pathology & Microbiology
+=======================
+
+Robbins and Cotran Pathologic Basis of Disease — Vinay Kumar, Abul K. Abbas, Jon C. Aster
+
+Prescott's Microbiology — Joanne M. Willey, Linda M. Sherwood
+
+Medical Microbiology — Murray, Rosenthal, Pfaller
+
+=================================
+Pattern Making & Garment Construction
+=================================
+
+Patternmaking for Fashion Design — Helen Joseph-Armstrong
+
+The Art of Fashion Draping — Connie Amaden-Crawford
+
+Garment Construction — Peg Couch
+
+=========================
+Pedagogy of English Language
+=========================
+
+Teaching by Principles — H. Douglas Brown
+
+Language Teaching: A Scheme for Teacher Education — Tricia Hedge
+
+How to Teach English — Jeremy Harmer
+
+===========================
+Pedagogy of a Second Language
+===========================
+
+Principles of Language Learning and Teaching — H. Douglas Brown
+
+Techniques and Principles in Language Teaching — Diane Larsen-Freeman
+
+========================
+Practical Farm Training
+========================
+
+A Textbook of Practical Agricultural Training — R.C. Agrawal
+
+Practical Manual on Production Technology of Field Crops — S.S. Singh
+
+Experiential Learning in Agriculture — A.K. Singh
+
+=====================================
+Pre-production (Storyboarding, Character Design)
+=====================================
+
+Directing the Story — Francis Glebas
+
+Character Design Quarterly (series) — 3dtotal Publishing
+
+Creating Characters with Personality — Tom Bancroft
+
+=======================
+Principles of Accounting
+=======================
+
+Accounting Principles — Jerry J. Weygandt, Paul D. Kimmel
+
+Financial Accounting: An Introduction — Pauline Weetman
+
+Fundamentals of Financial Accounting — Fred Phillips, Robert Libby
+
+=====================
+Principles of Agronomy
+=====================
+
+Principles of Agronomy — T.Y. Reddy, G.H.S. Reddi
+
+Fundamentals of Agronomy — Arun Katyayan
+
+Introductory Agronomy — S.R. Reddy
+
+=====================
+Principles of Management
+=====================
+
+Principles of Management — Harold Koontz, Heinz Weihrich
+
+Essentials of Management — Stephen P. Robbins
+
+Principles and Practices of Management — L.M. Prasad
+
+=======================
+Print Journalism & Reporting
+=======================
+
+Reporting for the Media — John R. Bender, Lucinda Davenport
+
+News Writing and Reporting — James Glen Stovall
+
+Journalism in the Digital Age — John Herbert
+
+===========
+Printmaking
+===========
+
+The Complete Printmaker — John Ross, Clare Romano
+
+Printmaking: A Contemporary Perspective — Paul Coldwell
+
+Printmaking: A Complete Guide to Materials & Processes — Beth Grabowski
+
+==============
+Process Control
+==============
+
+Process Dynamics and Control — Dale E. Seborg, Thomas F. Edgar
+
+Process Control: Modeling, Design and Simulation — B. Wayne Bequette
+
+Chemical Process Control — George Stephanopoulos
+
+=====================
+Process Equipment Design
+=====================
+
+Process Equipment Design — M.V. Joshi, V.V. Mahajani
+
+Chemical Process Equipment: Selection and Design — James R. Couper
+
+Mechanical Design of Process Systems — Rudolph J. Bernard
+
+======================
+Process Instrumentation
+======================
+
+Process Control Instrumentation Technology — Curtis D. Johnson
+
+Principles of Industrial Instrumentation — D. Patranabis
+
+Instrumentation and Control Systems — William Bolton
+
+=========================
+Process Modeling & Simulation
+=========================
+
+Chemical Process Simulation — Thomas W. Weber
+
+Chemical Process Design and Integration — Robin Smith
+
+Process Modeling and Simulation for Chemical Engineers — Simant Ranjan Upreti
+
+===============================
+Professional Trends & Administration
+===============================
+
+Professional Trends in Nursing — Elizabeth Green
+
+Nursing Administration and Management — K. Madhavi
+
+Management of Nursing Services and Education — I. Clement
+
+==================================================
+Professional Guides and Articles from Tax Consultants or Accounting Firms
+==================================================
+
+EY Global Tax Guides
+
+PwC Tax and Legal Insights
+
+Deloitte Taxation Library
+
+===============================
+Project & Internship (Events/Tourism)
+===============================
+
+Events Management: A Developmental and Managerial Approach — Razaq Raj, Paul Walters
+
+Internship Manual for Tourism and Event Management — Lynn Van der Wagen
+
+The Internship Bible — Mark Oldman
+
+============================
+Project Management (Introductory)
+============================
+
+Project Management: A Systems Approach — Harold Kerzner
+
+Project Management for Dummies — Stanley E. Portny
+
+A Guide to the Project Management Body of Knowledge (PMBOK Guide) — PMI
+
+============
+Project Work
+============
+
+The Craft of Research — Wayne C. Booth, Gregory G. Colomb
+
+Doing Your Research Project — Judith Bell
+
+Research Methodology — C.R. Kothari
+
+=================================
+Project/Internship (Media/Communication)
+=================================
+
+Producing and Directing the Short Film and Video — David K. Irving
+
+Writing for Visual Media — Anthony Friedmann
+
+Media Production: A Practical Guide to Radio, TV and Film — Amanda Willett
+
+=============
+Propulsion-I
+=============
+
+Mechanics and Thermodynamics of Propulsion — Philip G. Hill, Carl R. Peterson
+
+Introduction to Flight — John D. Anderson
+
+Fundamentals of Jet Propulsion with Power Generation Applications — Ronald D. Flack
+
+==============
+Propulsion-II
+==============
+
+Aircraft Propulsion — Saeed Farokhi
+
+Gas Turbine Theory — H.I.H. Saravanamuttoo
+
+Rocket Propulsion Elements — George P. Sutton
+
+==========
+Psychology
+==========
+
+Psychology — David G. Myers
+
+Introduction to Psychology — James W. Kalat
+
+Understanding Psychology — Charles G. Morris
+
+===========================
+Public Relations & Advertising
+===========================
+
+Advertising and Promotion: An Integrated Marketing Communications Perspective — George E. Belch, Michael A. Belch
+
+Effective Public Relations — Scott M. Cutlip, Glen M. Broom
+
+Public Relations Writing and Media Techniques — Dennis L. Wilcox
+
+==========================
+Public Relations (Events Context)
+==========================
+
+Public Relations for Events — Shannon Kilkenny
+
+Event Planning Ethics and Etiquette — Judy Allen
+
+Event Marketing and Public Relations — Joe Goldblatt
+
+================
+Public Relations
+================
+
+Public Relations: Strategies and Tactics — Dennis L. Wilcox, Glen T. Cameron
+
+Cutlip and Center’s Effective Public Relations — Glen M. Broom, Bey-Ling Sha
+
+The Practice of Public Relations — Fraser P. Seitel
+
+============================
+Quantity Surveying & Costing
+============================
+
+Estimating and Costing in Civil Engineering — B.N. Dutta
+
+Quantity Surveying — P.L. Bhasin
+
+Construction Estimating and Costing — G.S. Birdie
+
+========
+Radio:
+========
+
+Radio Production — Robert McLeish
+
+Sound Reporting: The NPR Guide to Audio Journalism and Production — Jonathan Kern
+
+Broadcast Announcing News — Lewis B. O'Donnell, Carl R. Hausman, Frank J. Gladney
+
+=====================================
+Radiographic Photography & Darkroom Techniques
+=====================================
+
+Merrill's Atlas of Radiographic Positions and Radiologic Procedures — Eugene D. Frank, Bruce W. Long, Barbara J. Smith
+
+Radiographic Imaging and Exposure — Robert S. Bellinger
+
+Darkroom Handbook — Michael Langford
+
+=============================
+Refrigeration & Air Conditioning
+=============================
+
+Refrigeration and Air Conditioning — C.P. Arora
+
+Principles of Refrigeration and Air Conditioning — Roy J. Dossat
+
+Refrigeration and Air Conditioning Technology — William C. Whitman, Bill Johnson, John Tomczyck
+
+=============
+Rehabilitation
+=============
+
+Physical Rehabilitation — Susan B. O'Sullivan, Thomas J. Schmitz
+
+Neurological Rehabilitation — Darcy Ann Umphred
+
+Rehabilitation of the Physically Disabled Adult — John L. Melvin
+
+========================
+Renewable Energy Sources:
+========================
+
+Renewable Energy Resources — John Twidell, Tony Weir
+
+Non-Conventional Energy Sources — G.D. Rai
+
+Renewable Energy: Power for a Sustainable Future — Godfrey Boyle
+
+==========
+Research:
+==========
+
+Research Methodology: Methods and Techniques — C.R. Kothari
+
+The Craft of Research — Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams
+
+Doing Your Research Project — Judith Bell
+
+=================
+Retail Operations
+=================
+
+Retail Management: A Strategic Approach — Barry R. Berman, Joel R. Evans
+
+Retail Operations Management — Rahul Singh
+
+Retail Store Operations — Bonnie D. Popovich, Peter J. Popovich
+
+=====================
+Retail Selling Skills
+=====================
+
+The Art of Selling — Zig Ziglar
+
+Sell or Be Sold: How to Get Your Way in Business and in Life — Grant Cardone
+
+Retail Selling Made Easy — Peter J. Popovich
+
+=========
+Rigging:
+=========
+
+Stage Rigging Handbook — Jay O. Glerum
+
+The Rigger's Apprentice — Brion Toss
+
+Basic Stage Lighting and Rigging — Mark Jonathan
+
+======================
+Robotics & Automation:
+======================
+
+Robotics: Control, Sensing, Vision, and Intelligence — K.S. Fu, R.C. Gonzalez, C.S.G. Lee
+
+Introduction to Robotics: Mechanics and Control — John J. Craig
+
+Robot Dynamics and Control — Mark W. Spong, M. Vidyasagar
+
+============================
+School Health and Education
+============================
+
+School Health Education — Glen G. Gilbert, Robin G. Sawyer
+
+Health Education in Schools — Jackie Green, Keith Tones
+
+Comprehensive School Health Education — David Anspaugh, Gene Ezell
+
+==================
+School Organization
+==================
+
+School Organization and Administration — T. P. Lama
+
+Educational Administration, Planning and Supervision — T. P. Lama
+
+School Management — R. Ahuja
+
+========
+Serology
+========
+
+Textbook of Immunology and Serology — Rakesh K. Parashar
+
+Essentials of Immunology and Serology — Jacqueline Stanley
+
+Immunology & Serology in Laboratory Medicine — Mary Louise Turgeon
+
+===========
+Showreel.tv
+===========
+
+(No specific textbooks—use digital portfolio books instead)
+
+Show Your Work! — Austin Kleon
+
+Designing a Digital Portfolio — Cynthia Baron
+
+Create Your Own Digital Portfolio — Philippa Kelly
+
+=======================
+Sociology & Psychology
+=======================
+
+Sociology — Anthony Giddens
+
+Introduction to Psychology — James W. Kalat
+
+Psychology and Sociology for Nurses — Benny Goodman
+
+========
+Sociology
+========
+
+Sociology: Themes and Perspectives — Haralambos and Holborn
+
+Introduction to Sociology — Anthony Giddens
+
+Sociology — John J. Macionis
+
+=================
+Software Engineering
+=================
+
+Software Engineering — Ian Sommerville
+
+Software Engineering: A Practitioner's Approach — Roger S. Pressman
+
+Fundamentals of Software Engineering — Carlo Ghezzi
+
+=============
+Space Planning
+=============
+
+Space Planning Basics — Mark Karlen, Rob Fleming
+
+Time-Saver Standards for Interior Design and Space Planning — Joseph DeChiara
+
+Interior Design Illustrated — Francis D.K. Ching
+
+=================================
+Special Procedures & Contrast Media
+=================================
+
+Introduction to Radiologic and Imaging Sciences and Patient Care — Arlene M. Adler, Richard R. Carlton
+
+Textbook of Contrast Media — G.S. Mehta
+
+Special Procedures in Diagnostic Radiology — Debasis Basu
+
+========================
+Special Purpose Vehicles
+========================
+
+Special Purpose Vehicles: Law, Finance and Regulation — Jan Job de Vries Robbé
+
+Vehicle Body Layout and Analysis — John Fenton
+
+Vehicle Dynamics and Control — Rajesh Rajamani
+
+=====================
+Store Layout & Design
+=====================
+
+Retail Store Layout and Design — Robert J. Kwortnik
+
+Store Design and Visual Merchandising — Claus Ebster, Marion Garaus
+
+Retail Design — Ann Petermans, Anthony Kent
+
+============
+Storyboarding
+============
+
+Directing the Story — Francis Glebas
+
+Storyboarding Essentials — David Harland Rousseau, Benjamin Reid Phillips
+
+The Art of the Storyboard — John Hart
+
+===================
+Strength of Materials
+===================
+
+Strength of Materials — R.K. Rajput
+
+Strength of Materials — S.S. Rattan
+
+Mechanics of Materials — Ferdinand P. Beer, E. Russell Johnston
+
+==================
+Structural Mechanics
+==================
+
+Structural Analysis — R.C. Hibbeler
+
+Advanced Mechanics of Materials and Applied Elasticity — Ansel C. Ugural
+
+Basic Structural Analysis — C.S. Reddy
+
+===========================
+Supply Chain Management in Retail
+===========================
+
+Logistics and Supply Chain Management — Martin Christopher
+
+Retail Supply Chain Management — Narendra Agrawal, Stephen A. Smith
+
+Supply Chain Management — Sunil Chopra, Peter Meindl
+
+===================
+Surface Ornamentation
+===================
+
+Surface Design for Fabric — Kimberly Irwin
+
+Surface Design for Textiles — Richard M. Proctor, Jennifer F. Lew
+
+Textile Surface Design — Lucille Day
+
+========
+Surgery
+========
+
+Bailey & Love’s Short Practice of Surgery — Norman S. Williams
+
+Sabiston Textbook of Surgery — Courtney M. Townsend
+
+SRB's Manual of Surgery — Bhat M.S.
+
+============
+Surveying-I
+============
+
+Surveying Vol. 1 — B.C. Punmia, Ashok Jain
+
+Textbook of Surveying — S.K. Duggal
+
+Elementary Surveying — Charles D. Ghilani
+
+=============
+Surveying-II
+=============
+
+Surveying Vol. 2 — B.C. Punmia, Ashok Jain
+
+Advanced Surveying — Satheesh Gopi
+
+Higher Surveying — A.M. Chandra
+
+=====================
+Switchgear & Protection
+=====================
+
+Switchgear and Protection — J.B. Gupta
+
+Protection and Switchgear — Bhavesh Bhalja, R.P. Maheshwari
+
+Electrical Power Systems — C.L. Wadhwa
+
+===========================
+System & Software Administration
+===========================
+
+UNIX and Linux System Administration Handbook — Evi Nemeth
+
+Modern System Administration — Jennifer Davis, Katherine Daniels
+
+The Practice of System and Network Administration — Thomas A. Limoncelli
+
+=====================
+Systematic Bacteriology
+=====================
+
+Medical Microbiology — Patrick R. Murray
+
+Bergey's Manual of Systematic Bacteriology — George M. Garrity
+
+Textbook of Microbiology — C.P. Baveja
+
+===
+TV
+===
+
+Television Production Handbook — Herbert Zettl
+
+Producing for TV and New Media — Cathrine Kellison
+
+Introduction to Media Production — Robert Musburger
+
+================================
+Taxmann's Income Tax Rules (e-filing)
+================================
+
+Taxmann’s Income Tax Rules with Master Guide to Income Tax Rules — Taxmann
+
+Income Tax Law and Practice — V.K. Singhania
+
+Practical Guide to E-Filing — R.K. Jain
+
+===============
+Textile Science
+===============
+
+Textile Science — E.P.G. Gohl, L.D. Vilensky
+
+Fundamentals of Fibre Science — S.P. Mishra
+
+Textile Science and Technology — K. Gandhi
+
+====================
+Texturing & Lighting
+====================
+
+Digital Lighting and Rendering — Jeremy Birn
+
+3D Lighting: History, Concepts & Techniques — Arnold Gallardo
+
+The Art of 3D Computer Animation and Effects — Isaac V. Kerlow
+
+=========
+Texturing
+=========
+
+Texturing and Modeling: A Procedural Approach — David S. Ebert
+
+The Complete Guide to Texturing for 3D Artists — Neil Gorton
+
+Digital Texturing & Painting — Owen Demers
+
+===================================
+The Reader's Digest Complete Guide to Sewing
+===================================
+
+The Reader’s Digest Complete Guide to Sewing — Reader’s Digest Association
+
+=================
+Theory of Machines
+=================
+
+Theory of Machines — S.S. Rattan
+
+Theory of Machines — R.S. Khurmi, J.K. Gupta
+
+Mechanism and Machine Theory — J.S. Rao, R.V. Dukkipati
+
+====================
+Thermal Engineering-I
+====================
+
+Thermal Engineering — R.K. Rajput
+
+A Course in Thermal Engineering — Domkundwar & Arora
+
+Thermal Engineering — P.L. Ballaney
+
+=====================
+Thermal Engineering-II
+=====================
+
+Thermal Engineering — R.S. Khurmi, J.K. Gupta
+
+Applied Thermodynamics for Engineering Technologists — T.D. Eastop, A. McConkey
+
+Thermal Engineering Vol. II — M.L. Mathur, F.S. Mehta
+
+==============
+Thermodynamics
+==============
+
+Engineering Thermodynamics — P.K. Nag
+
+Fundamentals of Engineering Thermodynamics — Moran & Shapiro
+
+Thermodynamics: An Engineering Approach — Yunus A. Çengel, Michael A. Boles
+
+==================
+Tourism Geography
+==================
+
+Tourism Geography — Stephen Williams
+
+Tourism Geography: Critical Understandings of Place, Space and Experience — Julie Wilson
+
+Tourism Geography — K.S. Bhatia
+
+=================
+Tourism Marketing
+=================
+
+Marketing for Hospitality and Tourism — Philip Kotler, John T. Bowen
+
+Tourism Marketing — S.M. Jha
+
+Tourism Marketing: A Strategic Approach — Alain Decrop
+
+=========================
+Towards Understanding the Self
+=========================
+
+Towards a New Psychology of Women — Jean Baker Miller
+
+The Untethered Soul — Michael A. Singer
+
+Toward a Psychology of Being — Abraham Maslow
+
+===========
+Toxicology
+===========
+
+Casarett & Doull’s Essentials of Toxicology — Curtis Klaassen
+
+Textbook of Forensic Medicine and Toxicology — Krishan Vij
+
+Essentials of Medical Toxicology — Jaypee Brothers
+
+===================
+Transport Phenomena
+===================
+
+Transport Phenomena — Bird, Stewart, Lightfoot
+
+Introduction to Transport Phenomena — William J. Thomson
+
+Transport Processes and Separation Process Principles — Christie Geankoplis
+
+=========================
+Transportation Engineering
+=========================
+
+Highway Engineering — S.K. Khanna, C.E.G. Justo
+
+Transportation Engineering — C. Jotin Khisty, B. Kent Lall
+
+Principles of Transportation Engineering — Partha Chakroborty, Animesh Das
+
+=============================
+Travel Agency & Tour Operations
+=============================
+
+Travel Agency and Tour Operation: Concepts and Principles — J.M.S. Negi
+
+Tourism Operations and Management — Sunetra Roday
+
+Travel Agency Management — Mohinder Chand
+
+===========================
+Two & Three Wheeler Technology
+===========================
+
+Two and Three Wheeler Technology — Dhramendra H. Deshpande
+
+Automobile Engineering Vol. 2 (Two/Three Wheelers) — Kirpal Singh
+
+Two-Wheeler Technology — J. S. Rajadhyaksha
+
+==========
+Typography
+==========
+
+Thinking with Type — Ellen Lupton
+
+The Elements of Typographic Style — Robert Bringhurst
+
+Typography Workbook — Timothy Samara
+
+=============
+UI/UX Basics
+=============
+
+Don't Make Me Think — Steve Krug
+
+The Design of Everyday Things — Don Norman
+
+About Face: The Essentials of Interaction Design — Alan Cooper, Robert Reimann
+
+==============================
+Utilization of Electrical Energy
+==============================
+
+Utilization of Electric Energy — E. Openshaw Taylor
+
+Generation, Distribution and Utilization of Electrical Energy — C.L. Wadhwa
+
+Utilization of Electrical Power — R.K. Rajput
+
+
+======
+VHDL
+======
+
+Digital Design with VHDL — V. Pedroni
+
+VHDL Programming by Example — Douglas L. Perry
+
+Fundamentals of Digital Logic with VHDL Design — Stephen Brown, Zvonko Vranesic
+
+==========
+VLSI Design
+==========
+
+CMOS VLSI Design: A Circuits and Systems Perspective — Neil H.E. Weste, David Harris
+
+Basic VLSI Design — Douglas A. Pucknell, Kamran Eshraghian
+
+Digital Integrated Circuits — Jan M. Rabaey
+
+===============
+Vehicle Dynamics
+===============
+
+Vehicle Dynamics: Theory and Application — Reza N. Jazar
+
+Fundamentals of Vehicle Dynamics — Thomas D. Gillespie
+
+The Multibody Systems Approach to Vehicle Dynamics — Michael Blundell, Damian Harty
+
+============================
+Vehicle Maintenance & Diagnostics
+============================
+
+Automotive Maintenance and Light Repair — James D. Halderman
+
+Automobile Engineering Vol. 2 (Maintenance & Diagnostics) — Kirpal Singh
+
+Automotive Service: Inspection, Maintenance, Repair — Tim Gilles
+
+======================
+Video & Audio Editing
+======================
+
+In the Blink of an Eye — Walter Murch
+
+Adobe Premiere Pro Classroom in a Book — Maxim Jago (Adobe Creative Team)
+
+Audio Post Production for Television and Film — Hilary Wyatt, Tim Amyes
+
+=============
+Video Editing
+=============
+
+The Technique of Film and Video Editing — Ken Dancyger
+
+Editing Digital Video — Robert M. Goodman, Patrick McGrath
+
+Grammar of the Edit — Christopher J. Bowen
+
+===================
+Visual Effects (VFX)
+===================
+
+The Visual Effects Producer — Charles Finance, Susan Zwerman
+
+The VES Handbook of Visual Effects — Jeffrey A. Okun, Susan Zwerman
+
+Digital Compositing for Film and Video — Steve Wright
+
+===================
+Visual Merchandising
+===================
+
+Visual Merchandising and Display — Martin M. Pegler
+
+Silent Selling: Best Practices and Effective Strategies in Visual Merchandising — Judy Bell, Kate Ternus
+
+Retail Marketing Management — David Gilbert
+
+=============
+Visual Optics
+=============
+
+Clinical Optics — Andrew R. Elkington, Helena J. Frank
+
+Visual Optics and Refraction — David B. Elliott
+
+Foundations of Vision — Brian A. Wandell
+
+==================
+Vogue Sewing Book
+==================
+
+The Vogue Sewing Book — Vogue Pattern Service
+
+Vogue Sewing — Butterick Publishing
+
+Vogue Sewing Revised and Updated — Vogue Patterns
+
+===================
+Water Management
+===================
+
+Water Resources Engineering — Larry W. Mays
+
+Water Management in India — D.K. Majumdar
+
+Integrated Water Resources Management — Peter P. Rogers, Ramesh B. Singh
+
+=================================
+Water Supply & Wastewater Engineering
+=================================
+
+Water Supply and Sanitary Engineering — G.S. Birdie, J.S. Birdie
+
+Environmental Engineering (Vol. I & II) — S.K. Garg
+
+Water Supply and Wastewater Engineering — Fair, Geyer, Okun
+
+===========
+Watercolor
+===========
+
+Everyday Watercolor — Jenna Rainey
+
+Watercolor Techniques — Michael Reardon
+
+The Complete Watercolorist's Essential Notebook — Gordon MacKenzie
+
+==================
+Web Technologies-I
+==================
+
+Web Technologies — Uttam K. Roy
+
+Internet & Web Technologies — Rajkamal
+
+HTML and CSS: Design and Build Websites — Jon Duckett
+
+===================
+Web Technologies-II
+===================
+
+Web Technologies: HTML, JavaScript, PHP, Java, JSP, ASP.NET — Achyut S. Godbole, Atul Kahate
+
+Web Technologies: A Developer's Perspective — Jeffrey C. Jackson
+
+Learning PHP, MySQL & JavaScript — Robin Nixon
+
+===============
+Weed Management
+===============
+
+Weed Science: Principles and Practices — Thomas J. Monaco
+
+A Textbook of Weed Management — K. Kavitha
+
+Weed Management and Control — R. M. Parker
+
+==================
+Work and Education
+==================
+
+The Working Class Majority: America's Best Kept Secret — Michael Zweig
+
+Work, Education, and Employment — Roy Carr-Hill, Geoffrey Walford
+
+The Sociology of Education — Jeanne Ballantine, Floyd Hammack
+
+=================
+Workshop Practice
+=================
+
+Workshop Technology Vol. I & II — W.A.J. Chapman
+
+A Textbook of Workshop Technology — R.S. Khurmi
+
+Manual of Workshop Practice — K.C. John
+
+===================
+Workshop Technology
+===================
+
+Elements of Workshop Technology Vol. I & II — S.K. Hajra Choudhury
+
+Workshop Technology — H.S. Bawa
+
+Manufacturing Processes — P.N. Rao

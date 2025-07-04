@@ -1,0 +1,676 @@
+================================================================================
+ASSEMBLY LANGUAGE PROGRAMMING RESOURCES
+================================================================================
+
+--------------------------------------------------------------------------------
+1.  x86 and x86-64 Assembly
+--------------------------------------------------------------------------------
+    - Programming from the Ground Up - Jonathan Bartlett
+    - Assembly Language for x86 Processors - Kip Irvine
+    - Modern X86 Assembly Language Programming - Daniel Kusswurm
+    - Intel(R) 64 and IA-32 Architectures Software Developer's Manual - Intel Corporation
+    - Intel(R) 64 and IA-32 Architectures Optimization Reference Manual - Intel Corporation
+    - x86-64 System V ABI - AMD / System V Consortium
+
+--------------------------------------------------------------------------------
+2.  ARM Assembly
+--------------------------------------------------------------------------------
+    - Modern Arm Assembly Language Programming - Daniel Kusswurm
+    - ARM Assembly Language: Fundamentals and Techniques - William Hohl and Christopher Hinds
+    - The Art of ARM Assembly Language - Randall Hyde
+    - ARM Architecture Reference Manual - ARM Ltd.
+    - ARM Cortex-M3/M4 Processor Technical Reference Manual - ARM Ltd.
+
+--------------------------------------------------------------------------------
+3.  RISC-V Assembly
+--------------------------------------------------------------------------------
+    - RISC-V Assembly Language Programming - Stephen Smith
+    - Computer Organization and Design: RISC-V Edition - David A. Patterson and John L. Hennessy
+    - The RISC-V Reader: An Open Architecture Atlas - David A. Patterson and Andrew Waterman
+    - RISC-V Privileged Architecture Manual - RISC-V International
+    - RISC-V Instruction Set Manual (Vol. I & II) - RISC-V International
+
+--------------------------------------------------------------------------------
+4.  MIPS Assembly
+--------------------------------------------------------------------------------
+    - Introduction to MIPS Assembly Language Programming - Charles W. Kann
+    - MIPS Assembly Language Programming - Robert L. Britton
+    - Computer Organization and Design: The Hardware/Software Interface (MIPS Edition) - David A. Patterson and John L. Hennessy
+    - See MIPS Run - Dominic Sweetman
+    - MIPS32 Architecture for Programmers Volume I-IV - MIPS Technologies
+
+--------------------------------------------------------------------------------
+5.  PowerPC Assembly
+--------------------------------------------------------------------------------
+    - PowerPC Assembly Language Programming - R. C. Leasure
+    - PowerPC Microprocessor Family: The Programming Environments Manual - IBM Corporation
+    - PowerPC Microprocessor Family: Instruction Set Architecture - IBM and Motorola
+    - The PowerPC Architecture: A Specification for a New Family of RISC Processors - IBM and Motorola
+    - PowerPC Compiler Writer's Guide - IBM Corporation
+
+--------------------------------------------------------------------------------
+6.  SPARC Assembly
+--------------------------------------------------------------------------------
+    - The SPARC Architecture: A Primer - David L. Weaver and Tom Germond
+    - Programming and Customizing the SPARC Processor - Jim Ledin
+    - The SPARC Architecture Manual Version 8 - SPARC International
+    - The SPARC Architecture Manual Version 9 - SPARC International
+
+--------------------------------------------------------------------------------
+7.  Alpha Assembly
+--------------------------------------------------------------------------------
+    - The DEC Alpha Book - James S. Semenza
+    - Alpha AXP Architecture Reference Manual - Richard L. Sites
+    - Alpha Architecture Reference Manual - Richard L. Sites
+    - Digital Technical Journal (Alpha Architecture Series) - Digital Equipment Corporation
+
+--------------------------------------------------------------------------------
+8.  Itanium (IA-64) Assembly
+--------------------------------------------------------------------------------
+    - Itanium Architecture for Programmers - James S. Abernathy
+    - IA-64 Linux Kernel: Design and Implementation - David Mosberger and Stephane Eranian
+    - Intel Itanium Architecture Software Developer's Manual Volume 1: Application Architecture - Intel Corporation
+    - Intel Itanium Architecture Software Developer's Manual Volume 2-4 - Intel Corporation
+
+--------------------------------------------------------------------------------
+9.  VAX Assembly
+--------------------------------------------------------------------------------
+    - VAX Assembly Language Programming - Edward S. Sznyter
+    - The VAX-11 Architecture - Digital Equipment Corporation
+    - VAX Architecture Reference Manual - Digital Equipment Corporation
+    - VAX/VMS Internals and Data Structures - Ruth E. Goldenberg
+
+--------------------------------------------------------------------------------
+10. NS32000 Assembly
+--------------------------------------------------------------------------------
+    - NS32K Primer: The National Semiconductor 32K Series - David J. Comer
+    - The NS32000 Microprocessor: Hardware and Software - Richard C. Simpson
+    - NS32K System Design - National Semiconductor
+    - NS32000 Series Programmer's Reference Manual - National Semiconductor
+
+================================================================================
+
+1.  8051 Assembly
+--------------------------------------------------------------------------------
+    - The 8051 Microcontroller and Embedded Systems - Muhammad Ali Mazidi and Janice Gillispie Mazidi
+    - Programming and Customizing the 8051 Microcontroller - Myke Predko
+    - The 8051 Microcontroller: Architecture, Programming and Applications - Kenneth Ayala
+    - Intel MCS-51 Microcontroller Family User's Manual - Intel Corporation
+
+--------------------------------------------------------------------------------
+2.  AVR Assembly
+--------------------------------------------------------------------------------
+    - Make: AVR Programming - Elliot Williams
+    - Programming and Customizing the AVR Microcontroller - Dhananjay Gadre
+    - AVR Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Sarmad Naimi, and Sepehr Naimi
+    - AVR Instruction Set Manual - Atmel Corporation (now Microchip Technology)
+
+--------------------------------------------------------------------------------
+3.  Multics Assembly
+--------------------------------------------------------------------------------
+    - Introduction to the Multics System - Honeywell Information Systems
+    - Multics System Programmer's Manual - Honeywell / MIT
+    - Multics Assembly Language (MAL) Reference Manual - MIT Project MAC
+    - Multics Technical Bulletin Series - Honeywell Information Systems
+
+--------------------------------------------------------------------------------
+4.  RCA 1802 Assembly (CDP1802)
+--------------------------------------------------------------------------------
+    - Programming the 1802 - Tom Pittman
+    - The COSMAC ELF: A Guidebook for the 1802 Microprocessor - Joseph Weisbecker
+    - User Manual for CDP1802 Microprocessor - RCA Solid State
+    - RCA CDP1802 COSMAC Microprocessor Applications Manual - RCA Corporation
+
+--------------------------------------------------------------------------------
+5.  Zilog Z80000 Assembly
+--------------------------------------------------------------------------------
+    - Programming the Z8000 - Steve Williams
+    - Z8000 Family CPU Technical Manual - Zilog Inc.
+    - Z80000 Product Specification - Zilog Inc.
+    - Z80000 Macro Cross Assembler User Manual - Zilog Inc.
+
+================================================================================
+
+--------------------------------------------------------------------------------
+H8 Assembly
+--------------------------------------------------------------------------------
+    - Programming and Customizing the H8/300H Microcontroller - Mike Predko (rare edition)
+    - H8/300 Series Programming Manual - Hitachi
+    - Hitachi H8/300H Family Hardware Manual - Hitachi
+    - H8S/2357 Group User's Manual - Renesas Electronics
+
+--------------------------------------------------------------------------------
+MSP430 Assembly
+--------------------------------------------------------------------------------
+    - MSP430 Microcontroller Basics - John H. Davies
+    - Embedded Systems Design with the MSP430 - Chris Nagy
+    - Getting Started with the MSP430 LaunchPad - Adrian Fernandez and Dung Dang
+    - MSP430x2xx Family User's Guide - Texas Instruments
+
+--------------------------------------------------------------------------------
+PIC Assembly
+--------------------------------------------------------------------------------
+    - PIC Microcontroller and Embedded Systems - Muhammad Ali Mazidi, Rolin D. McKinlay, Danny Causey
+    - Programming and Customizing PICmicro Microcontrollers - Myke Predko
+    - Designing Embedded Systems with PIC Microcontrollers - Tim Wilmshurst
+    - PICmicro Mid-Range MCU Family Reference Manual - Microchip Technology
+
+--------------------------------------------------------------------------------
+RL78 Assembly
+--------------------------------------------------------------------------------
+    - RL78 Family User's Manual: Software - Renesas Electronics
+    - RL78 Assembly Language Reference Manual - Renesas Electronics
+    - RL78 Quick Start Guide - Renesas Electronics
+    - RL78/G13 Hardware User's Manual - Renesas Electronics
+
+--------------------------------------------------------------------------------
+RX Assembly
+--------------------------------------------------------------------------------
+    - RX Family User's Manual: Software - Renesas Electronics
+    - RX Family Instruction Set Architecture Manual - Renesas Electronics
+    - RX62N/RX621 Group Hardware User's Manual - Renesas Electronics
+    - RX Family Compiler User's Manual - Renesas Electronics
+
+--------------------------------------------------------------------------------
+STM32 Assembly
+--------------------------------------------------------------------------------
+    - ARM Cortex-M3/M4 Assembly Language Programming - Yifeng Zhu
+    - Discovering the STM32 Microcontroller - Geoffrey Brown
+    - STM32 Cortex-M4 Processor Programming Manual - STMicroelectronics
+    - STM32F4 Reference Manual - STMicroelectronics
+
+--------------------------------------------------------------------------------
+V850 Assembly
+--------------------------------------------------------------------------------
+    - V850 Family Architecture Manual - NEC Corporation
+    - Programming the V850 Microcontroller - IAR Systems (User Manual)
+    - V850 Family Software User's Manual - NEC Electronics
+    - V850 Instruction Set Manual - NEC Corporation
+
+================================================================================
+Here are the specific assembly language resources you've provided, formatted in a clear, professional ASCII style, with no numbering for the categories:
+
+================================================================================
+ASSEMBLY LANGUAGE PROGRAMMING RESOURCES
+================================================================================
+
+--------------------------------------------------------------------------------
+ColdFire Assembly
+--------------------------------------------------------------------------------
+    - ColdFire Microcontrollers: Hardware and Software - David J. Comer
+    - ColdFire Programmer's Reference Manual - Freescale Semiconductor
+    - M68K/ColdFire Assembly Language Programming - Jean Labrosse
+    - MCF5282 ColdFire Microcontroller Reference Manual - Freescale Semiconductor
+
+--------------------------------------------------------------------------------
+COP8 Assembly
+--------------------------------------------------------------------------------
+    - COP8 Microcontrollers: The Complete Guide to Hardware and Software Design - Michael Slater
+    - COP8 User's Manual - National Semiconductor
+    - COP8 Assembly Language and Instruction Set Reference - National Semiconductor
+    - Embedded Controller Hardware Design - Ken Arnold (covers COP8 among others)
+
+--------------------------------------------------------------------------------
+HC08 Assembly
+--------------------------------------------------------------------------------
+    - Embedded Systems: Motorola HC08 Family - Jonathan W. Valvano
+    - Programming the Motorola HC08 Microcontroller in C - S. E. Derenzo
+    - MCUez HC08 Assembly Language Guide - Motorola Inc.
+    - MC68HC908 Technical Data Manual - Motorola Semiconductor
+
+--------------------------------------------------------------------------------
+HC11 Assembly
+--------------------------------------------------------------------------------
+    - Microcontroller Theory and Applications: HC11 and HC12 - Daniel J. Pack and Steven F. Barrett
+    - The 68HC11 Microcontroller: Hardware and Software - Joseph D. Greenfield
+    - Programming and Customizing the 68HC11 Microcontroller - Michael Predko
+    - MC68HC11 Reference Manual - Motorola Semiconductor
+
+--------------------------------------------------------------------------------
+HC12 Assembly
+--------------------------------------------------------------------------------
+    - Microcontroller Theory and Applications: HC11 and HC12 - Daniel J. Pack and Steven F. Barrett
+    - The 68HC12 Embedded Systems - Han-Way Huang
+    - Programming the Motorola HC12 Microcontroller - S. E. Derenzo
+    - MC9S12DP256B Device Guide / Reference Manual - Freescale Semiconductor (formerly Motorola)
+
+--------------------------------------------------------------------------------
+TMS1000 Assembly
+--------------------------------------------------------------------------------
+    - TMS1000 Series Data Manual - Texas Instruments
+    - TMS1000 Family Programmer's Guide - Texas Instruments
+    - The Texas Instruments TMS1000: Early Microcontroller Technology - TI Archival Docs (internal or scanned)
+    - TI TMS1000 Application Notes - Texas Instruments
+
+--------------------------------------------------------------------------------
+TMS7000 Assembly
+--------------------------------------------------------------------------------
+    - TMS7000 8-Bit Microcomputer Data Manual - Texas Instruments
+    - TMS7000 Assembly Language Programming Manual - Texas Instruments
+    - TMS7020/TMS7040 Microcomputer Reference Manual - Texas Instruments
+    - TMS7000 Family Applications Handbook - Texas Instruments
+
+================================================================================
+--------------------------------------------------------------------------------
+6502 Assembly
+--------------------------------------------------------------------------------
+    - Programming the 6502 - Rodnay Zaks
+    - Machine Language for Beginners - Richard Mansfield
+    - 6502 Assembly Language Programming - Lance A. Leventhal
+    - MOS Technology MCS6500 Microcomputer Family Programming Manual - MOS Technology
+
+--------------------------------------------------------------------------------
+65C816 Assembly (WDC 65816)
+--------------------------------------------------------------------------------
+    - Programming the 65816 Including the 6502, 65C02, and 65802 - David Eyes and Ron Lichty
+    - Western Design Center W65C816S Programming Manual - WDC
+    - WDC 65816 Assembly Language Programming - WDC Official Docs
+    - The 65816 Primer - GTE Educational Systems
+
+--------------------------------------------------------------------------------
+Blackfin Assembly (Analog Devices DSP)
+--------------------------------------------------------------------------------
+    - Embedded Media Processing - David Katz and Rick Gentile
+    - Blackfin Processor Programming Reference Manual - Analog Devices
+    - Blackfin Processor Hardware Reference Manual - Analog Devices
+    - Software Development Tools Manual for Blackfin Processors - Analog Devices
+
+--------------------------------------------------------------------------------
+CEVA Assembly (DSP Cores)
+--------------------------------------------------------------------------------
+    - CEVA-TeakLite-4 Architecture Manual - CEVA Inc.
+    - CEVA-X DSP Core Programming Reference Manual - CEVA Inc.
+    - CEVA DSP Optimization Manual - CEVA Inc.
+    - CEVA Technical Training Series - CEVA (internal training docs)
+
+--------------------------------------------------------------------------------
+Fujitsu FR Assembly
+--------------------------------------------------------------------------------
+    - Fujitsu FR Family Programming Manual - Fujitsu Semiconductor
+    - FR60/FR80 Architecture Manual - Fujitsu
+    - Fujitsu FR Instruction Set Manual - Fujitsu
+    - Embedded Systems with Fujitsu Microcontrollers - Fujitsu (internal publication, archived)
+
+--------------------------------------------------------------------------------
+SHARC Assembly (Analog Devices DSP)
+--------------------------------------------------------------------------------
+    - Analog Devices SHARC Processor Programming Reference - Analog Devices
+    - SHARC Processor Hardware Reference Manual - Analog Devices
+    - VisualDSP++ 5.0 Assembler and Preprocessor Manual for SHARC - Analog Devices
+    - Digital Signal Processing Applications Using the ADSP-21000 Family - Analog Devices
+
+--------------------------------------------------------------------------------
+TMS320 Assembly (TI DSP Series)
+--------------------------------------------------------------------------------
+    - Digital Signal Processing and Applications with the TMS320C6713 and TMS320C6416 DSK - Rulph Chassaing
+    - DSP Applications Using C and the TMS320C6x DSK - Rulph Chassaing
+    - TMS320C6000 CPU and Instruction Set Reference Guide - Texas Instruments
+    - TMS320C28x Assembly Language Tools User's Guide - Texas Instruments
+
+--------------------------------------------------------------------------------
+XMOS Assembly
+--------------------------------------------------------------------------------
+    - Programming XC on XMOS Devices - XMOS Ltd.
+    - XS1 Architecture Manual - XMOS Ltd.
+    - XMOS Tools Documentation Set - XMOS Ltd.
+    - XMOS Instruction Set Reference Manual - XMOS Ltd.
+
+================================================================================
+MIPS R3000 Assembly
+--------------------------------------------------------------------------------
+    - The MIPS Programmer's Handbook - Faraydon Karim and Jon Goodman
+    - Computer Organization and Design: The Hardware/Software Interface - David A. Patterson and John L. Hennessy
+    - MIPS R3000 Family Instruction Set Reference Manual - MIPS Computer Systems
+    - See MIPS Run - Dominic Sweetman
+
+--------------------------------------------------------------------------------
+MIPS R4300i Assembly (Used in Nintendo 64)
+--------------------------------------------------------------------------------
+    - R4300i Microprocessor User's Manual - NEC Corporation
+    - R4300i System Controller User's Manual - NEC Corporation
+    - See MIPS Run - Dominic Sweetman
+    - MIPS IV Instruction Set Manual - MIPS Technologies
+
+--------------------------------------------------------------------------------
+Motorola 68000 (68k) Assembly
+--------------------------------------------------------------------------------
+    - 68000 Assembly Language Programming - Lance A. Leventhal
+    - Assembly Language for the Motorola 68000 - Thomas P. Leckie and Douglas W. Warner
+    - Programming the 68000 - Rodnay Zaks
+    - MC68000 8-/16-/32-Bit Microprocessor Programmer's Reference Manual - Motorola
+
+--------------------------------------------------------------------------------
+Motorola 6809 Assembly
+--------------------------------------------------------------------------------
+    - Programming the 6809 - Rodnay Zaks
+    - Assembly Language Programming for the Motorola 6809 - Lance A. Leventhal and Winthrop Saville
+    - 6809 Assembly Language Programming - Peter Ball
+    - MC6809 Microprocessor Programming Manual - Motorola
+
+--------------------------------------------------------------------------------
+PowerPC Assembly (Gekko/Cell)
+--------------------------------------------------------------------------------
+    - PowerPC Microprocessor Family: The Programming Environments Manual - IBM Corporation
+    - PowerPC Microprocessor Family: Instruction Set Architecture Book I-III - IBM / Motorola
+    - Programming the Cell Processor - Matthew Scarpino
+    - Cell Broadband Engine Architecture and Programming - IBM / Sony / Toshiba
+
+--------------------------------------------------------------------------------
+Zilog Z80 Assembly
+--------------------------------------------------------------------------------
+    - Programming the Z80 - Rodnay Zaks
+    - Z80 Assembly Language Programming - Lance A. Leventhal
+    - Z80 CPU User Manual - Zilog Inc.
+    - Z80 Family Technical Manual - Zilog Inc.
+
+================================================================================
+ARM7 Assembly
+--------------------------------------------------------------------------------
+    - ARM Assembly Language: Fundamentals and Techniques - William Hohl and Christopher Hinds
+    - ARM System Developer's Guide - Andrew N. Sloss, Dominic Symes, Chris Wright
+    - ARM7TDMI Technical Reference Manual - ARM Ltd.
+    - ARM Architecture Reference Manual (ARMv4T/ARMv5T) - ARM Ltd.
+
+--------------------------------------------------------------------------------
+ARM9 Assembly
+--------------------------------------------------------------------------------
+    - ARM Assembly Language: Fundamentals and Techniques - William Hohl and Christopher Hinds
+    - ARM Architecture Reference Manual (ARMv5TE) - ARM Ltd.
+    - ARM9TDMI Technical Reference Manual - ARM Ltd.
+    - ARM System-on-Chip Architecture - Steve Furber
+
+--------------------------------------------------------------------------------
+CDC 6600 Assembly (Control Data Corporation)
+--------------------------------------------------------------------------------
+    - Computer Architecture: A Quantitative Approach - David A. Patterson and John L. Hennessy (covers CDC 6600 architecture in detail)
+    - The CRAY-1 Computer System - G. M. Thorson (for successors of 6600)
+    - The CDC 6600 Project Report - James E. Thornton
+    - CDC 6600 Central Processor Unit Manual - Control Data Corporation
+
+--------------------------------------------------------------------------------
+IBM System/360 Assembly
+--------------------------------------------------------------------------------
+    - IBM System/360 Principles of Operation - IBM Corporation
+    - Assembler Language Programming for the IBM 360 and 370 - George Struble
+    - Introduction to Assembly Language Programming: IBM 360 and 370 - John R. Ehrman
+    - IBM System/360 and System/370 Assembly Language - Michael C. Daconta
+
+--------------------------------------------------------------------------------
+IBM z/Architecture Assembly
+--------------------------------------------------------------------------------
+    - Introduction to the New Mainframe: z/OS Basics - Mike Ebbers (IBM Redbooks)
+    - IBM z/Architecture Principles of Operation - IBM Corporation
+    - Assembler Language Programming for IBM z/Architecture - Brian Knittel
+    - z/OS Version X Assembler Services Guide - IBM Redbooks
+
+--------------------------------------------------------------------------------
+RSP Assembly (Reality Signal Processor - Nintendo 64)
+--------------------------------------------------------------------------------
+    - Reality Signal Processor Programmer's Guide - SGI / Nintendo
+    - RSP Instruction Set Manual - SGI / NEC (unofficial/archived)
+    - N64 SDK Technical Reference Manual - SGI / Nintendo (leaked/devkit)
+    - Ultra64 RSP Assembly Documentation - Community/Emulator Projects
+
+--------------------------------------------------------------------------------
+SPC700 Assembly (SNES Sound CPU)
+--------------------------------------------------------------------------------
+    - SPC700 Reference Manual - Sony Corporation
+    - Anomie's SPC700 Opcode Table - Anomie (community documentation)
+    - The SNES Development Manual - Nintendo (leaked/internal documents)
+    - SPC700 Assembly Programming Guide - Byuu / Near (community-authored)
+
+================================================================================
+Burroughs B5000 Assembly (Stack-based, no traditional assembly)
+--------------------------------------------------------------------------------
+    Note: The B5000 used an Algol-based high-level descriptor language instead
+          of assembly, but these are its equivalents.
+    - The Burroughs B5000: Its Influence on Programming - Alan C. Shaw
+    - Burroughs Large Systems Reference Manual - Burroughs Corporation
+    - Stack Computers: The New Wave - Philip J. Koopman Jr.
+    - Burroughs B5500 Information Processing Systems: Architecture Reference
+      Manual - Burroughs Corporation
+
+--------------------------------------------------------------------------------
+GE-645 Assembly
+--------------------------------------------------------------------------------
+    - Multics Assembly Language (MAL) Reference Manual - MIT Project MAC / Honeywell
+    - GE-645 Programmer's Reference Manual - General Electric
+    - Multics System Programmer's Manual - Honeywell
+    - GE-600 Series Central Processor Unit Reference Manual - General Electric
+
+--------------------------------------------------------------------------------
+Hack Assembly (from The Elements of Computing Systems)
+--------------------------------------------------------------------------------
+    - The Elements of Computing Systems: Building a Modern Computer from First
+      Principles - Noam Nisan and Shimon Schocken
+    - Hack Machine Language Specification - nand2tetris.org
+    - Hack Assembler Programmer's Guide - nand2tetris.org
+    - Nand2Tetris Software Tools Guide - Nisan & Schocken
+
+--------------------------------------------------------------------------------
+ILLIAC IV Assembly
+--------------------------------------------------------------------------------
+    Note: Highly parallel architecture, programmed mostly in special parallel
+          extensions of Fortran and system-specific machine code.
+    - ILLIAC IV: The First Supercomputer - Thomas M. Rindfleisch (in IEEE Annals)
+    - ILLIAC IV System Reference Manual - Burroughs / NASA / DARPA Project
+    - ILLIAC IV Systems Programming Manual - University of Illinois
+    - High-Speed Computing Devices - ERA/University of Illinois (historical
+      architecture reference)
+
+--------------------------------------------------------------------------------
+LC-3 Assembly
+--------------------------------------------------------------------------------
+    - Introduction to Computing Systems: From Bits and Gates to C and Beyond -
+      Yale N. Patt and Sanjay J. Patel
+    - The LC-3 Simulator and Assembly Manual - Yale N. Patt et al.
+    - LC-3 Assembly Language Reference Sheet - University of Texas
+    - LC-3: A Simplified Instructional Computer - Courseware documents from
+      various universities
+
+--------------------------------------------------------------------------------
+UNIVAC Assembly (e.g., UNIVAC I / UNIVAC 1100 Series)
+--------------------------------------------------------------------------------
+    - UNIVAC 1100 Series Assembly Language Programming - Sperry Univac
+    - UNIVAC 1100/80 System Programmer's Manual - Sperry Univac
+    - Introduction to UNIVAC Assembly Language - Sperry Univac (training manual)
+    - UNIVAC 1100 Series Exec 8 Reference Manual - Sperry Univac
+
+--------------------------------------------------------------------------------
+Y86 Assembly
+--------------------------------------------------------------------------------
+    - Computer Systems: A Programmer's Perspective - Randal E. Bryant and David R. O'Hallaron
+    - CS:APP Y86 Architecture Guide - Carnegie Mellon University
+    - Y86-64 Programming Guide - Bryant & O'Hallaron (course supplements)
+    - Y86 Simulator and Tools Documentation - CMU
+
+================================================================================
+MARIE Assembly (Machine Architecture that is Really Intuitive and Easy)
+--------------------------------------------------------------------------------
+    - Essentials of Computer Organization and Architecture - Linda Null and Julia Lobur
+    - MARIE Simulator User Guide - Included with textbook materials
+    - MARIE Assembly Language Reference Manual - Provided by textbook or university resources
+    - Introduction to MARIE Programming - University courseware (widely used in academia)
+
+--------------------------------------------------------------------------------
+MIPS32 / SPIM Assembly
+--------------------------------------------------------------------------------
+    - See MIPS Run - Dominic Sweetman
+    - Computer Organization and Design: The Hardware/Software Interface (MIPS Edition) - David A. Patterson and John L. Hennessy
+    - MIPS R32 Architecture for Programmers Volumes I-IV - MIPS Technologies
+    - SPIM S20: A MIPS32 Simulator - James Larus
+
+--------------------------------------------------------------------------------
+MIX Assembly (Donald Knuth's hypothetical computer)
+--------------------------------------------------------------------------------
+    - The Art of Computer Programming, Vol. 1: Fundamental Algorithms - Donald E. Knuth
+    - MMIXware: A RISC Computer for the New Millennium - Donald E. Knuth (includes MIX background)
+    - MIXAL Programming Manual - Donald E. Knuth (included in TAOCP Vol. 1 appendices)
+    - MIX Emulators and Documentation (MIXASM, MIXSIM) - Available via TAOCP resources
+
+--------------------------------------------------------------------------------
+MMIX Assembly (Knuth's modern RISC replacement for MIX)
+--------------------------------------------------------------------------------
+    - MMIXware: A RISC Computer for the New Millennium - Donald E. Knuth
+    - The Art of Computer Programming, Vol. 1-4 - Donald E. Knuth (MMIX code is used in later editions)
+    - MMIX Architecture Reference Manual - Donald E. Knuth
+    - MMIX Assembler and Simulator Tools Documentation (MMIXAL, MMIX-SIM) - TAOCP website
+
+--------------------------------------------------------------------------------
+RARS Assembly (RISC-V Assembler and Runtime Simulator)
+--------------------------------------------------------------------------------
+    - Computer Organization and Design: RISC-V Edition - David A. Patterson and John L. Hennessy
+    - RISC-V Assembly Language Programming - Stephen Smith
+    - RARS Documentation - GitHub project: RARS GitHub Repository
+    - RISC-V Instruction Set Manual (Unprivileged and Privileged) - RISC-V International
+
+--------------------------------------------------------------------------------
+TIS-100 Assembly (Zachtronics' fictional parallel computer)
+--------------------------------------------------------------------------------
+    - TIS-100: The Assembly Language Programming Game - Zachtronics Industries
+    - TIS-100 Official Manual - Zachtronics (included with game)
+    - TIS-100 Instruction Set Reference - Zachtronics
+    - TIS-100 Programming Community Guides - Steam Workshop / GitHub Docs
+
+================================================================================
+FASM (Flat Assembler)
+--------------------------------------------------------------------------------
+    - FASM Programmer's Manual - Tomasz Grysztar
+    - FASM Tutorials Collection - Tomasz Grysztar & FASM community
+    - Assembly Language Step-by-Step: Programming with DOS and Linux - Jeff Duntemann (compatible examples)
+    - Low-Level Programming - Igor Zhirkov (select examples in FASM-style syntax)
+
+--------------------------------------------------------------------------------
+GAS (GNU Assembler, AT&T Syntax)
+--------------------------------------------------------------------------------
+    - Programming from the Ground Up - Jonathan Bartlett (GAS syntax)
+    - The GNU Assembler Manual (GAS Manual) - GNU Project
+    - Linkers and Loaders - John R. Levine (includes GAS/ELF context)
+    - Professional Assembly Language - Richard Blum (includes GAS usage)
+
+--------------------------------------------------------------------------------
+HLA (High-Level Assembly)
+--------------------------------------------------------------------------------
+    - The Art of Assembly Language (HLA Version) - Randall Hyde
+    - Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level - Randall Hyde
+    - High-Level Assembly Programmer's Guide - Randall Hyde
+    - HLA Language Reference Manual - Randall Hyde
+
+--------------------------------------------------------------------------------
+Inline Assembly (C/C++ Integrated Assembly)
+--------------------------------------------------------------------------------
+    - The Art of Assembly Language - Randall Hyde (includes inline examples)
+    - Intel(R) 64 and IA-32 Architectures Software Developer's Manual - Intel Corporation (for instruction-level knowledge)
+    - GCC Inline Assembly HOWTO - Debian/GNU Community
+    - Microsoft Docs: Inline Assembler in C/C++ - Microsoft Corporation
+
+--------------------------------------------------------------------------------
+MARS Assembly (MIPS Assembler and Runtime Simulator)
+--------------------------------------------------------------------------------
+    - Computer Organization and Design: The Hardware/Software Interface (MIPS Edition) - David A. Patterson and John L. Hennessy
+    - MIPS Assembly Language Programming - Robert L. Britton
+    - Introduction to MIPS Assembly Language Programming - Charles W. Kann
+    - MARS (MIPS Assembler and Runtime Simulator) Documentation - Pete Sanderson and Kenneth Vollmar
+
+--------------------------------------------------------------------------------
+MASM (Microsoft Macro Assembler)
+--------------------------------------------------------------------------------
+    - Assembly Language for x86 Processors - Kip R. Irvine
+    - Microsoft Macro Assembler Reference Manual - Microsoft Corporation
+    - The Art of Assembly Language (MASM Version) - Randall Hyde
+    - MASM Programmer's Guide - Microsoft Press
+
+--------------------------------------------------------------------------------
+NASM (Netwide Assembler)
+--------------------------------------------------------------------------------
+    - The Art of Assembly Language (Linux Version) - Randall Hyde (with NASM examples)
+    - Professional Assembly Language - Richard Blum
+    - NASM Manual - NASM Development Team
+    - Low-Level Programming: C, Assembly, and Program Execution on Intel(R) 64 Architecture - Igor Zhirkov (NASM syntax used)
+
+--------------------------------------------------------------------------------
+TASM (Turbo Assembler by Borland)
+--------------------------------------------------------------------------------
+    - Mastering Turbo Assembler - Tom Swan
+    - Turbo Assembler User's Guide - Borland International
+    - Programming with Turbo Assembler - Robert L. Smith
+    - Advanced Assembly Language - Steve Holzner (TASM-focused examples)
+
+================================================================================
+.NET IL / MSIL (Microsoft Intermediate Language)
+--------------------------------------------------------------------------------
+    - Inside Microsoft .NET IL Assembler - Serge Lidin
+    - .NET IL Assembler and Disassembler Manual (ILASM/ILDASM) - Microsoft Docs
+    - Expert .NET 2.0 IL Assembler - Serge Lidin
+    - Common Language Infrastructure (CLI) Partition III: CIL Instruction Set -
+      ECMA-335 Standard
+
+--------------------------------------------------------------------------------
+Befunge (Esoteric Stack-based Language with Self-Modifying Code)
+--------------------------------------------------------------------------------
+    - The Befunge Programming Language Specification - Chris Pressey
+    - Befunge-93 & Befunge-98 Reference Manual - Cat's Eye Technologies
+    - Esolang Wiki: Befunge - esolangs.org
+    - Exploring Befunge - Community tutorials and GitHub resources
+
+--------------------------------------------------------------------------------
+EVM Assembly (Ethereum Virtual Machine)
+--------------------------------------------------------------------------------
+    - Ethereum Yellow Paper: Ethereum: A Secure Decentralised Generalised
+      Transaction Ledger - Gavin Wood
+    - Mastering Ethereum - Andreas M. Antonopoulos and Gavin Wood
+    - EVM Opcodes Reference - ethereum.org / evm.codes
+    - Ethereum Virtual Machine (EVM) Guide - Solidity Docs & GitHub Repos
+
+--------------------------------------------------------------------------------
+Forth Assembly
+--------------------------------------------------------------------------------
+    - Starting Forth - Leo Brodie
+    - Thinking Forth - Leo Brodie
+    - The Forth Programmer's Handbook - Edward K. Conklin and Elizabeth D. Rather
+    - Forth: The New Model - Jack Woehr
+    (Forth is often considered a kind of "high-level assembly" for stack machines)
+
+--------------------------------------------------------------------------------
+JVM Bytecode Assembly (Java Virtual Machine Assembly)
+--------------------------------------------------------------------------------
+    - The Java Virtual Machine Specification - Tim Lindholm, Frank Yellin,
+      Gilad Bracha, Alex Buckley
+    - Java Bytecode Reference Guide - Oracle Docs
+    - Jasmin: A Java Assembler - Jonathan Meyer and Troy Downing (manual & source)
+    - Programming for the Java Virtual Machine - Joshua Engel
+
+--------------------------------------------------------------------------------
+LCC ASM Output (Local C Compiler - Retargetable C Compiler)
+--------------------------------------------------------------------------------
+    - A Retargetable C Compiler: Design and Implementation - Christopher Fraser
+      and David Hanson
+    - LCC Reference Manual - David Hanson
+    - LCC Assembly Output Analysis (from LCC source) - Princeton LCC Project Docs
+    - LCC Source Code & Commentary - Available from Princeton's official site
+
+--------------------------------------------------------------------------------
+LLVM IR (Intermediate Representation)
+--------------------------------------------------------------------------------
+    - Getting Started with LLVM Core Libraries - Bruno Cardoso Lopes and Rafael Auler
+    - LLVM Language Reference Manual - LLVM Project
+    - LLVM Cookbook - Mayur Pandey
+    - Crafting Interpreters (for IR generation background) - Robert Nystrom (supplementary)
+
+--------------------------------------------------------------------------------
+Lua VM Assembly (Lua Bytecode)
+--------------------------------------------------------------------------------
+    - Programming in Lua - Roberto Ierusalimschy
+    - Lua 5.1/5.3 Bytecode Reference - Luiz Henrique de Figueiredo & Community Docs
+    - Unofficial Lua Bytecode Reference - Hisham Muhammad (luac output analysis)
+    - The Implementation of Lua - Roberto Ierichsym (papers & talks)
+
+--------------------------------------------------------------------------------
+WebAssembly (WAT - WebAssembly Text Format)
+--------------------------------------------------------------------------------
+    - Programming WebAssembly with Rust - Kevin Hoffman (WAT explained via tooling)
+    - WebAssembly: The Definitive Guide - Brian Sletten
+    - WebAssembly Specification - W3C / WebAssembly.org
+    - WebAssembly Text Format (WAT) Reference Manual - WebAssembly Community Group
+
+================================================================================

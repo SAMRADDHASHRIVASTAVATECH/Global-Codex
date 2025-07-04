@@ -1,0 +1,3041 @@
+FLOW-MATIC(a)
+----------
+
+Grace Hopper and the Invention of the Information Age – Kurt W. Beyer
+
+The Origins of Digital Computers: Selected Papers – Edited by Brian Randell
+
+The Computer from Pascal to von Neumann – Herman H. Goldstine
+
+Programming the UNIVAC I and II – (Various contributors; historical technical manuals)
+
+Computer: A History of the Information Machine – Martin Campbell-Kelly & William Aspray
+
+A History of Computing in the Twentieth Century – Edited by N. Metropolis, J. Howlett, G.-C. Rota
+
+Bit by Bit: An Illustrated History of Computers – Stan Augarten
+
+ENIAC: The Triumphs and Tragedies of the World's First Computer – Scott McCartney
+
+Machines Who Think – Pamela McCorduck
+
+The Dream Machine – M. Mitchell Waldrop
+
+---
+ACC
+---
+
+Simon Lavington – Early British Computers: The Story of Vintage Computers and the People Who Built Them
+
+B. Jack Copeland – The Pilot ACE and the DEUCE: A British Success Story
+
+Simon Lavington – British Computers: The First 100 Years
+
+B. Jack Copeland – Alan Turing’s Electronic Brain: The Struggle to Build the ACE, the World’s Fastest Computer
+
+Editor: B. Jack Copeland – Alan Turing’s Automatic Computing Engine
+
+--------
+ACE DASL
+--------
+Simon Lavington – British Computers: The First 100 Years
+
+B. Jack Copeland – The Pilot ACE and the DEUCE: A British Success Story
+
+Editor: B. Jack Copeland – Alan Turing’s Automatic Computing Engine
+
+English Electric Company – Programming for the DEUCE Computer (Historical Reprint)
+
+-------------
+Active Oberon
+-------------
+Niklaus Wirth & Jürg Gutknecht – Project Oberon: The Design of an Operating System, a Compiler, and a Computer
+
+Niklaus Wirth & Jürg Gutknecht – The Oberon System: User Guide and Programmer’s Manual
+
+Martin Reiser & Niklaus Wirth – Programming in Oberon
+
+Niklaus Wirth & Jürg Gutknecht – The Oberon System (journal article)
+
+M. Pieter Johannes Müller – The Active Object System Design and Multiprocessor Implementation (PhD Thesis)
+
+===
+ada
+===
+
+J. G. P. Barnes – Programming in Ada 83
+
+Fintan Culwin & Frank Kuhn – Ada 95: The Craft of Object-Oriented Programming
+
+J. G. P. Barnes – Programming in Ada 95
+
+John Barnes & Ben Brosgol – Ada 95 Rationale: The Language and the Standard Libraries
+
+John Barnes – Programming in Ada 2005
+
+John Barnes – Programming in Ada 2012 (2nd ed.)
+
+John Barnes – Programming in Ada 2022
+
+----
+Agda
+----
+
+Wen Kokke, Jeremy Siek & Philip Wadler – Programming Language Foundations in Agda
+
+Aaron Stump – Verified Functional Programming in Agda
+
+Sandy Maguire – Certainty by Construction
+
+Robert Johnson – Mastering Agda: A Practical Guide to Dependently Typed Programming and Formal Verification
+
+-----
+ALICE 
+-----
+Wanda Dann & Randy Pausch – Learning to Program with Alice (3rd Edition)
+
+Joel Adams – Alice in Action: Computing Through Animation
+
+Joel Adams – Alice 3 in Action with Java
+
+Wanda Dann – Learning Java through Alice 3 (3rd Edition)
+
+-------
+Ansible
+-------
+Lorin Hochstein & René Moser – Ansible: Up & Running (3rd Edition)
+
+Jeff Geerling – Ansible for DevOps
+
+Jesse Keating & James Freeman – Mastering Ansible (2nd Edition)
+
+Stuart Ford & Roger E. Doherty – Ansible Automation for Networking Cookbook
+
+Jeff Geerling – Ansible for Kubernetes
+
+---
+Ant
+----
+Jeremy M. Anderson – Ant: The Definitive Guide
+
+Erik Hatcher & Steve Loughran – Java Development with Ant
+
+Ashish Sarin & others – Mastering Apache Ant
+
+Steve Loughran & Erik Hatcher – Ant in Action
+
+-----
+APEX
+-----
+
+Arie Geller & Marcel van der Plas – Oracle Application Express: Build Powerful Data-Centric Web Apps with APEX
+
+John Scott & Scott Spendolini – Expert Oracle Application Express
+
+Marcel van der Plas & Michel van Zoest – Oracle APEX Cookbook
+
+Doug Gault – Beginning Oracle Application Express 5
+
+Brendan Tierney – Oracle APEX Reporting Tips & Tricks
+
+Suhas Tondwalkar – Oracle APEX 20 For Beginners
+
+Scott Wesley – Oracle APEX 21 and Beyond: Building Progressive Web Apps
+
+-----------
+applescript
+-----------
+
+Sal Soghoian & Bill Cheeseman – AppleScript 1-2-3: A Self-Paced Guide to Learning AppleScript
+Matt Neuburg – AppleScript: The Definitive Guide (2nd Edition)
+Hamish Sanderson & Hanaan Rosenthal – Learn AppleScript: The Comprehensive Guide to Scripting and Automation on Mac OS X
+Bruce W. Perry – AppleScript in a Nutshell
+Gary Rosenzweig – Apple Training Series: AppleScript Studio 1.2
+
+---
+apt
+---
+
+Martin F. Krafft – The Debian System: Concepts and Techniques
+Gustavo Noronha Silva – APT HOWTO (Debian Official Guide)
+Raphaël Hertzog & Roland Mas – The Debian Administrator’s Handbook
+
+-------
+ASP.NET
+-------
+Dino Esposito – Programming ASP.NET (1st & 2nd Edition)
+Scott Hanselman, Bill Evjen, et al. – Professional ASP.NET 2.0 in C# 2005
+Matthew MacDonald – Pro ASP.NET 3.5 in C# 2008
+Scott Hanselman, Bill Evjen, et al. – Professional ASP.NET 4 in C# and VB
+Matthew MacDonald – Pro ASP.NET 4 in C# 2010
+Jason N. Gaylord, Christian Nagel, et al. – Professional ASP.NET 4.5 in C# and VB
+Adam Freeman – Pro ASP.NET 4.5 in C#
+Imar Spaanjaars – Beginning ASP.NET 4.5 in C#
+Wrox Team – Professional ASP.NET 4.5.2 in C# and VB
+Adam Freeman – Pro ASP.NET 4.6 in C#
+Adam Freeman – Pro ASP.NET 4.7 in C#
+Adam Freeman – Pro ASP.NET 4.8 in C#
+Adam Freeman – Pro ASP.NET Core MVC (1st Edition)
+Adam Freeman – Pro ASP.NET Core MVC 2
+Andrew Lock – ASP.NET Core in Action (1st Edition)
+Adam Freeman – Pro ASP.NET Core MVC 3
+Andrew Lock – ASP.NET Core in Action (2nd Edition)
+Adam Freeman – Pro ASP.NET Core 6
+Adam Freeman – Pro ASP.NET Core 7
+Adam Freeman – Pro ASP.NET Core 8
+Adam Freeman – Pro ASP.NET Core 9 (Upcoming, 2025)
+
+----------
+AutoHotkey
+----------
+
+Jack Dunning – AutoHotkey Hotkeys Tips and Tricks
+Jack Dunning – Beginning AutoHotkey
+Jean Lalonde – A Beginner’s Guide to AutoHotkey
+Jack Dunning – AutoHotkey Applications: Ideas and Tips for Writing Practical AutoHotkey Scripts
+Jack Dunning – Digging Deeper Into AutoHotkey
+Joe Glines – AutoHotkey v2: A New Approach to Automation
+Joe Glines & Isaias Baez – AutoHotkey v2 GUI Programming
+Joe Glines – AutoHotkey: The Ultimate Automation Guide
+
+------
+AutoIT
+------
+
+Andy Flesner – AutoIt v3: Your Quick Guide
+Jonathan Bennett – Learning to Script with AutoIt V3
+Rajat and Larry – AutoIt Scripting Tutorial
+AutoIt Community – AutoIt v3 Official Documentation (Help File)
+AutoIt Community – AutoIt Example Scripts + UDF Tutorials
+JoeDF, Melba23, et al. – Advanced AutoIt: GUI Automation and Scripting Techniques
+
+---------
+AutoLISP
+---------
+
+Rod Rawls – Inside AutoLISP
+Rod Rawls & Hagen – AutoLISP Programming: Principles and Techniques
+Reinaldo Togores – Visual LISP: A Guide to AutoLISP Programming
+Autodesk, Inc. – The AutoLISP Developer’s Guide
+Kevin Standiford – Mastering AutoLISP®: Programming Techniques and Applications
+George Omura & David Byrnes – AutoLISP in Plain English
+Lee Mac, Tharwat, Autodesk Community – Modern AutoLISP and VS Code
+Bill Kramer – Customizing AutoCAD with AutoLISP
+
+---
+Awk
+---
+
+Aho, Kernighan, Weinberger – The AWK Programming Language
+Arnold Robbins – GAWK: Effective AWK Programming
+Dale Dougherty & Arnold Robbins – Sed & Awk (2nd Edition)
+Dale Dougherty & Tim O’Reilly – UNIX Text Processing
+Arnold Robbins & Nelson H. F. Beebe – Classic Shell Scripting
+Richard Blum – Linux and Unix Shell Programming
+POSIX Standards – The AWK Manual (POSIX Edition)
+
+----
+Axum
+----
+
+Colin Campbell, Ralph Johnson, Ade Miller, Stephen Toub – Parallel Programming with Microsoft .NET: Design Patterns for Decomposition and Coordination on Multicore Architectures
+
+--
+b
+--
+
+Brian W. Kernighan & Dennis M. Ritchie – The C Programming Language
+
+---------
+Ballerina
+---------
+
+Official – Ballerina by Example (hands-on tutorials)
+Official – Ballerina Language Specification
+Eranga Bandara – Master Ballerina Programming (Community Book)
+Official – Ballerina Documentation and API Reference
+
+------
+BASH
+------
+
+Cameron Newham – Learning the bash Shell
+Chris F.A. Johnson – Pro Bash Programming: Scripting the GNU/Linux Shell
+Mendel Cooper – Advanced Bash-Scripting Guide
+Carl Albing, JP Vossen, Cameron Newham – Bash Cookbook
+Arnold Robbins & Nelson H.F. Beebe – Classic Shell Scripting
+
+------
+BATCH
+------
+
+John Paul Mueller – Windows Command Line Administration Instant Reference
+John Paul Mueller – Windows Batch Scripting (Sams Teach Yourself)
+Tim Hill – Windows Command Prompt: Tips, Tricks, and Workarounds
+Jonathan Moeller – The Windows Command Line Beginner's Guide
+Michael O. Massé – Advanced Windows Batch Scripting
+
+
+-----
+Bazel
+-----
+
+Nikhil Sontakke – Bazel: Build, Test, and Deploy Software at Scale
+Andy Singleton – Learning Bazel
+Roberto Prevato & Borislav Ivanov – Bazel in Action
+Suraj Patil – Hands-On Bazel: Building Efficient and Scalable Build Pipelines
+
+----
+BCPL
+----
+
+Martin Richards – BCPL: The Language and Its Compiler
+Martin Richards – Programming in BCPL
+Dennis Ritchie – The Development of the C Language (historical context)
+Various Authors – Systems Programming with BCPL (technical papers and collected works)
+
+---------
+BeanShell
+---------
+
+Pat Niemeyer – BeanShell: Java Scripting Made Easy
+John Ferguson Smart & Matthew McCullough – Java Power Tools
+Various Contributors – Scripting in Java: BeanShell and Beyond (Unofficial)
+Marc Loy & Robert Eckstein – Mastering Java Scripting
+
+----------------
+befunge(partial)
+----------------
+
+"The Art of Obfuscation: A Practical Guide to Writing Obfuscated Code" by Christian Collberg
+
+"Esolangs: The Most Bizarre Programming Languages Ever Created" by various authors (conceptual title)
+
+"The New Turing Omnibus: 66 Excursions in Computer Science" by A.K. Dewdney
+
+"Coders at Work: Reflections on the Craft of Programming" by Peter Seibel
+
+
+----
+beta
+----
+
+"Object-Oriented Programming in the BETA Programming Language" by Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
+
+----------------
+blockly(partial)
+----------------
+
+"Coding With Blockly" by Amber Lovett
+
+"Blockly" by Ben Rearick
+
+"Computational Thinking with Blockly Games: a step-by-step guide for young learners" by Dr. Ashok Banerji
+
+"Blockly Adventures with Zumi: Unleashing the Power of Code for Self-Driving Fun" by yousefsaid1
+
+"Learning Python with Google Blockly: A Kid's Introduction to Python Programming" by Achal
+
+----
+boo
+----
+
+"Boo Succinctly Revealed" by Rolly Noel
+
+"How to Think Like a Computer Scientist: Learning to Program with Boo" by J. Bryan Kelly
+
+
+-------
+Bosque
+-------
+
+Learn Bosque Programming: Boost your productivity and software reliability with Microsoft's new open-source programming language" by Sebastian Kaczmarek, Joel Ibaceta
+
+--
+C
+--
+
+The C Programming Language, Second Edition
+
+C Programming: A Modern Approach
+
+C Primer Plus
+
+C in a Nutshell: The Definitive Reference
+
+Expert C Programming: Deep C Secrets
+
+Modern C, Third Edition (by Jens Gustedt)
+
+Modern C Programming: Including Standards C99, C11, C17, C23 (by Orhan Gazi)
+
+---
+C#
+---
+
+C# in Depth (by Jon Skeet)
+
+Pro C# [Latest Version] with .NET [Latest Version] (by Andrew Troelsen and Phil Japikse)
+
+C# [Latest Version] in a Nutshell: The Definitive Reference (by Joseph Albahari and Ben Albahari)
+
+The C# Player's Guide (by RB Whitaker)
+
+CLR via C# (by Jeffrey Richter)
+
+Effective C#: 50 Specific Ways to Improve Your C# (by Bill Wagner)
+
+----
+C++
+----
+
+The C++ Programming Language (by Bjarne Stroustrup)
+
+Programming: Principles and Practice Using C++ (by Bjarne Stroustrup)
+
+A Tour of C++ (by Bjarne Stroustrup)
+
+C++ Primer (by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo)
+
+Professional C++ (by Marc Gregoire)
+
+Effective C++ (by Scott Meyers)
+
+Effective Modern C++ (by Scott Meyers)
+
+Exceptional C++ (by Herb Sutter)
+
+More Exceptional C++ (by Herb Sutter)
+
+Exceptional C++ Style (by Herb Sutter)
+
+C++ Coding Standards (by Herb Sutter and Andrei Alexandrescu)
+
+C++ Templates: The Complete Guide (by David Vandevoorde, Nicolai M. Josuttis, and Douglas Gregor)
+
+The C++ Standard Library: A Tutorial and Reference (by Nicolai M. Josuttis)
+
+C++ Concurrency in Action (by Anthony Williams)
+
+Modern C++ (by Jens Gustedt)
+
+C++17 - The Complete Guide (by Nicolai M. Josuttis)
+
+C++20 - The Complete Guide (by Nicolai M. Josuttis)
+
+Beginning C++23 (by Ivor Horton and Peter Van Weert)
+
+-------
+CADENCE
+-------
+
+FLOW dApp Complete Creation Manual: A detailed reference of smart contract language Cadence
+
+-----
+Cairo
+-----
+Pike Manual (Maintained by the Pike development team; originally contributed to by Fredrik Hübinette, Thomas Padron-McCarthy, and others)
+
+Pike: an Introduction (H. William Welliver III, Martin Bähr)
+
+The Practice of Programming (Brian W. Kernighan and Rob Pike)
+
+Pike Module Development Kit (MDK) Documentation (Pike development team)
+
+-----
+Chef
+-----
+
+Chef (Programming Language) (by Betascript Publishing)
+
+Strange Code: Esoteric Languages That Make Programming Fun Again (by Ronald T. Kneusel)
+
+-------
+Chisel
+-------
+
+Digital Design with Chisel (by Martin Schoeberl)
+
+Programming in Scala (by Martin Odersky, Lex Spoon, Bill Venners)
+
+Digital Design and Computer Architecture (by David Harris and Sarah Harris)
+
+Advanced FPGA Design: Architecture, Implementation, and Optimization (by Steve Kilts)
+
+--------
+Clojure
+--------
+
+Programming Clojure (by Stuart Halloway)
+
+The Joy of Clojure (by Michael Fogus and Chris Houser)
+
+Clojure for the Brave and True (by Daniel Higginbotham)
+
+Clojure Applied: From Practice to Practitioner (by Ben Vandgrift and Alex Miller)
+
+Mastering Clojure Macros: Write Cleaner, Faster, Smarter Code (by Colin Jones)
+
+Clojure in Action (by Amit Rathore and Francis Avila)
+
+Clojure Programming: Practical Lisp for the Java World (by Chas Emerick, Brian Carper, and Christophe Grand)
+
+Clojure, The Essential Reference (by Renzo Borgatti)
+
+Clojure Essentials: Definitive Reference for Developers and Engineers (by Rachel Bowyer and Renzo Borgatti)
+
+
+-----
+CMake
+-----
+
+Professional CMake: A Practical Guide (by Craig Scott)
+
+Modern CMake for C++: Effortlessly build cutting-edge C++ code and deliver high-quality solutions (by Rafał Świdziński)
+
+CMake Cookbook: Building, testing, and packaging modular software with modern CMake (by Dominik Berner)
+
+CMake Best Practices: Discover proven techniques for creating and maintaining programming projects with CMake (by Dominik Berner and Mustafa Kemal Gilor)
+
+Mastering CMake: A Cross-Platform Build System (by Ken Martin and Bill Hoffman)
+
+------
+COBAL
+------
+
+Murach's Mainframe COBOL (by Mike Murach, Anne Prince, Raul Menendez)
+
+Beginning COBOL for Programmers (by Michael Coughlan)
+
+Visual COBOL: A Developer's Guide to Modern COBOL (by Paul Kelly)
+
+Advanced COBOL for Structured and Object-Oriented Programming (by Gary DeWard Brown)
+
+Structured COBOL Programming (by Nancy B. Stern, Robert A. Stern)
+
+Mastering COBOL Programming (by Roger Hutty)
+
+Mastering COBOL Programming: From Basics to Expert Proficiency (by William Smith)
+
+------------
+CoffeeScript
+------------
+
+The Little Book on CoffeeScript (by Alex MacCaw)
+
+CoffeeScript Application Development (by Ian Young)
+
+CoffeeScript: Accelerated JavaScript Development (by Trevor Burnham)
+
+Programming in CoffeeScript (by Mark Bates)
+
+CoffeeScript in Action (by Patrick Lee)
+
+
+-----------
+ColdFusion
+-----------
+
+Programming ColdFusion (by Rob Brooks-Bilson)
+
+Advanced Cold Fusion 4 Application Development (by Ben Forta and Nate Weiss)
+
+ColdFusion 5 Developer's Guide (by C. Buffington and Michael Buffington)
+
+Mastering ColdFusion MX (by Arman Danesh)
+
+Programming ColdFusion MX: Creating Dynamic Web Applications (by Rob Brooks-Bilson)
+
+Advanced Macromedia ColdFusion MX 7 Application Development (by Ben Forta et al.)
+
+Adobe ColdFusion 8 Web Application Construction Kit: Getting Started (by Ben Forta, Leon Chalnick, Raymond Camden)
+
+Adobe ColdFusion 8 Web Application Construction Kit, Volume 3: Advanced Application Development (by Ben Forta, Charlie Arehart, Jeffrey Bouley, Jeff Tapper, Matt Tatam, Raymond Camden, Robi Sen, Sarge Sargent)
+
+ColdFusion 9 Developer Tutorial (by John Farrar)
+
+Adobe ColdFusion 9 Web Application Construction Kit: v. 1: Getting Started (by Ben Forta)
+
+Adobe ColdFusion 9 Web Application Construction Kit, Volume 2: Application Development (by Ben Forta)
+
+Adobe ColdFusion 9 Web Application Construction Kit, Volume 3: Advanced Application Development (by Ben Forta)
+
+Adobe® ColdFusion® Web Application Construction Kit: ColdFusion® 10 Enhancements and Improvements (by Ben Forta)
+
+Object-Oriented Programming in ColdFusion (by Matthew Gifford)
+
+The Definitive Guide To The ColdBox Platform (by Luis F. Majano)
+
+CF Alive: Making ColdFusion Modern, Vibrant and Secure (by Michaela Light)
+
+-----------
+common lisp
+-----------
+Common Lisp the Language (by Guy L. Steele Jr., Scott E. Fahlman, Richard P. Gabriel, David A. Moon, and Daniel L. Weinreb) - This is CLtL1.
+
+Common Lisp the Language, Second Edition (by Guy L. Steele Jr.) - This is CLtL2.
+
+ANSI Common Lisp (by Paul Graham)
+
+Practical Common Lisp (by Peter Seibel)
+
+On Lisp: Advanced Techniques for Common Lisp (by Paul Graham)
+
+Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp (by Peter Norvig)
+
+Common Lisp: A Gentle Introduction to Symbolic Computation (by David S. Touretzky)
+
+Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS (by Sonya E. Keene)
+
+The Art of the Metaobject Protocol (by Gregor Kiczales, Jim des Rivieres, and Daniel G. Bobrow)
+
+Let Over Lambda: 50 Years of Lisp (by Doug Hoyte)
+
+Common Lisp Recipes (by Edmund Weitz)
+
+Structure and Interpretation of Computer Programs (by Harold Abelson and Gerald Jay Sussman with Julie Sussman)
+
+
+-----
+cool
+-----
+The Cool Reference Manual (Alexander Aiken)
+
+COOLIO: A Language Support Extension for the Classroom Object Oriented Language (Linhan Li and ThanhVu Nguyen)
+
+
+---
+coq
+---
+Interactive Theorem Proving and Program Development: Coq'Art: The Calculus of Inductive Constructions (by Yves Bertot and Pierre Castéran)
+
+Certified Programming with Dependent Types: A Pragmatic Introduction to the Coq Proof Assistant (by Adam Chlipala)
+
+Software Foundations, Volume 1: Logical Foundations (by Benjamin C. Pierce et al.)
+
+Software Foundations, Volume 2: Programming Language Foundations (by Benjamin C. Pierce et al.)
+
+Software Foundations, Volume 3: Verified Functional Algorithms (by Andrew W. Appel)
+
+Software Foundations, Volume 4: QuickChick: Property-Based Testing in Coq (by Leonidas Lampropoulos and Benjamin C. Pierce)
+
+Programs and Proofs: Mechanizing Mathematics with Dependent Types (by Ilya Sergey)
+
+Coq Language and Proof Development: Definitive Reference for Developers and Engineers (by Richard Johnson)
+
+-------
+crystal
+-------
+Programming Crystal: Create High-Performance, Safe, Concurrent Apps (by Ivo Balbaert and Simon St. Laurent)
+
+Crystal Programming (by George Dietrich and Guilherme Bernal)
+
+Mastering Crystal Programming: The Definitive Guide for Developers to Crush Coding Nightmares (by Robert Johnson)
+
+Crystal Programming - 1st Edition (eBook mentioned, authors may be Dietrich/Bernal)
+
+----
+css
+----
+
+CSS: The Definitive Guide (by Eric A. Meyer and Estelle Weyl)
+
+CSS in Depth (by Keith J. Grant)
+
+CSS Secrets: Better Solutions to Everyday Web Design Problems (by Lea Verou)
+
+HTML & CSS: Design and Build Websites (by Jon Duckett)
+
+Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics (by Jennifer Niederst Robbins)
+
+Responsive Web Design with HTML5 and CSS (by Ben Frain)
+
+Smashing CSS: Professional Techniques for Modern Layout (by Eric Meyer)
+
+CSS Mastery: Advanced Web Standards Solutions (by Andy Budd, Cameron Moll, Simon Collison, and Emil Björklund - authors may vary by edition)
+
+Murach's HTML5 and CSS3 (by Anne Boehm and Zak Ruvalcaba)
+
+HTML and CSS QuickStart Guide (by David DuRocher)
+
+Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages (by Eric Freeman and Elisabeth Robson)
+
+CSS Pocket Reference (by Eric A. Meyer)
+
+--
+d
+--
+ 
+The D Programming Language (by Andrei Alexandrescu)
+
+Programming in D (by Ali Çehreli)
+
+Learning D (by Michael Parker)
+
+D Cookbook (by Adam D. Ruppe)
+
+D, the Best Programming Language, for Former Python Developers (by Victor Porton)
+
+Build web apps with Vibe.d by learning from a learner (by Rey Valeza)
+
+D Web Development (by Kai Nacke)
+
+-----
+dart
+-----
+
+The Dart Programming Language (by Gilad Bracha)
+
+Dart Apprentice: Fundamentals (by Jonathan Sande and Matt Galloway)
+
+Dart Apprentice: Beyond the Basics (by Jonathan Sande and Matt Galloway)
+
+Flutter Complete Reference 2.0: The ultimate reference for Dart and Flutter (by Alberto Miola)
+
+Programming Dart: Build Your First Program and Master the Fundamentals (by Michael Parker)
+
+Mastering Dart (by Sergey Akopkokhyants)
+
+Dart: Up and Running: A New, Tool-Friendly Language for Structured Web Apps (by Kathy Walrath and Seth Ladd)
+
+Dart Cookbook (by Ivo Balbaert)
+
+Dart: Scalable Application Development (by Davy Mitchell, Sergey Akopkokhyants, and Ivo Balbaert)
+
+Learning Dart - Second Edition (by Ivo Balbaert and Dzenan Ridjanovic)
+
+Dart in Action (by Chris Buckett)
+
+The Art of Dart: Master the Dart Programming Language (by Kenneth Choi)
+
+Dart Programming: The Complete Guide (by JustAcademy - Note: This appears to be an instructional guide from an academy, potentially available as an ebook or print-on-demand.)
+
+--------
+datalog
+--------
+Foundations of Databases: The Logical Level (by Serge Abiteboul, Richard Hull, and Victor Vianu)
+
+Datalog and Recursive Query Processing (Foundations and Trends(r) in Databases) (by Boon Thau Loo, Todd J. Green, Shan Shan Huang, Wenchao Zhou)
+
+Logic Programming and Databases (by Raghu Ramakrishnan and Johannes Gehrke)
+
+Deductive Databases and Logic Programming (edited by Jack Minker)
+
+The Description Logic Handbook: Theory, Implementation, and Applications (by Franz Baader, Diego Calvanese, Deborah L. McGuinness, Daniele Nardi, and Peter F. Patel-Schneider)
+
+Logic in Computer Science: Modelling and Reasoning about Systems (by Michael Huth and Mark Ryan)
+
+Principles of Knowledge Representation and Reasoning (by Gerhard Brewka, Thomas Eiter, and Miroslaw Truszczynski)
+
+-------
+Datomic
+-------
+Microservices with Clojure (by Anuj Kumar)
+
+Professional Clojure (by various authors, including Michael Fogus, Alex Miller, and others depending on the edition)
+
+The Joy of Clojure (by Michael Fogus and Chris Houser)
+
+Programming Clojure (by Stuart Halloway)
+
+----
+dcl
+----
+Writing Real Programs in DCL (by Paul Anagnostopoulos and Steve Hoffman)
+
+VAX/VMS: Mastering DCL Commands and Utilities (by Daniel A. Sideris)
+
+OpenVMS User's Manual (Various authors/editions by DEC/Compaq/HP/VSI)
+
+OpenVMS DCL Dictionary (Various authors/editions by DEC/Compaq/HP/VSI)
+
+------
+delphi
+------
+
+Object Pascal Handbook (by Marco Cantù)
+
+Mastering Delphi series (by Marco Cantù)
+
+Delphi in a Nutshell (by Ray Lischner)
+
+Expert Delphi: Robust and fast cross-platform application development (by Paweł Głowacki)
+
+Fearless Cross-Platform Development with Delphi (by Primož Gabrijelčič)
+
+Delphi in Depth: FireDAC (by Cary Jensen Ph.D.)
+
+Delphi High Performance (by Primož Gabrijelčič)
+
+Coding in Delphi (by Nick Hodges)
+
+Delphi GUI Programming with FireMonkey (by Andrea Magni)
+
+Modern Application Development with Delphi (by Dr. Holger Flick)
+
+
+------
+dibol
+------
+DIBOL for Beginners (by Digital Equipment Corporation)
+
+American National Standard for Information Systems - Programming Language, DIBOL (by American National Standards Institute and Computer and Business Equipment Manufacturers Association (CBEMA))
+
+DIBOL-83 Language Reference Manual (by Digital Equipment Corporation)
+
+The DIBOL Handbook (Author information is scarce, often internal documentation)
+
+Synergy DBL Reference Manual (by Synergex)
+
+-----------
+DOCKERFILE
+-----------
+
+Docker in Practice (by Ian Miell and Aidan Hobson Sayers)
+
+Learn Docker in a Month of Lunches (by Elton Stoneman)
+
+Docker in Action (by Jeff Nickoloff and Stephen Kuenzli)
+
+Mastering Docker from Scratch to Scale (by Sudipta Biswas)
+
+Containers for Developers Handbook (by Francisco Javier Ramírez Urea)
+
+Docker - Practical Guide for Developers and DevOps Teams (by Bernd Öggl and Michael Kofler)
+
+
+------------------
+DOLPHIN SMALLTALK 
+------------------
+The Dolphin Smalltalk Companion: A Hands-on Guide to Building Complete Applications (by Ted Bracht)
+
+Dolphin SmallTalk (by Betascript Publishing)
+
+
+-------------------
+DOT NET FRAMEWORK
+-------------------
+CLR via C# (by Jeffrey Richter)
+
+C# in Depth (by Jon Skeet)
+
+C# 1X.0 in a Nutshell: The Definitive Reference (by Joseph Albahari and Ben Albahari)
+
+Head First C#: A Learner's Guide to Real-World Programming with C#, XAML, and .NET (by Jennifer Greene and Andrew Stellman)
+
+Pro C# with .NET: Foundational Principles and Practices in Programming (by Andrew Troelsen and Philip Japikse)
+
+Programming .NET Framework (by Jeff Prosise)
+
+Microsoft .NET Framework 4.5 Development Cookbook (by Rob Miles and Steven Smith)
+
+ASP.NET 4.0 in Practice (by Daniele Bochicchio, Stefano Mostarda, and Marco De Sanctis)
+
+WPF Unleashed (by Adam Nathan)
+
+Windows Forms Programming with C# (by Erik Brown)
+
+ADO.NET in Action (by Glenn Johnson)
+
+Inside Microsoft .NET IL Assembler (by Serge Lidin)
+
+ASP.NET Core in Action (by Andrew Lock)
+
+Pro ASP.NET Core (by Adam Freeman)
+
+C# 9 and .NET 5 – Modern Cross-Platform Development (by Mark J. Price)
+
+Entity Framework Core in Action (by Jon Smith)
+
+Building Microservices with .NET (by Christian Horsdal Gammelgaard)
+
+Dependency Injection in .NET (by Mark Seemann)
+
+Practical Microservices with Dapr and .NET (by Edwin van Wijk and Mark van Oosterwijk)
+
+.NET MAUI in Action (by Maddy Montaquila and James Montemagno)
+
+---------------
+DYNAMICS 365 X+
+---------------
+
+Dynamics 365 for Finance and Operations Development Cookbook (by Deepak Agarwal and Abhimanyu Singh)
+
+Extending Microsoft Dynamics 365 Finance and Supply Chain Management Cookbook (by Simon Buxton)
+
+Microsoft Dynamics AX 2012 R3 Development Cookbook (by Mindaugas Danys)
+
+Microsoft Dynamics 365 for Finance and Operations: Development Guide (by Jitesh Borad)
+
+Inside Microsoft Dynamics AX 2012 (by The Microsoft Dynamics AX Team)
+
+
+------------
+eiffelstudio
+------------
+
+Object-Oriented Software Construction (by Bertrand Meyer)
+
+Eiffel: The Language (by Bertrand Meyer)
+
+Touch of Class: Learning to Program Well with Objects and Contracts (by Bertrand Meyer)
+
+The Eiffel Method (ECMA-367 Standard) (by ECMA International - This is the official language standard, often available as a PDF but can be printed.)
+
+The Dolphin Smalltalk Companion: A Hands-on Guide to Building Complete Applications (by Ted Bracht) - While titled "Dolphin Smalltalk," this book by a prominent Eiffel developer actually uses Eiffel to teach concepts and is considered relevant for Eiffel learning.
+
+Seamless Object-Oriented Software Architecture (by Kim Waldén and Jean-Marc Nerson) - This book is about the Business Object Notation (BON), which is closely associated with Eiffel.
+
+A Functional Pattern System for Object-Oriented Design (by Thomas Kühne) - Uses Eiffel for code examples.
+
+------
+elixir
+------
+Programming Elixir ≥ 1.6 (by Dave Thomas)
+
+Elixir in Action (by Saša Jurić)
+
+Phoenix in Action (by Geoffrey Lessel)
+
+Designing Elixir Systems with OTP (by Bruce Tate and James Edward Gray II)
+
+Adopting Elixir (by Ben Marx, José Valim, and Bruce Tate)
+
+Metaprogramming Elixir: Write Less Code, Get More Done (by Chris McCord)
+
+Functional Web Development with Elixir, OTP, and Phoenix (by Lance Halvorsen)
+
+Elixir in Depth (by Bartosz Paternoga)
+
+The Little Elixir & OTP Guidebook (by Benjamin Tan Wei Hao)
+
+Testing Elixir: Effective and Robust Testing for Elixir and its Ecosystem (by Andrea Leopardi and Jeffrey Matthias)
+
+--------
+gdscript
+--------
+Learning GDScript by Developing a Game with Godot 4 (by Sander Vanhove)
+
+Godot From Zero to Proficiency (Intermediate) (by Patrick Felicia)
+
+Godot 4 Game Development Projects (by Chris Bradfield)
+
+Godot 4 Game Development Cookbook (by Jeff Johnson)
+
+Programming for Game Design: A Hands-On Guide with Godot (by Wallace Wang and Tonnetta Walcott)
+
+Game Development Patterns with Godot 4 (by Henrique Campos)
+
+Godot from Zero to Proficiency (Proficient) (by Patrick Felicia)
+
+Beginning Game Development with Godot (by Maithili Dhule)
+
+Mastering Godot: Complete instructions for making video games (by Marijo Trkulja)
+
+Godot from Zero to Proficiency (Advanced) (by Patrick Felicia)
+
+Moving from Unity to Godot: An In-Depth Handbook to Godot for Unity Users (by Alan Thorn)
+
+Making games with GD Script: Advanced use of Godot game engine script (by Marijo Trkulja)
+
+Godot from Zero to Proficiency (Foundations) (by Patrick Felicia)
+
+Godot Engine Game Development Projects (by Chris Bradfield)
+
+Godot Engine Game Development in 24 Hours, Sams Teach Yourself (by Ariel Manzur)
+
+------
+gleam
+------
+
+Learn The Gleam Language (by human154 / The Gleam Community)
+
+Gleam: Let the development shine (by Manuel Ángel Rubio Jiménez)
+
+----
+go
+----
+
+The Go Programming Language (by Alan A. A. Donovan and Brian W. Kernighan)
+
+Go in Action (by William Kennedy, Brian Ketelsen, and Erik St. Martin)
+
+Learning Go: An Idiomatic Approach to Real-World Go Programming (by Jon Bodner)
+
+Go Programming - From Beginner to Professional (by Samantha Coyle)
+
+Head First Go (by Jay McGavren)
+
+Concurrency in Go: Tools and Techniques for Developers (by Katherine Cox-Buday)
+
+Go Web Programming (by Sau Sheong Chang)
+
+Mastering Go (by Mihalis Tsoukalos)
+
+100 Go Mistakes and How to Avoid Them (by Teiva Harsanyi)
+
+Know Go: Generics (by John Arundel)
+
+Let's Go! (by Alex Edwards)
+
+Let's Go Further (by Alex Edwards)
+
+-----
+golo
+-----
+
+Golo, a Dynamic, Light and Efficient Language for Post-Invokedynamic JVM (by Julien Ponge, Frédéric Le Mouël, and Nicolas Stouls)
+
+-----
+gradle
+------
+Gradle in Action (by Benjamin Muschko)
+
+Learning Gradle: An in-depth guide to using the Gradle build automation tool (by Adam L. Davis)
+
+Gradle Beyond the Basics (by Tim Berglund)
+
+Building and Testing with Gradle: Understanding Next-Generation Builds (by Tim Berglund and Matthew McCullough)
+
+Mastering Gradle (by Mainak Mitra)
+
+Gradle Build Bible: Learn to Build Software with Gradle (by Tom Gregory)
+
+Gradle Effective Implementation Guide (by Hubert Klein Ikkink)
+
+
+-------
+graphql
+-------
+
+GraphQL in Action (by Samer Buna)
+
+Learning GraphQL: Declarative Data Fetching for Modern Web Apps (by Eve Porcello and Alex Banks)
+
+Production Ready GraphQL (by Marc-André Giroux)
+
+The Road to GraphQL: Your journey to master pragmatic GraphQL in JavaScript with React.js and Node.js (by Robin Wieruch)
+
+Full-Stack Web Development with GraphQL and React (by Sebastian Grebe)
+
+Full Stack GraphQL Applications: With React, Node.js, and Neo4j (by William Lyon)
+
+Black Hat GraphQL: Attacking Next Generation APIs (by Nick Aleks and Dolev Farhi)
+
+Craft GraphQL APIs in Elixir with Absinthe: Flexible, Robust Services for Queries, Mutations, and Subscriptions (by Bruce Williams and Ben Wilson)
+
+--------
+groovy
+--------
+Groovy in Action, Second Edition (by Dierk König, Paul King, Guillaume Laforge, Hamlet D'Arcy, Cédric Champeau, Erik Pragt, and Jon Skeet)
+
+Programming Groovy 2: Dynamic Productivity for the Java Developer (by Venkat Subramaniam)
+
+Learning Groovy (by Adam L. Davis)
+
+Groovy Recipes: Greasing the Wheels of Java (by Scott Davis)
+
+Making Java Groovy (by Ken Kousen)
+
+Groovy for Domain-Specific Languages (by Fergal Dearle)
+
+-----
+hack
+-----
+
+Hack and HHVM (by Owen Yamauchi)
+
+-----
+haml
+-----
+Instant Haml (by Krzysztof Niksinski)
+
+----------
+handlebars
+----------
+
+Instant Handlebars.js (by Gabriel Manricks)
+
+-----
+gmc
+-----
+
+Haskell Programming from First Principles (by Christopher Allen and Julie Moronuki)
+
+Programming in Haskell (by Graham Hutton)
+
+Learn You a Haskell for Great Good! (by Miran Lipovača)
+
+Real World Haskell (by Bryan O'Sullivan, Don Stewart, and John Goerzen)
+
+Haskell in Depth (by Vitaly Bragilevsky)
+
+Parallel and Concurrent Programming in Haskell (by Simon Marlow)
+
+Thinking Functionally with Haskell (by Richard Bird)
+
+Purely Functional Data Structures (by Chris Okasaki)
+
+Haskell High Performance Programming (by Samuli Thomasson)
+
+------
+haxe
+------
+
+Haxe in Action (by Franco Ponticelli and Simon Krajewski)
+
+Learning Haxe 2.0 (by Jonathan Campos)
+
+The Definitive Guide to Haxe & OpenFL (by Joshua T. Mason)
+
+Haxe Game Development Essentials (by Jeremy McCurdy)
+
+
+----
+hcl
+----
+
+Beginning HCL Programming: Using Hashicorp Language for Automation and Configuration (by Pierluigi Riti and David Flynn)
+
+Terraform: Up & Running: Writing Infrastructure as Code (by Yevgeniy Brikman)
+
+Mastering Terraform (by Casey Lee, Chris Moyer, and Josh Garman - Note: Newer editions may have different authors, e.g., Mark Tinderholt)
+
+The Terraform Book: Infrastructure as Code with Terraform (by Anton Babenko and Boris Burkov)
+
+-----
+icon
+-----
+
+
+The Icon Programming Language (by Ralph E. Griswold and Madge T. Griswold)
+
+The Implementation of the Icon Programming Language (by Ralph E. Griswold and Madge T. Griswold)
+
+Graphics Programming in Icon (by Ralph E. Griswold, Clinton L. Jeffery, and Gregg M. Townsend)
+
+Programming with Icon (by Clinton L. Jeffery)
+
+
+-----
+idris
+-----
+
+Type-Driven Development with Idris (by Edwin Brady)
+
+Introduction to Dependent Types with Idris: Encoding Program Proofs in Types (by Jonathan Boro and Jean-Philippe Langlois)
+
+Idris Unleashed: Type-Driven Development and Theorem Proving in Functional Programming (by Robert Johnson)
+
+Gentle Introduction to Dependent Types with Idris (by Boro Sitnikovski)
+
+-------
+inform
+-------
+
+The Inform Designer's Manual, 4th Edition (by Graham Nelson)
+
+The Inform Beginner's Guide (by Roger Firth and Sonja Kesserich)
+
+Writing Interactive Fiction with Inform 7 (by Aaron A. Reed)
+
+The Inform 7 Handbook (by Jim Aikin)
+
+Designing Interactive Fiction (by Aaron A. Reed)
+
+----
+io
+----
+
+Io Programming Language (by Jeremy Tregunna)
+
+Io (by Steve Dekorte)
+
+---
+j
+---
+J for C Programmers (by Roger Hui)
+
+Learning J (by Roger Stokes)
+
+J Primer (by Ken Iverson and Roger Hui)
+
+Arithmetic (by Ken Iverson)
+
+------
+java
+------
+Java: The Complete Reference (by Herbert Schildt)
+
+Core Java, Volume I--Fundamentals (by Cay S. Horstmann and Gary Cornell)
+
+Head First Java (by Kathy Sierra and Bert Bates)
+
+Thinking in Java (by Bruce Eckel)
+
+Java: A Beginner's Guide (by Herbert Schildt)
+
+Effective Java (by Joshua Bloch)
+
+Java Concurrency in Practice (by Brian Goetz, Tim Peierls, Joseph Bowbeer, David Holmes, and Joshua Bloch)
+
+Clean Code: A Handbook of Agile Software Craftsmanship (by Robert C. Martin)
+
+Head First Design Patterns (by Elisabeth Freeman, Eric Freeman, Bert Bates, and Kathy Sierra)
+
+Java Performance: The Definitive Guide (by Scott Oaks)
+
+Java 8 in Action: Lambdas, Streams, and Functional-Style Programming (by Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft)
+
+Mastering Java 11 (by Dr. Edward Lavieri)
+
+OCP Oracle Certified Professional Java SE 17 Developer Study Guide (by Jeanne Boyarsky and Scott Selikoff)
+
+OCP Oracle Certified Professional Java SE 21 Developer Study Guide (by Jeanne Boyarsky and Scott Selikoff)
+
+-----------
+ECMAScript
+-----------
+JavaScript: The Definitive Guide (by David Flanagan)
+
+Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming (by Marijn Haverbeke)
+
+You Don't Know JS Yet (series) (by Kyle Simpson)
+
+Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers (by Nicholas C. Zakas)
+
+Exploring ES6 / Exploring ES20XX (by Dr. Axel Rauschmayer)
+
+Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript (by David Herman)
+
+Functional-Light JavaScript: Balanced, Pragmatic FP in JavaScript (by Kyle Simpson)
+
+JavaScript: The Good Parts (by Douglas Crockford)
+
+------
+jinja
+------
+Flask Web Development: Developing Web Applications with Python (by Miguel Grinberg)
+
+Flask Framework Cookbook (by Shalabh Aggarwal)
+
+Mastering Python Networking (by Eric Chou)
+
+Automation for Network Engineers Using Python and Jinja2 (by Sanjay Yadav)
+
+------
+jovial
+------
+
+The JOVIAL Manual: Part 2, Revision 1. The JOVIAL Grammar and Lexicon (by C. J. Shaw, System Development Corporation (SDC))
+
+Computer Programming Manual for the JOVIAL (J73) Language (by SofTech, Inc.)
+
+The JOVIAL (J73) Workbook. Volume 13. Introduction to the CHOL Extensions. (Various contributors, likely for the Air Force/defense contractors)
+
+MIL-STD-1589C, Military Standard: JOVIAL (J73) (United States Department of Defense)
+
+PROGRAMMING LANGUAGES AND JOVIAL (by C. J. Shaw, System Development Corporation (SDC))
+
+------
+json
+------
+
+JavaScript and JSON Essentials: Build light weight, scalable, and faster web applications with the power of JSON (by Saravana Kumar)
+
+JSON at Work: Strategies for Managing Data Flow in the Web, Mobile, and Cloud (by Tom Marrs)
+
+Guide to JSON: Practical Guide (by A. de Quattro)
+
+ECMA-404: The JSON Data Interchange Syntax (Authored by the Ecma International Technical Committee 39 - TC39)
+
+RFC 8259: The JavaScript Object Notation (JSON) Data Interchange Format (Authored by T. Bray, Ed.)
+
+ISO/IEC 21778:2017: Information technology — The JSON data interchange syntax (Authored by ISO/IEC JTC 1/SC 22)
+
+
+-----
+JULIA
+-----
+
+Think Julia: How to Think Like a Computer Scientist (by Ben Lauwens and Allen B. Downey)
+
+Hands-On Design Patterns and Best Practices with Julia (by Tom Kwong)
+
+Julia High Performance (by Avik Sengupta)
+
+Data Science with Julia (by Paul D. McNicholas and Peter Tait)
+
+Introduction to Numerical Computing with Julia (by S. Lennart Johnsson)
+
+Mastering Julia (by Malcolm Sherrington)
+
+Julia Quick Syntax Reference (by Antonello Lobianco)
+
+Practical Julia: A Hands-On Introduction for Scientific Minds (by Lee Phillips)
+
+Julia for Data Analysis (by Bogumił Kamiński)
+
+Fundamentals of Numerical Computation: Julia Edition (by Tobin A. Driscoll and Richard J. Braun)
+
+Nonlinear Dynamics: A Concise Introduction Interlaced with Code (by George Datseris and Ulrich Parlitz)
+
+Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence (by Hayden Klok and Yoni Nazarathy)
+
+Julia - Bit by Bit (by Noel Kalicharan)
+
+Julia Data Science (by Jose Storopoli, Rik Huijzer, and Lazaro Alonso)
+
+Hands-on Julia Programming (by Sambit Kumar Dash)
+
+Julia for Beginners (by Erik Engheim)
+
+Learning Julia (by Anshul Joshi and Rahul Lakhanpal)
+
+Julia Cookbook (by Jalem Raj Rohit)
+
+Beginning Julia Programming For Engineers and Scientists (by Sandeep Nagar)
+
+Julia as a Second Language (by Erik Engheim)
+
+-------
+KOTLIN
+-------
+
+Kotlin in Action (by Dmitry Jemerov and Svetlana Isakova)
+
+Head First Kotlin: A Brain-Friendly Guide (by Dawn Griffiths and David Griffiths)
+
+Atomic Kotlin (by Bruce Eckel and Svetlana Isakova)
+
+Kotlin from Scratch: A Project-Based Introduction for the Intrepid Programmer (by Faisal Islam)
+
+Beginning Kotlin Programming For Engineers and Scientists (by Sandeep Nagar)
+
+Effective Kotlin (by Marcin Moskała)
+
+Kotlin Coroutines: Deep Dive (by Roman Elizarov, Svetlana Isakova, and Dmitry Jemerov)
+
+Functional Programming in Kotlin (by Runar Bjarnason, Paul Chiusano, and Marco Vermeulen)
+
+Kotlin Design Patterns and Best Practices (by Alexey Soshin)
+
+Mastering Kotlin (by Hadi Hariri)
+
+Programming Android with Kotlin (by Pierre-Olivier Laurence, Amanda Hinchman-Dominguez, Mike Dunn, G. Blake Meike)
+
+Kotlin for Android App Development (by Peter Sommerhoff)
+
+Simplifying Application Development with Kotlin Multiplatform Mobile (by Róbert Nagy)
+
+
+---------
+liquid
+---------
+
+Liquid Template Language Documentation (Book Edition) (by Tobias Lütke, et al.)
+
+Shopify Theme Customization with Liquid: Design state-of-the-art, dynamic Shopify eCommerce websites using Liquid's powerful features (by Mladen Djordjevic)
+
+The DIY Shopify Coding Handbook (by Ed Codes)
+
+JavaScript and JSON Essentials: Build light weight, scalable, and faster web applications with the power of JSON (by Saravana Kumar)
+
+----------
+livescript
+----------
+
+"Eloquent JavaScript" by Marijn Haverbeke
+
+"You Don’t Know JS" series by Kyle Simpson
+
+"JavaScript: The Definitive Guide" by David Flanagan
+
+"Functional-Light JavaScript" by Kyle Simpson
+
+----
+lua
+----
+
+"Programming in Lua" by Roberto Ierusalimschy (Note: this is a series with multiple editions, each covering a specific major Lua version, e.g., Fourth Edition, Third Edition, etc.)
+
+"Lua Programming Gems" edited by Luiz Henrique de Figueiredo, Waldemar Celes, Roberto Ierusalimschy'
+
+----
+logo
+----
+
+Mindstorms: Children, Computers, and Powerful Ideas" by Seymour Papert
+
+"The Children's Machine: Rethinking School in the Age of the Computer" by Seymour Papert
+
+"Computer Science Logo Style" (3 Volumes) by Brian Harvey
+
+"Turtle Geometry: The Computer as a Medium for Exploring Mathematics" by Harold Abelson and Andrea A. diSessa
+
+"Exploring Language with Logo" by E. Paul Goldenberg and Wallace Feurzeig
+
+"Learning with Logo" by Daniel Watt
+
+"Teaching with Logo: Building Blocks for Learning" by Molly Watt and Daniel Watt
+
+"The Great Logo Adventure" by Jim Muller
+
+------
+maple
+------
+
+"The Maple Book" by Frank Garvan
+
+"Maple V Primer" by Frank Garvan
+
+"Maple: A Comprehensive Introduction" by Roy A. Nicolaides and Noel J. Walkington
+
+"Advanced Problem Solving with Maple: A First Course" by William P. Fox and William C. Bauldry
+
+"Scientific Computing - An Introduction using Maple and MATLAB" by Walter Gander, Martin J. Gander, and Felix Kwok
+
+"Advanced Mathematical Methods with Maple" by Derek Richards
+
+"Introduction to Maple" by André Heck
+
+"Maple V by Example" by Martha L. Abell and James P. Braselton
+
+"Maple: An Introduction to Mathematical Computing" by E. Scott Moritsugu
+
+--
+m
+--
+"The Definitive Guide to Power Query (M)" by Gregory Deckler, Rick de Groot, and Melissa de Korte
+
+"M is for (Data) Monkey: A Guide to the M Language in Excel Power Query" by Ken Puls and Miguel Escobar
+
+"Collect, Combine, and Transform Data Using Power Query in Power BI and Excel" by Gil Raviv (The 2nd Edition also lists Daniil Maslyuk as a co-author)
+
+-------
+matlab
+-------
+
+"MATLAB Programming for Engineers" by Stephen J. Chapman
+
+"MATLAB: A Practical Introduction to Programming and Problem Solving" by Stormy Attaway
+
+"A Guide to MATLAB: For Beginners and Experienced Users" by Brian R. Hunt, Ronald L. Lipsman, Jonathan M. Rosenberg
+
+"Essential MATLAB for Engineers and Scientists" by Brian Hahn and Daniel Valentine
+
+"Numerical Computing with MATLAB" by Cleve B. Moler (Cleve Moler is the creator of MATLAB)
+
+"Experiments with MATLAB" by Cleve Moler
+
+"Digital Image Processing Using MATLAB" by Rafael C. Gonzalez, Richard E. Woods, and Steven L. Eddins
+
+"Applied Numerical Methods Using MATLAB" by Won Y. Yang, Wenwu Cao, Tae-Sang Chung, and John Morris
+
+"An Introduction to Numerical Methods: A MATLAB Approach" by Abdelwahab Kharab and Ronald B. Guenther
+
+"An Introduction to Programming and Numerical Methods in MATLAB" by S.R. Otto and J.P. Denier
+
+"MATLAB for Engineers" by Holly Moore
+
+-----
+move
+-----
+
+"The Move Book" - Authored/Maintained by: Aptos Labs team, Mysten Labs team, and core Move language contributors
+
+"Move: A Language With Programmable Resources" - by Sam Blackshear, Evan Cheng, David L. Dill, Victor Gao, Ben Maurer, Todd Nowacki, Alistair Pott, Shaz Qadeer, Rain, Dario Russi, Stephane Sezer, Tim Zakian, Runtian Zhou
+
+"Move Patterns: Design Patterns for Resource Based Programming" - by Ville Sundell (and other contributors)
+
+------
+natural
+------
+"Natural Programming Basic" - by Software AG Learning Portal
+
+"Natural Reference Manuals" - by Software AG
+
+"Natural: A Fourth-Generation Language" - by Rainer Wetzlar
+
+"NATURAL Essentials" - by Stephen Paul Simpson
+
+--------
+nermerle
+--------
+
+"The SPARC Architecture Manual: Version 8" - by SPARC International, Inc.
+
+"The SPARC Architecture Manual: Version 9" - by SPARC International, Editors: David L. Weaver and Tom Germond
+
+"SPARC Architecture, Assembly Language Programming, and C" - by Richard P. Paul
+
+----
+nim
+----
+
+"The Nemerle Language Reference" - Authored/Maintained by: The Nemerle Development Team
+
+"Grokking Nemerle" - Authored by: Various community contributors
+
+"Nemerle Quick Guide" - Authored by: Various community contributors
+
+"Nemerle Is Notable" - by Denis Rystsov
+
+------------
+objective c
+------------
+
+"Programming in Objective-C 2.0" - by Stephen G. Kochan
+
+"Effective Objective-C 2.0: 52 Specific Ways to Improve Your iOS and OS X Programs" - by Matt Galloway
+
+"Learning Objective-C 2.0: A Hands-on Guide to Objective-C for Mac and iOS Developers" - by Robert Clair
+
+"Objective-C Programming: The Big Nerd Ranch Guide" - by Aaron Hillegass (with other contributors in later editions, such as Mark Fenoglio, Mikey Ward)
+
+"The Objective-C 2.0 Programming Language" - by Apple Inc.
+
+------
+ocaml
+------
+
+"Real World OCaml: Functional Programming for the Masses" - by Yaron Minsky, Anil Madhavapeddy, and Jason Hickey
+
+"OCaml from the Very Beginning" - by John Whitington
+
+"More OCaml: Algorithms, Methods, & Diversions" - by John Whitington
+
+"OCaml Programming: Correct + Efficient + Beautiful" - by Michael R. Clarkson, et al.
+
+"The OCaml System: Documentation and User's Manual" - by The OCaml Development Team
+
+"Developing Applications with Objective Caml" - by Emmanuel Chailloux, Pascal Manoury, and Bruno Pagano
+
+"Using, Understanding, and Unraveling The OCaml Language: From Practice to Theory and vice versa" - by Didier Rémy
+
+-----
+opal
+-----
+
+"Opal Documentation" - Authored by: The Opal Core Team (including Adam Beynon, Elia Schito, and other contributors)
+
+"Opal CLI Documentation" - Authored by: The Opal Security Team
+
+-------
+OpenCL
+-------
+
+"OpenCL Programming Guide" - by Aaftab Munshi, Benedict Gaster, Timothy G. Mattson, James Fung, Dan Ginsburg
+
+"Heterogeneous Computing with OpenCL" - by Benedict Gaster, Lee Howes, David R. Kaeli, Perhaad Mistry, Dana Schaa
+
+"Heterogeneous Computing with OpenCL 2.0" - by David R. Kaeli, Perhaad Mistry, Dana Schaa, Dong Ping Zhang
+
+"OpenCL in Action: How to Accelerate Graphics and Computations" - by Matthew Scarpino
+
+"OpenCL Programming by Example" - by Ravishekhar Banger, Koushik Bhattacharyya
+
+"The OpenCL Specification" - by The Khronos Group
+
+"OpenCL 2.1 Reference Guide" - by Khronos Group
+
+"OpenCL 3.0 Reference Guide" - by Khronos Group
+
+"KhronosGroup/OpenCL-Guide" - by The Khronos Group (and community contributors)
+
+--------
+openqasm
+--------
+"Open Quantum Assembly Language" - by Andrew W. Cross, Lev S. Bishop, John A. Smolin, Jay M. Gambetta (This paper introduced OpenQASM 2.0)
+
+"OpenQASM 3: A broader and deeper quantum assembly language" - by Andrew W. Cross, Ali Javadi-Abhari, Thomas Alexander, Niel de Beaudrap, Lev S. Bishop, Steven Heidel, Colm A. Ryan, John Smolin, Jay M. Gambetta, Blake R. Johnson (This paper introduced OpenQASM 3.0)
+
+"OpenQASM Live Specification" / "OpenQASM 3.x Specification documentation" - by The OpenQASM Technical Steering Committee / IBM Quantum (and other contributors to the OpenQASM project - this is the official and continuously updated online documentation, crucial for 3.0 and 3.1)
+
+"Practical Quantum Computing for Developers: Programming Quantum Rigs in the Cloud using Python, Quantum Assembly Language and IBM QExperience" - by Vladimir Silva (This book includes practical OpenQASM 2.0 examples)
+
+----
+OAK
+----
+
+"Ook! - Esolang Wiki" - Authored/Maintained by: The Esolang Wiki Community
+
+"DM's Esoteric Programming Languages - Ook!" - by David Morgan-Mar
+
+"Strange Code: Esoteric Languages That Make Programming Fun Again" - by Ronald T. Kneusel
+
+------
+PASCAL
+------
+
+"Pascal User Manual and Report" - by Kathleen Jensen and Niklaus Wirth
+
+"ISO/IEC 7185:1983 Pascal" - by International Organization for Standardization (ISO) / International Electrotechnical Commission (IEC)
+
+"ISO/IEC 7185:1990 Pascal" - by International Organization for Standardization (ISO) / International Electrotechnical Commission (IEC)
+
+"ISO/IEC 10206:1990 Extended Pascal" - by International Organization for Standardization (ISO) / International Electrotechnical Commission (IEC)
+
+"Introduction to Pascal" - by Jim Welsh and John Elder
+
+"A Model Implementation of Standard Pascal" - by Jim Welsh and Atholl Hay
+
+
+-----
+PERL
+-----
+
+"Programming Perl" - by Larry Wall, Tom Christiansen, Jon Orwant, brian d foy (and other contributors depending on the edition)
+
+"Learning Perl" - by Randal L. Schwartz, Tom Phoenix, brian d foy
+
+"Perl Cookbook" - by Tom Christiansen and Nathan Torkington (and others for later editions)
+
+"Effective Perl Programming" - by Joseph N. Hall, Randal L. Schwartz, brian d foy
+
+"Modern Perl" - by chromatic
+
+"perldoc" (Perl's built-in documentation system) - by The Perl 5 Porters (including Larry Wall and a vast community of developers)
+
+------
+PHARO
+------
+
+"Pharo by Example 9" - by Stéphane Ducasse, Gordana Rakic, Sebastian Kaplar, Quentin Ducasse
+
+"Pharo with Style" - by Stéphane Ducasse, et al.
+
+"Deep into Pharo" - by Alexandre Bergel, Damien Cassou, Stéphane Ducasse, Jannik Laval
+
+"Learning Object-Oriented Programming, Design and TDD with Pharo" - by Stéphane Ducasse, Damien Pollet
+
+"Pharo Essentials: Live Programming with Smalltalk for Dynamic Applications" - by Robert Johnson
+
+"The Pharo Official Documentation" - by The Pharo Community
+
+----
+PHP
+----
+
+"PHP User Manual" (for early versions like 1.0, 2.0, 3.0, often found in archives or historical context) - by Rasmus Lerdorf (primary)
+
+"Programming PHP" - by Kevin Tatroe, Peter MacIntyre, Rasmus Lerdorf (and other contributors depending on the edition)
+
+"Learning PHP, MySQL & JavaScript" - by Robin Nixon
+
+"PHP & MySQL Web Development" - by Luke Welling and Laura Thompson
+
+"Modern PHP: New Features and Good Practices" - by Josh Lockhart
+
+"PHP Objects, Patterns, and Practice" - by Matt Zandstra
+
+"The PHP Manual" (official online documentation) - by The PHP Development Team (a vast community including Rasmus Lerdorf, Andi Gutmans, Zeev Suraski, and many others)
+
+"PHP 4: A Beginner's Guide" - by Bill McCarty
+
+"Learning PHP 5" - by David Sklar
+
+"PHP 5.1 for Beginners" - by Ivan Bayross & Sharanam Shah
+
+"PHP: The Complete Reference" - by Steven Holzner (covers PHP 5.2)
+
+"Beginning PHP 5.3" - by Matt Doyle
+
+"PHP Cookbook" - by Eric A. Mann (latest edition covers PHP 8.2)
+
+"Learn PHP 8: Using MySQL, JavaScript, CSS3, and HTML5" - by Steve Prettyman
+
+"The Art of Modern PHP 8" - by Joseph Edmonds, Lorna Jane Mitchell (covers PHP 8.1)
+
+"Front Line PHP: Building modern web applications with PHP 8.3" - by Brent Roose, Freek Van der Herten
+
+----
+PIET
+----
+
+"DM's Esoteric Programming Languages - Piet!" - by David Morgan-Mar
+
+"Piet - Esolang Wiki" - Authored/Maintained by: The Esolang Wiki Community
+
+"Strange Code: Esoteric Languages That Make Programming Fun Again" - by Ronald T. Kneusel
+
+"Enterprise Piet" - by Scott Braythwayt
+
+---------
+PIKALANG
+---------
+"Strange Code: Esoteric Languages That Make Programming Fun Again" - by Ronald T. Kneusel
+
+-----------
+PL/SQL
+-----------
+"Oracle PL/SQL Programming" - by Steven Feuerstein and Bill Pribyl
+
+"Oracle PL/SQL Language Pocket Reference" - by Steven Feuerstein, Bill Pribyl, and Jonathan Gennick (earlier editions might list Chip Dawes)
+
+"Oracle PL/SQL Best Practices" - by Steven Feuerstein
+
+"Learning Oracle PL/SQL" - by Bill Pribyl and Steven Feuerstein
+
+"Murach's Oracle SQL and PL/SQL" - by Joel Murach
+
+"Oracle Database 12c PL/SQL Programming" - by Michael McLaughlin
+
+"Oracle Database 11g PL/SQL Programming" - by Michael McLaughlin
+
+"Oracle Database 10g PL/SQL Programming" - by Scott Urman, Ron Hardman, Michael McLaughlin
+
+"Oracle9i PL/SQL Programming" - by Scott Urman
+
+"Oracle8 PL/SQL Programming" - by Scott Urman
+
+"Oracle PL/SQL Recipes" - by Josh Juneau, Matt Arena (earlier editions might list Charles E. Moeller)
+
+
+----
+PONY
+----
+"Pony Programming: The Complete Guide to Building High-Performance, Concurrent, and Secure Applications with Pony" - by Corby Allen
+
+"Pony Playbook: Mastering the Basics of Concurrent Programming" - by Maverick MCStone
+
+------------
+POWERSHELL
+------------
+
+"Windows PowerShell in Action" - by Bruce Payette (earlier editions), and Bruce Payette and Richard Siddaway (for later editions covering PowerShell 6)
+
+"Learn PowerShell in a Month of Lunches" - by Don Jones and Jeffery Hicks (original authors); later editions updated by Travis Plunk, James Petty, Tyler Leonhardt, et al.
+
+"PowerShell in Depth" - by Don Jones, Richard Siddaway, and Jeffery Hicks
+
+"Windows PowerShell Cookbook" / "PowerShell Cookbook" - by Lee Holmes
+
+"Windows PowerShell Step by Step" - by Ed Wilson
+
+"Mastering Windows PowerShell Scripting" - by Chris Dent (and Brenton J.W. Blawat for some editions)
+
+"Windows PowerShell 2.0 Bible" - by Thomas Lee, Karl Mitschke, Mark E. Schill, Tome Tanasovski
+
+"Instant Windows Powershell 3.0 Windows Management Instrumentation Starter" - by Brenton J.W. Blawat
+
+"PowerShell 3.0 Advanced Administration Handbook" - by Talaat Sherif
+
+"PowerShell 5.1 and Desired State Configuration" - by Ron Davis
+
+"Learn PowerShell Core 6.0" - by K. M. J. Prasad, et al.
+
+"PowerShell Core 6.2 Cookbook" - by Jan-Hendrik Peters
+
+"PowerShell 7 for IT Professionals" - by Thomas Lee
+
+"Mastering PowerShell Scripting: Automate and Manage Your Environment Using PowerShell 7.1" - by Chris Dent
+
+"PowerShell 7 Workshop" - by Nick Parlow
+
+"Windows Server Automation with PowerShell Cookbook" - by Thomas Lee (various editions covering different PowerShell versions)
+
+"Mastering PowerShell 7.4 and Beyond: A Practical Guide to the Latest Features and Enhancements for System Automation and Scripting" - by Patrick Radcliffe
+
+-------
+PROLOG
+-------
+
+"Programming in Prolog: Using the ISO Standard" - by William F. Clocksin and Christopher S. Mellish
+
+"The Art of Prolog: Advanced Programming Techniques" - by Leon Sterling and Ehud Shapiro
+
+"Prolog: The Standard. Reference Manual" - by Peter Deransart, Abdelali Ed-Dbali, and Laurent Cervoni
+
+"ISO/IEC 8859-1:1987 Information technology — Programming languages — Prolog — Part 1: General core" - by International Organization for Standardization (ISO) / International Electrotechnical Commission (IEC)
+
+"ISO/IEC 13211-1:1995 Information technology — Programming languages — Prolog — Part 1: General core" - by International Organization for Standardization (ISO) / International Electrotechnical Commission (IEC)
+
+"The SWI-Prolog Reference Manual" - by Jan Wielemaker (and other contributors to the SWI-Prolog project)
+
+"Learn Prolog Now!" - by Patrick Blackburn, Johan Bos, and Kristina Striegnitz
+
+"Prolog Programming for Artificial Intelligence" - by Ivan Bratko
+
+"Programmer Passport: Prolog" - by Bruce Tate
+
+-------
+PUPPET
+-------
+
+"Pro Puppet" - by James Turnbull, Jeffrey McCune
+
+"Puppet 3 Cookbook" - by John Arundel
+
+"Learning Puppet 4" - by Jo Rhett
+
+"Puppet 4 Essentials" - by Felix Frank and Martin Alfke
+
+"Puppet 5 Beginner's Guide" - by John Arundel
+
+"Puppet 5 Cookbook" - by Thomas Uphill
+
+"Mastering Puppet 6 for Large Infrastructures" - by Bob Hendry
+
+"Puppet 8 for DevOps Engineers" - by David Sandilands
+
+"Puppet Best Practices" - by Chris Barbour and Jo Rhett
+
+----------
+PURSCRIPT
+----------
+
+"PureScript by Example" - by Phil Freeman (and later, the PureScript Community for ongoing updates)
+
+"Functional Programming Made Easier: A Step-by-Step Guide" - by Charles Scalfani
+
+
+-------
+python
+-------
+
+"Programming Python" - by Mark Lutz
+
+"Learning Python" - by Mark Lutz and David Ascher
+
+"Python Essential Reference" - by David Beazley
+
+"Core Python Programming" - by Wesley Chun (note: some editions by Dr. R. Nageswara Rao)
+
+"Dive Into Python 3" - by Mark Pilgrim
+
+"Head First Python" - by Paul Barry
+
+"Learn Python the Hard Way" - by Zed A. Shaw
+
+"Python Crash Course: A Hands-On, Project-Based Introduction to Programming" - by Eric Matthes
+
+"Fluent Python: Clear, Concise, and Effective Programming" - by Luciano Ramalho
+
+"Automate the Boring Stuff with Python: Practical Programming for Total Beginners" - by Al Sweigart
+
+"Python Cookbook: Recipes for Mastering Python 3" - by David Beazley and Brian K. Jones
+
+"Effective Python: 59 Specific Ways to Write Better Python" (and later editions) - by Brett Slatkin
+
+"Python for Data Analysis" - by Wes McKinney
+
+"Python Programming: An Introduction to Computer Science" - by John Zelle
+
+"Python Pocket Reference" - by Mark Lutz
+
+--
+q
+--
+
+"Q for Mortals" - by Jeffry A. Borror
+
+"Q-Tips: Fast, Scalable, and Maintainable Kdb+ Solutions" - by Nick Psaris
+
+"Machine Learning and Big Data with kdb+/q" - by Jan Novotny, Paul A. Bilokon, Aris Galiotos, Frederic Deleze
+
+-------
+racket
+-------
+
+"How to Design Programs, Second Edition" - by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
+
+"Realm of Racket: Learn to Program, One Game at a Time!" - by Matthias Felleisen, David Van Horn, Conrad Barski, and Eight Students of Northeastern University
+
+"Beautiful Racket: An Introduction to Language-Oriented Programming" - by Matthew Butterick
+
+"Racket Programming the Fun Way" - by James W. Stelly
+
+"Racket Unleashed: Building Powerful Programs with Functional and Language-Oriented Programming" - by Robert Johnson
+
+"Mastering Racket Programming: From Basics to Expert Proficiency" - by William Smith
+
+-----
+raku
+-----
+
+"Raku Fundamentals: A Primer with Examples, Projects, and Case Studies" - by Moritz Lenz
+
+"Learning Perl 6" - by brian d foy
+
+"Think Raku: How to Think Like a Computer Scientist" - by Laurent Rosenfeld, with Allen B. Downey
+
+"Perl 6 Deep Dive" - by Andrew Shitov
+
+"Using Raku: 100 Programming Challenges Solved in the Raku Programming Language" - by Andrew Shitov
+
+"Raku One-Liners: Getting the Most of Raku's Expressive Syntax for Your Daily Routines" - by Andrew Shitov
+
+----------
+realbasic
+----------
+
+"REALbasic Cross-Platform Application Development" - by Mark S. Choate
+
+"REALbasic: The Definitive Guide" - by Matt Neuburg
+
+"REALbasic for Dummies" - by Erick Tejkowski
+
+"REALbasic 2006: Visual Programming" - by Jim Vogh
+
+"Developing with REALbasic: A complete Guide to REALbasic 2008" - by Michael J. Thomas
+
+------
+rebol
+------
+
+"REBOL: The Official Guide" - by Elan Goldman and John Blanton
+
+"REBOL - A Programmer's Guide" - by Olivier Auverlot and Peter William Alfred Wood
+
+"REBOL Programming" - by Olivier Auverlot
+
+"REBOL For Dummies" - by Ralph Roberts
+
+"REBOL/Core 2.3 User Guide" - by Carl Sassenrath
+
+"Rebol Programming Insights" - by Richard Johnson
+
+
+----
+red
+----
+
+"Learn Red - Fundamentals of Red" - by Ivo Balbaert
+
+-----
+rego
+-----
+
+"Mastering Open Policy Agent: Policy-Based Control for Modern Systems" - by Robert Johnson
+
+"OPA Guidebook" - by Sangkeon Lee
+
+----
+rpg
+----
+
+"RPG for IBM Systems/360, 370, and System/3" - by Richard F. Loschetter
+
+"Computer Programming RPG II" - by Gary B. Shelly and Thomas J. Cashman
+
+"RPG II Programming: A Learning System Approach" - by Thomas Edward Lewis
+
+"RPG II and RPG III Structured Programming" - by Nancy B. Stern and Robert A. Stern
+
+"Programming in RPG II; IBM System/3" - by Jerome T. Murray
+
+"IBM System/38 RPG III Reference Manual and Programmer's Guide" - by International Business Machines Corporation (IBM)
+
+"RPG II, RPG III, and RPG/400, With Business Applications" - by Stanley E. Myers
+
+"Programming in RPG IV" - by Judy Yaeger
+
+"Programming in ILE RPG" - by Bryan Meyers (and Jim Buck for some editions)
+
+"The Modern RPG IV Language" - by Robert Cozzi, Jr.
+
+"Free-Format RPG IV: How to Bring Your RPG Programs Into the 21st Century" - by Jim Martin
+
+"e-RPG: Building AS/400 Web Applications with RPG" - by Bradley V. Stone
+
+"RPG IV by Example" - by George Farr and Shailan Towpiwala
+
+"Functions in Free-Format RPG IV" - by Jim Martin
+
+"iSeries and AS/400 RPG IV at Work" - by Doug Pence and Ron Hawkins
+
+"The AS/400 & IBM i RPG & RPGIV Programming Guide" - by Brian W. Kelly
+
+-----
+ruby
+-----
+
+"Programming Ruby: The Pragmatic Programmers' Guide" - by Dave Thomas and Andy Hunt (various early editions); later editions by Dave Thomas and Noel Rappin
+
+"The Well-Grounded Rubyist" - by David A. Black (with Joseph Leo III for later editions)
+
+"Practical Object-Oriented Design in Ruby: An Agile Primer" - by Sandi Metz
+
+"Metaprogramming Ruby 2: Program Like the Ruby Pros" - by Paolo Perrotta
+
+"Eloquent Ruby" - by Russ Olsen
+
+"Ruby Cookbook" - by Lucas Carlson and Leonard Richardson (original editions) / Russ Olsen (later editions)
+
+"Beginning Ruby: From Novice to Professional" - by Peter Cooper
+
+"Ruby Under a Microscope: An Illustrated Guide to Ruby Internals" - by Pat Shaughnessy
+
+"Polished Ruby Programming" - by Jeremy Evans
+
+"Beginning Ruby 3" - by Carleton DiLeo
+
+------
+rails
+------
+
+"Agile Web Development with Rails" - by Sam Ruby, David B. Copeland, Dave Thomas, Leon Breedt, Mike Clark, David Heinemeier Hansson, James Duncan Davidson (Authors vary by edition)
+
+"Ruby on Rails Tutorial: Learn Web Development with Rails" - by Michael Hartl
+
+"The Rails Way" - by Obie Fernandez
+
+"Rails, Angular, Postgres, and Bootstrap (RAPB) Full-Stack Web Development" - by Brad Westfall
+
+"Learn Rails 7: Build Modern Web Apps with Ruby on Rails and Hotwire" - by Daniel Kehoe
+
+"Mastering Ruby on Rails: A Comprehensive Guide to Modern Web Development" - by Antonio Cangiano
+
+-----
+rust
+-----
+
+"The Rust Programming Language" - by Steve Klabnik and Carol Nichols
+
+"Programming Rust: Fast, Safe Systems Development" - by Jim Blandy, Jason Orendorff, and Leonora F.S. Tindall
+
+"Rust in Action" - by Tim McNamara
+
+"Rust for Rustaceans: Idiomatic Programming for Experienced Developers" - by Jon Gjengset
+
+"Beginning Rust: From Novice to Professional" - by Carlo Milanesi
+
+"The Practical Guide to Rust" - by Claus Matzinger
+
+-------
+scilab
+-------
+"Scilab by example" - by Dr. M. Affouf
+
+"Scilab: I. Fundamentals, from theory to practice" - by Perrine Mathieu and Philippe Roux
+
+"LEARNING SCILAB" - by João L. R. Neto
+
+"Introduction to Scilab" - by Rachna Verma and Arvind Verma
+
+"SCILAB—A Beginner's Approach" - by Anil Kumar Verma
+
+"Computing in Scilab" - by Chetana Jain
+
+"Modeling and Simulation in Scilab/Scicos" - by Stephen L. Campbell, Jean-Philippe Chancelier, Ramine Nikoukhah
+
+"SCILAB (A Free Software to Matlab)" - by H. Ramchandran and A.S. Nair
+
+"Engineering and Scientific Computing with Scilab" - by Claude Gomez (Editor), with contributors like Carey Bunks, Jean-Philippe Chancelier, François Delebecque, Maurice Goursat, Ramine Nikoukhah, and Serge Steer
+
+--------
+scratch
+--------
+
+"Computer Science Concepts in Scratch" - by Orit Meerbaum-Salant, Michal Armoni, and Mordechai Ben-Ari
+
+"Scratch 2.0 Programming" - by Denis Golikov
+
+"Scratch 2.0 Beginner's Guide" - by Michael Holmes
+
+"Scratch Programming Playground" (First Edition) - by Al Sweigart
+
+"Coding Projects in Scratch" - by DK (Dorling Kindersley)
+
+"Scratch 2.0 Game Development HOTSHOT" - by Derek Breen
+
+"Scratch 3 Programming Playground" - by Al Sweigart
+
+"Learn to Walk With Scratch 3.0: Moving Beyond the Basics to Code Real Games" - by Eleanor S. Maass
+
+"Machine Learning with Scratch 3.0: A project based approach for kids" - by K.S. Srikanth, Dr. K. N. Prakash, C. R. Madhavi
+
+"Let Kids Start Coding Using Scratch 3.0" - by Mukesh Kumar
+
+"Scratch Programming for Beginners" - by Raina Burditt MS, MA
+
+"The Everything Kids' Scratch Coding Book" - by Jason Rukman
+
+"Coding Games in Scratch (Scratch 3.0 has landed!)" - by DK (Dorling Kindersley)
+
+"Fun Games with Scratch 3.0: Learn to Design High Performance, Interactive Games in Scratch" - by Arijit Mallick, Abhay B. Joshi
+
+---
+sad
+---
+
+"SED -- A Non-interactive Text Editor" - by Lee E. McMahon
+
+"sed & awk" - by Dale Dougherty and Arnold Robbins
+
+"Definitive Guide to sed" - by Daniel A. Goldman
+
+"CLI text processing with GNU sed" - by Sundeep Agarwal
+
+----------
+smalltalk
+----------
+
+"Smalltalk-80: The Language and its Implementation" - by Adele Goldberg and David Robson
+
+"Smalltalk-80: The Interactive Programming Environment" - by Adele Goldberg
+
+"Smalltalk-80: Bits of History, Words of Advice" - by Glenn Krasner
+
+"Smalltalk Best Practice Patterns" - by Kent Beck
+
+"Smalltalk, Objects, and Design" - by Chamond Liu
+
+"A Little Smalltalk" - by Timothy A. Budd
+
+"Squeak: Object-Oriented Design With Multimedia Applications" - by Mark Guzdial
+
+"Squeak by Example" - by Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou, Marcus Denker, Christoph Thiede, Patrick Rein (authors vary by edition, often a collaborative effort)
+
+"Squeak: Learn Programming with Robots" - by Stéphane Ducasse
+
+"Pharo by Example" - by Stéphane Ducasse, et al. (a collaborative community book, including authors like Oscar Nierstrasz, Gordana Rakic, Sebastijan Kaplar, Andrew P. Black, Damien Pollet, Dmitri Zagidulin, Nicolai Hess, Dimitris Chloupis, and others depending on the edition)
+
+"Pharo with Style" - by Damien Cassou, et al.
+
+"Deep into Pharo" - by Alexandre Bergel, Damien Cassou, Stéphane Ducasse, Jannik Laval, et al.
+
+"Learning Object-Oriented Programming, Design and TDD with Pharo" - by Stéphane Ducasse, et al.
+
+"Pharo Essentials: Live Programming with Smalltalk for Dynamic Applications" - by Robert Johnson
+
+-------
+smarty
+-------
+"Smarty: The Definitive Guide" - by Hasin Hayder
+
+"Smarty 3 Cookbook" - by Rohan R. Shah
+
+--------
+solidity
+--------
+
+"Mastering Ethereum" - by Andreas M. Antonopoulos and Gavin Wood
+
+"Solidity Programming Essentials" - by Ritesh Modi
+
+"LEARN SOLIDITY With AI Virtual Tutoring: From Basics to Practical Applications - 2025 Edition" - by Diego Rodrigues
+
+"The RareSkills Book of Solidity Gas Optimization: 80+ Tips" - by Michael Amadi and Jesse Raymond
+
+"Building Ethereum DApps" - by Roberto Infante
+
+"Introducing Ethereum and Solidity" - by Chris Dannen
+
+----
+sql
+----
+
+"Advanced SQL" - by Rui Machado, Hélder Russa, Pedro Esmeriz
+
+"SQL in a Nutshell" - by Kevin Kline, Regina O. Obe, Leo S. Hsu (later editions) or Kevin Kline (earlier editions)
+
+"Understanding the New SQL: A Complete Guide" - by Jim Melton and Alan R. Simon
+
+"SQL:1999" - by Jim Melton and Alan R. Simon
+
+"The Relational Model for Database Management: Version 2" - by E.F. Codd
+
+"SQL Performance Explained" - by Markus Winand
+
+"SQL Cookbook" - by Anthony Molinaro
+
+-----------
+postgresql
+-----------
+
+You're asking for a combined list of book names and their authors for PostgreSQL, covering versions 8.1 through 17.0, with no additional information. As mentioned, the official documentation is key for point releases, but here are the prominent published books and their authors:
+
+"Beginning PHP and PostgreSQL 8: From Novice to Professional" - by W. Jason Gilmore and Robert Treat
+
+"PostgreSQL 8.4 Official Documentation - Volume II. Server Administration" - by The PostgreSQL Global Development Group
+
+"PostgreSQL: The Definitive Guide" - by Josh Berkus, Mark Wong, and Bruce Momjian (authors may vary by edition)
+
+"PostgreSQL: Up and Running" - by Regina O. Obe and Leo S. Hsu
+
+"PostgreSQL 9.0 High Performance" - by Gregory Smith
+
+"PostgreSQL Administration Cookbook, 9.5/9.6 Edition" - by Simon Riggs, Gianni Ciolli, Gabriele Bartolini
+
+"PostgreSQL 10 Administration Cookbook" - by Simon Riggs and Gianni Ciolli
+
+"Mastering PostgreSQL 10" - by Hans-Jürgen Schönig
+
+"Learning PostgreSQL 10 - Second Edition" - by Salahaldin Juba and Andrey Volkov
+
+"Mastering PostgreSQL 11" - by Hans-Jürgen Schönig
+
+"PostgreSQL 12 High Availability Cookbook" - by Shaun Thomas
+
+"PostgreSQL 13 Cookbook" - by Vallarapu Naga Avinash Kumar
+
+"PostgreSQL 14 Administration Cookbook" - by Simon Riggs and Gianni Ciolli
+
+"Mastering PostgreSQL 15 - Fifth Edition" - by Hans-Jürgen Schönig
+
+"PostgreSQL 16 Administration Cookbook" - by Gianni Ciolli, Boriss Mejías, Jimmy Angelakos, Vibhor Kumar, Simon Riggs
+
+"Mastering PostgreSQL 17" - by Hans-Jürgen Schönig
+
+"PostgreSQL Query Optimization" - by Henrietta Dombrovskaya and Anna Bailliekova
+
+"PostgreSQL Skills Development on Cloud" - by Venkateswara Vadlamani
+
+"PostgreSQL Mistakes and How to Avoid Them" - by Jimmy Angelakos
+
+"Learn PostgreSQL - Second Edition" - by Luca Ferrari, Enrico Pirozzi
+
+"PostgreSQL - Architecture et notions avancées" - by Guillaume Lelarge, Julien Rouhaud
+
+"PostgreSQL 14 Internals" - by Egor Rogov
+
+"PostgreSQL 11 Server Side Programming Quick Start Guide" - by Luca Ferrari
+
+"PostgreSQL Replication - 2nd Edition" - by Hans-Jürgen Schönig
+
+"PostgreSQL 9 Administration Cookbook - Second Edition" - by Gabriele Bartolini, Gianni Ciolli, Simon Riggs, Hannu Krosing
+
+"PostgreSQL Server Programming - Second Edition" - by Usama Dar, Hannu Krosing, Jim Mlodgenski, Kirk Roybal
+
+"PostgreSQL Cookbook" - by Chitij Chauhan
+
+"Postgres Succinctly" - by Peter Shaw
+
+"PostgreSQL Replication" - by Zoltan Böszörmenyi, Hans-Jürgen Schönig
+
+"PostgreSQL Backup and Restore How-to" - by Shaun M. Thomas
+
+"Instant PostgreSQL Starter" - by Daniel K. Lyons
+
+"PostgreSQL Server Programming" - by Hannu Krosing, Kirk Roybal
+
+"Beginning Databases with PostgreSQL: From Novice to Professional" - by Neil Matthew, Richard Stones
+
+"PostgreSQL: Introduction and Concepts" - by Bruce Momjian
+
+"PostgreSQL Developer's Handbook" - by Ewald Geschwinde, Hans-Jürgen Schönig
+
+"Practical PostgreSQL" - by John C. Worsley and Joshua D. Drake
+
+"PostgreSQL 9 High Availability Cookbook" - by Shaun M. Thomas
+
+"High Performance PostgreSQL for Rails: Reliable, Scalable, Maintainable Database Applications" - by Andrew Atkinson
+
+"Beginning PostgreSQL on the Cloud: Simplifying Database as a Service on Cloud Platforms" - by Baji Shaik
+
+"PostgreSQL High Performance Cookbook" - by Chitij Chauhan
+
+"The Art of PostgreSQL" - by Dimitri Fontaine
+
+"Practical SQL: A Beginner's Guide to Storytelling with Data" - by Anthony DeBarros
+
+"Ansible For PostgreSQL by Examples: 10+ Examples To Automate Your PostgreSQL database" - by Luca Berton
+
+"Building Modern Business Applications: Reactive Cloud Architecture for Java, Spring, and PostgreSQL" - by Peter Royal
+
+-------
+oracle
+-------
+
+"Oracle PL/SQL Programming" - by Steven Feuerstein and Bill Pribyl
+
+"Oracle SQL Developer" - by Sue Harper
+
+"Oracle SQL and PL/SQL" - by Joel Murach (and other Murach's authors)
+
+"Expert Oracle Database Architecture" - by Thomas Kyte (and later editions by Tom Kyte and Darl Kuhn)
+
+"Oracle DBA Handbook" - by Kevin Loney
+
+"Oracle 7 Unleashed" - by Steven Feuerstein
+
+"Oracle8 DBA Handbook" - by Kevin Loney
+
+"Oracle8i DBA Handbook" - by Kevin Loney
+
+"Oracle8i Dba Sql And Pl/sql" - by Chip Dawes, Thomas (surname not clear)
+
+"Oracle8i: The Complete Reference" - by Kevin Loney
+
+"Oracle8i SQL & PL/SQL Handbook" - by Michael R. Ault
+
+"Oracle 9i Database Administration in 10 Minutes" - by Asim Abbasi
+
+"Oracle PL/SQL For Dummies (9i & 10g)" - by Michael Rosenblum, Paul Dorsey
+
+"Oracle High Performance Tuning for 9i and 10g" - by Gavin Powell
+
+"Expert Oracle9i Database Administration" - by Sam R. Alapati
+
+"Oracle9i PL/SQL: A Developer's Guide" - by Bulusu Lakshman
+
+"Oracle9i: SQL (with an Introduction to PL/SQL)" - by Lannes Morris-Murphy
+
+"Oracle Database 10g: The Complete Reference" - by Kevin Loney
+
+"Oracle 10g Programming: A Primer" - by Rajshekhar Sunderraman
+
+"OCA/OCP Oracle Database 10g All-in-One Exam Guide" - by John Watson, Bob Bryla, Roebert G. Freeman
+
+"Oracle Database 11g The Complete Reference" - by Kevin Loney
+
+"Oracle 11G: SQL" - by Joan Casteel
+
+"OCA Oracle Database 11g: SQL Fundamentals I Exam Guide" - by Ron Paletta
+
+"Oracle Database 12c The Complete Reference" - by Kevin Loney, Bob Bryla
+
+"Oracle Database 12c SQL" - by Jason Price
+
+"Beginning Oracle SQL: for Oracle Database 12c" - by Lex De Haan, Tim Gorman, Inger Jørgensen, Melanie Caffrey
+
+"Oracle PL/SQL by Example" - by Benjamin Rosenzweig, Elena Rakhimov
+
+"Oracle Database 18c: New Features: New Features for DBAs and Developers" - by Skant Gupta
+
+"Beginning Oracle SQL for Oracle Database 18c: From Novice to Professional" - by Ben Brumm
+
+"Pro Oracle Database 18c Administration: Manage and Safeguard Your Organization's Data" - by Michelle Malcher, Darl Kuhn
+
+"Oracle 19c Database Administration: Oracle Simplified" - by Tanveer A.
+
+"The Oracle 19c DBA's Handbook" - - by Tanveer A.
+
+"DBA Essentials for 21c" - by Divit Gupta
+
+"Oracle Database Database Administrator's Guide, 21c" - by Mark Doran, Padmaja Potineni, Rajesh Bhatiya (and contributing authors)
+
+"Oracle for Beginners, 2nd Edition (Covers Oracle 23ai)" - by Sharanam Shah, Vaishali Shah
+
+"Pro Oracle Database 23c Administration: Manage and Safeguard Your Organization's Data" - by Michelle Malcher, Darl Kuhn
+
+-----------
+sql server
+-----------
+
+You're asking for a combined list of book names and their authors for Microsoft SQL Server, spanning a long history from 6.0 up to the anticipated 2025 version. As of today, June 30, 2025, SQL Server 2025 has been released in preview (November 2024), so books specifically targeting it are just starting to emerge or are general SQL books.
+
+Here's that direct list:
+
+"Microsoft SQL Server 6 Unleashed" - by Daniel Woodbeck
+
+"Microsoft SQL Server 6.5 Unleashed" - by David S. Solomon
+
+"Inside Microsoft SQL Server 6.5" - by Ron Soukup
+
+"Microsoft SQL Server 7.0 Unleashed" - by Michael Otey, Rick Sawtell, et al.
+
+"Inside Microsoft SQL Server 7.0" - by Kalen Delaney
+
+"Microsoft SQL Server 7.0 DBA Survival Guide" - by Mark Spenik, et al.
+
+"The SQL Server 7.0 Handbook" - by Ken England, Nigel Stanley
+
+"Inside Microsoft SQL Server 2000" - by Kalen Delaney
+
+"Microsoft SQL Server 2000 Unleashed" - by Paul Bertucci, Alex T. Silverstein, et al.
+
+"Microsoft SQL Server 2000 DBA Handbook" - by Kevin Loney, et al.
+
+"SQL server 2000 black book" - by Patrick Dalton, Paul Whitehead
+
+"Microsoft SQL Server 2005 Unleashed" - by Ray Rankins, Paul Bertucci, Chris Gallelli, Alex T. Silverstein, Tudor Trufinescu, John Kane
+
+"Programming SQL Server 2005" - by Tobias Leymann
+
+"Inside Microsoft SQL Server 2005: The Storage Engine" - by Kalen Delaney
+
+"A Developer's Guide to SQL Server 2005" - by Bob Beauchemin, Dan Sullivan
+
+"Programming SQL Server 2005" - by Bill Hamilton
+
+"Microsoft SQL Server 2008 R2 Unleashed" - by Ray Rankins, Paul T. Bertucci, Chris Gallelli, Alex T. Silverstein
+
+"Inside Microsoft SQL Server 2008" - by Kalen Delaney, Paul Randal, Kimberly Tripp, Conor Cunningham
+
+"Professional Microsoft SQL Server 2008 Programming" - by Robert Vieira
+
+"Microsoft SQL Server 2008 Step by Step" - by Patrick LeBlanc
+
+"Microsoft SQL Server 2008 Internals" - by Kalen Delaney, Paul S. Randal, Kimberly L. Tripp, Conor Cunningham, Adam Machanic, Ben Nevarez
+
+"Introducing Microsoft SQL Server 2008 R2" - by Ross Mistry, Stacia Misner
+
+"Microsoft SQL Server 2008 R2 Master Data Services" - by Tyler Graham, Suzanne Selhorn
+
+"Microsoft SQL Server 2012 Unleashed" - by Ray Rankins, Paul T. Bertucci, Chris Gallelli, Alex T. Silverstein
+
+"Training Kit (Exam 70-462): Administering Microsoft SQL Server 2012 Databases" - by M. T. (Mike) Wood, Mitch Ettinger, Victor Isakov
+
+"Beginning SQL Server 2012 Administration" - by Robert E. Walters, Grant Fritchey
+
+"Beginning Microsoft SQL Server 2012 Programming" - by Robert Vieira, Paul Atkinson
+
+"Programming Microsoft SQL Server 2012" - by Leonard Lobel, Andrew Brust
+
+"Microsoft SQL Server 2014 Unleashed" - by Ray Rankins, Paul T. Bertucci, Chris Gallelli, Alex T. Silverstein
+
+"Introducing Microsoft SQL Server 2014" - by Ross Mistry, Stacia Misner
+
+"Professional Microsoft SQL Server 2014 Administration" - by Adam Jorgensen, Bradley Ball, Steven Wort, Ross LoForte, Brian Knight
+
+"Introducing Microsoft SQL Server 2016" - by Stacia Misner, Gerard H. B. C. Böttcher, Denny Cherry
+
+"SQL Server 2016 High Performance" - by Luis Cazares
+
+"SQL Server 2016 Administration Cookbook" - by Sergio Govoni, Luigi Acerbi
+
+"Microsoft SQL Server 2016: A Beginner's Guide, Sixth Edition" - by Dusan Petkovic
+
+"SQL Server 2017 Developer's Guide" - by Dejan Sarka, Milos Radivojevic, William Durkin
+
+"SQL Server 2017 Administrator's Guide" - by Marek Chmel, Vladimír Mužný
+
+"Mastering SQL Server 2017" - by Milos Radivojevic, Dejan Sarka, William Durkin, Christian Cote, Matija Lah
+
+"Introducing Microsoft SQL Server 2019" - by Kellyn Gorman, Allan Hirt, Dave Noderer, Mitchell Pearson, James Rowland-Jones, Dustin Ryan, Arun Sirpal, Buck Woody, et al.
+
+"Murach's SQL Server 2019 for Developers" - by Joel Murach and Bryan Syverson
+
+"SQL Server 2019 Administration Inside Out" - by Randolph West, Melody Zacharias, William Assaf, Sven Aelterman, Louis Davidson
+
+"Murach's SQL Server 2022 for Developers" - by Bryan Syverson and Joel Murach
+
+"Pro SQL Server 2022 Administration" - by Peter Carter
+
+"SQL Server 2022 Administration Inside Out" - by Randolph West, Melody Zacharias, William Assaf, Sven Aelterman, Louis Davidson, Joseph D'Antoni, Meagan Longoria, Elizabeth Noble
+
+------
+stata
+------
+
+"Stata Reference Manuals" - by William Gould (and later by StataCorp LP)
+
+"An Introduction to Stata for Health Researchers, Fifth Edition" - by Svend Juul and Morten Frydenberg
+
+"A Visual Guide to Stata Graphics, Fourth Edition" - by Michael N. Mitchell
+
+"Data Management Using Stata: A Practical Handbook, Second Edition" - by Michael N. Mitchell
+
+"Discovering Structural Equation Modeling Using Stata, Revised Edition" - by Alan C. Acock
+
+"Financial Econometrics Using Stata" - by Simona Boffelli and Giovanni Urga
+
+"Multilevel and Longitudinal Modeling Using Stata, Fourth Edition (Volumes I and II)" - by Sophia Rabe-Hesketh and Anders Skrondal
+
+"One Hundred Nineteen Stata Tips, Third Edition" - by Nicholas J. Cox and H. Joseph Newton (editors)
+
+"Stata: A Really Short Introduction" - by Felix Bittmann
+
+"Thirty Years with Stata: A Retrospective" - by Enrique Pinzon (editor)
+
+"Flexible Parametric Survival Analysis Using Stata: Beyond the Cox Model" - by Patrick Royston and Paul C. Lambert
+
+"Meta-Analysis in Stata: An Updated Collection from the Stata Journal, Second Edition" - by Tom M. Palmer and Jonathan A. C. Sterne (editors)
+
+"An Introduction to Statistics and Data Analysis Using Stata, Second Edition" - by Lisa Daniels and Nicholas Minot
+
+"Graphs Everyone Should Know and How to Create Them in Stata" - by Franz Buscha
+
+"Create and Export Tables Using Stata" - by Michael N. Mitchell
+
+"An Introduction to Stata Programming, 2nd Edition" - by Christopher F. Baum
+
+"Applied Statistics Using Stata: A Guide for the Social Sciences, Second Edition" - by Mehmet Mehmetoglu and Tor Georg Jakobsen
+
+"Microeconometrics Using Stata, Second Edition, Volumes I and II" - by A. Colin Cameron and Pravin K. Trivedi
+
+"A Gentle Introduction to Stata, Revised Sixth Edition" - by Alan C. Acock
+
+"The Workflow of Data Analysis Using Stata" - by J. Scott Long
+
+"Psychological Statistics and Psychometrics Using Stata" - by Scott Baldwin
+
+"A Course in Item Response Theory and Modeling with Stata" - by Tenko Raykov and George A. Marcoulides
+
+------
+swift
+------
+
+You're asking for just the book names and their authors for Swift, covering versions 5.8 through 6.2. As noted, official documentation is key for the very latest versions.
+
+Here's that direct list:
+
+"The Swift Programming Language" - by Apple Inc. (and its contributors)
+
+"Swift Apprentice: Fundamentals" - by Kodeco (formerly Ray Wenderlich team)
+
+"Swift Apprentice: Beyond the Basics" - by Kodeco (formerly Ray Wenderlich team)
+
+"Swift Cookbook" - by Daniel Bolella, Nathan Lawlor, Keith Moon, Chris Barker
+
+"Swift 5.8 Programming Language and Reference Guide" - by Derrick Cassidy
+
+"iOS Development with Swift" - by Craig Grummitt
+
+"Practical Swift Concurrency" - by Donny Wals
+
+"UIKit Apprentice" - by Fahim Farook (Kodeco)
+
+"SwiftUI Apprentice" - by Kodeco (formerly Ray Wenderlich team)
+
+"Mastering Swift 6" - by Jon Hoffman
+
+"Mastering SwiftUI 6" - by (AppCoda)
+
+"Building Modern iOS Apps with SwiftUI and Swift" - by Jamie Hogan
+
+"Swift for IoT: Building Applications for Connected Devices" - by (Author not explicitly listed but by BookAuthority)
+
+"Swift Programming 2024 Guide for Beginners" - by (Author not explicitly listed but by BookAuthority)
+
+"Swift Design Patterns" - by (Author not explicitly listed but by BookAuthority)
+
+"An iOS Developer's Guide to SwiftUI" - by (Author not explicitly listed but by BookAuthority)
+
+"Swift in Depth" - by Tjeerd in 't Veen
+
+"Swift Programming for Beginners" - by Sridhar Rao Muthineni
+
+------------------
+SystemVerilog IEEE
+------------------
+"Don Quixote" - by Miguel de Cervantes
+
+"Pride and Prejudice" - by Jane Austen
+
+"Moby Dick" - by Herman Melville
+
+"A Tale of Two Cities" - by Charles Dickens
+
+"War and Peace" - by Leo Tolstoy
+
+"To Kill a Mockingbird" - by Harper Lee
+
+"The Great Gatsby" - by F. Scott Fitzgerald
+
+"One Hundred Years of Solitude" - by Gabriel García Márquez
+
+"Nineteen Eighty-Four" - by George Orwell
+
+"The Lord of the Rings" - by J.R.R. Tolkien
+
+"Harry Potter and the Sorcerer's Stone" - by J.K. Rowling
+
+"The Old Man and the Sea" - by Ernest Hemingway
+
+"The Catcher in the Rye" - by J.D. Salinger
+
+"Fahrenheit 451" - by Ray Bradbury
+
+----
+tcl
+----
+
+"Tcl and the Tk Toolkit" - by John K. Ousterhout (The original book by the creator of Tcl/Tk, often with updated editions by Ken Jones for later versions)
+
+"Practical Programming in Tcl and Tk" - by Brent Welch, Ken Jones, and Jeffrey Hobbs (This book has gone through multiple editions, with the 4th edition, for example, covering Tcl/Tk 8.0, and later editions covering 8.4 and beyond.)
+
+"Effective Tcl/Tk Programming" - by Mark Harrison and Michael McLennan
+
+"Tcl/Tk: A Developer's Guide" - by Clif Flynt
+
+"Tcl/Tk in a Nutshell" - by Paul Raines and Jeff Tranter
+
+"Exploring Expect" - by Don Libes (While focused on Expect, it's deeply intertwined with Tcl)
+
+"Tcl 8.5 Network Programming" - by Wojciech Kocjan (Specific to Tcl 8.5 networking)
+
+"The Tcl Programming Language: A Comprehensive Guide" - by Ashok P Nadkarni (Covers Tcl 8.6 and aims to be comprehensive)
+
+-----
+tcsh
+-----
+"Using csh & tcsh" - by Paul DuBois
+
+"The UNIX C Shell Field Guide" - by Gail Anderson and Paul Anderson
+
+"An Introduction to Berkeley UNIX" - by Paul S. Wang
+
+"UNIX C Shell Desk Reference" - by Martin R. Arick
+
+---------
+teraform
+---------
+
+"Terraform: Up & Running: Writing Infrastructure as Code" - by Yevgeniy Brikman
+
+"Terraform in Action" - by Scott Winkler
+
+"Mastering Terraform" - by Mark Tinderholt
+
+"Terraform Cookbook: Recipes for Codifying Infrastructure" - by Kerim Satirli and Taylor Dolezal (Note: Mikael Krief also has earlier "Terraform Cookbook" editions)
+
+"The Terraform Book" - by James Turnbull
+
+"Terraform in Depth" - by Robert Hafner
+
+"Terraform By Example" - by Luca Berton
+
+"Automating Multi-Cloud Infrastructure with Terraform" - by Mikael Krief
+
+"Terraform for Google Cloud Essential Guide" - by Bernd Nordhausen
+
+-----
+toml
+-----
+
+"TOML: Tom's Obvious, Minimal Language - English v1.0.0 (Release Candidate X)" - by Tom Preston-Werner and the TOML contributors/community (including Pradyun Gedam)
+
+"TOML Config Basics" - by Frank Wellington
+
+-----------
+typescript
+-----------
+
+"The TypeScript Handbook" - by Microsoft / TypeScript Team (including Anders Hejlsberg, Daniel Rosenwasser, Ryan Cavanaugh, and many other contributors)
+
+"Programming TypeScript: Making Your JavaScript Applications Scale" - by Boris Cherny
+
+"Effective TypeScript: 62 Specific Ways to Improve Your TypeScript" - by Dan Vanderkam
+
+"Learning TypeScript: Enhance Your Web Development with Type-Safe JavaScript" - by Josh Goldberg
+
+"Mastering TypeScript" - by Nathan Rozentals
+
+"TypeScript in 50 Lessons" - by Stefan Baumgartner
+
+"TypeScript Quickly" - by Basil Bourque (also Yakov Fain and Anton Moiseev for a similar title)
+
+"TypeScript in Action" - by Jonathan Turner, Stefan Baumgartner, and Boris Cherny
+
+"Essential TypeScript: From Beginner to Pro" - by Adam Freeman
+
+"TypeScript Deep Dive" - by Basarat Ali Syed
+
+"Exploring TypeScript: TS 5.8 edition" - by Axel Rauschmayer
+
+"Essential TypeScript 5, Third Edition" - by Adam Freeman
+
+"Total TypeScript Essentials" - by (Total TypeScript team)
+
+"Ultimate Typescript Handbook" - by Dan Wellman
+
+"TypeScript Cookbook" - by Stefan Baumgartner
+
+-----
+uhdl
+-----
+
+"UHDL Documentation" - by J. C. K. and UHDL Contributors
+
+"The MyHDL Manual" - by Jan Decaluwe
+
+"Research and Education in Urban History in the Age of Digital Libraries: Second International Workshop, UHDL 2019, Dresden, Germany, October 10-11, 2019, Revised Selected Papers. Communications in Computer and Information Science 1501" - Edited by Florian Niebling, Sander Münster, Heike Messemer
+
+"Research and Education in Urban History in the Age of Digital Libraries: Third International Workshop, UHDL 2023, Munich, Germany, March 27-28, 2023, Revised Selected Papers" - Edited by Sander Münster, Aaron Pattee, Cindy Kröber, Florian Niebling
+
+--
+v
+--
+
+"Getting Started with V Programming" - by Navule Pavan Kumar Rao
+
+"The V Book" - by Alexander Medvednikov and Vlang Documentation Contributors
+
+"Beginning with V Programming" - by Dakota "Kai" Lyons
+
+"Randomness Revisited using the V Programming Language" - by Soubhik Chakraborty and Subhomoy Haldar
+
+-----
+vala
+-----
+"The Vala Programming Language" (Official Documentation) - by Jürg Billeter and Raffaele Sandrini (and Vala Community/Contributors)
+
+"Introducing Vala Programming: A Language and Techniques to Boost Productivity" - by Michael Lauer
+
+"Introduction to Vala Programming" - by Dr. Michael Lauer
+
+"Vala Programming Language Essentials: Definitive Reference for Developers and Engineers" - by Richard Johnson
+
+---------
+vbscript
+---------
+
+"VBScript in a Nutshell: A Desktop Quick Reference" - by Paul Lomax, Matt Childs, Ron Petrusha
+
+"VBScript Programmer's Reference" - by Adrian Kingsley-Hughes, Kathie Kingsley-Hughes, Daniel Read, et al.
+
+"Microsoft VBScript Step by Step" - by Ed Wilson
+
+"VBScript for the World Wide Web" - by Paul B.
+
+"Wsh and Vbscript Core: Tfm" - by Alex K. Angelopoulos
+
+"Advanced VBScript for Microsoft Windows Administrators" - by Don Jones, Jeffrey Hicks
+
+"Learn VBScript in 24 Hours" - by Alex Nordeen
+
+"Learn VBScript in 1 Day: Definitive Guide to Learn VBScript for Beginners" - by Krishna Rungta
+
+"VBScript by Example" - by Jerry Honeycutt
+
+--------
+verilog
+--------
+
+Verilog-1995 (IEEE Std 1364-1995) - by The IEEE Computer Society's Design Automation Standards Committee
+
+Verilog-2001 (IEEE Std 1364-2001) - by The IEEE Computer Society's Design Automation Standards Committee
+
+SystemVerilog-2005 (IEEE Std 1800-2005) - by The IEEE Computer Society's Design Automation Standards Committee
+
+SystemVerilog-2009 (IEEE Std 1800-2009) - by The IEEE Computer Society's Design Automation Standards Committee
+
+SystemVerilog-2012 (IEEE Std 1800-2012) - by The IEEE Computer Society's Design Automation Standards Committee
+
+SystemVerilog-2017 (IEEE Std 1800-2017) - by The IEEE Computer Society's Design Automation Standards Committee
+
+SystemVerilog-2023 (IEEE Std 1800-2023) - by The IEEE Computer Society's Design Automation Standards Committee (with Tom Fitzpatrick as IEEE 1800 Working Group Chair and Shalom Bresticker as editor for the 2023 revision; Dave Rich is also a key figure in recent standards efforts).
+
+Verilog (merged into SystemVerilog from 2009) - by The IEEE Computer Society's Design Automation Standards Committee (as part of the respective SystemVerilog standard)
+
+"Verilog HDL: A Guide to Digital Design and Synthesis" - by Samir Palnitkar
+
+"Verilog — 2001: A Guide to the New Features of the Verilog Hardware Description Language" - by Stuart Sutherland
+
+"Starter's Guide to Verilog 2001" - by Michael D. Ciletti
+
+"SystemVerilog for Design: A Guide to Using SystemVerilog for Hardware Design and Modeling" - by Stuart Sutherland, Simon Davidmann, and Peter Flake
+
+"SystemVerilog for Verification: A Guide to Learning the Testbench Language Features" - by Chris Spear and Greg Tumbush
+
+"A Practical Guide for SystemVerilog Assertions" - by Meyyappan Ramanathan and Srikanth Vijayaraghavan
+
+"Writing Testbenches using SystemVerilog" - by Janick Bergeron
+
+"Digital System Design with SystemVerilog" - by Mark Zwolinski
+
+"RTL Modeling with SystemVerilog for Simulation and Synthesis: Using SystemVerilog for ASIC and FPGA Design" - by Stuart Sutherland
+
+"Comprehensive Functional Verification: The Complete Industry Cycle" - by Bruce Wile, John C. Goss, and Wolfgang Roesner
+
+"UVM Cookbook" - by Kathleen Meade, Harry Foster, Dennis Brophy, Adam Sherer, et al.
+
+-----
+vhdl
+-----
+
+You're asking for "just book names and their author names" for the specified VHDL IEEE standards and related commercial books.
+
+As previously clarified, the IEEE standards themselves are the definitive "books" for the language definitions and are products of committees. Commercial books are separate educational resources that explain and teach these standards.
+
+Here is the direct list:
+
+VHDL-87 (IEEE Std 1076-1987) - by The IEEE Computer Society's Design Automation Standards Committee
+
+VHDL-93 (IEEE Std 1076-1993) - by The IEEE Computer Society's Design Automation Standards Committee
+
+VHDL-2000 (IEEE Std 1076-2000) - by The IEEE Computer Society's Design Automation Standards Committee
+
+VHDL-2002 (IEEE Std 1076-2002) - by The IEEE Computer Society's Design Automation Standards Committee
+
+VHDL-2008 (IEEE Std 1076-2008) - by The IEEE Computer Society's Design Automation Standards Committee
+
+VHDL-2019 (IEEE Std 1076-2019) - by The IEEE Computer Society's Design Automation Standards Committee
+
+"The VHDL Handbook" - by David R. Coelho
+
+"The Designer's Guide to VHDL" - by Peter J. Ashenden
+
+"VHDL: Programming By Example" - by Douglas L. Perry
+
+"Digital System Design with VHDL" - by Mark Zwolinski
+
+"Fundamentals of Digital Logic with VHDL Design" - by Stephen Brown and Zvonko Vranesic
+
+"RTL Hardware Design Using VHDL: Coding for Efficiency, Portability, and Scalability" - by Pong P. Chu
+
+"Circuit Design and Simulation with VHDL" - by Volnei A. Pedroni
+
+"A VHDL Synthesis Primer" - by Jayaram Bhasker
+
+"VHDL-2008: Just the New Stuff" - by Peter J. Ashenden and Jim Lewis
+
+"Digital System Design Using VHDL" - by Rishabh Anand
+
+"VHDL for Designers" - by Stefan Sjoholm and Lennart Lindh
+
+-------------
+visual basic
+-------------
+
+It looks like there was a typo in your request "thst i t". Assuming you meant "books that start with 'T' and 'I'", here's a selection:
+
+Books starting with 'I':
+
+"In Search of Gandhi" - by Richard Attenborough
+
+"I Am, I Am, I Am: Seventeen Brushes with Death" - by Maggie O'Farrell
+
+"The Iliad" - by Homer
+
+"I Know Why the Caged Bird Sings" - by Maya Angelou
+
+"The Invisible Life of Addie LaRue" - by V.E. Schwab (Victoria Schwab)
+
+"I'm Glad My Mom Died" - by Jennette McCurdy
+
+"Insurgent" - by Veronica Roth
+
+"It Starts with Us" - by Colleen Hoover
+
+"It Ends with Us" - by Colleen Hoover
+
+"Interview with the Vampire" - by Anne Rice
+
+"The Importance of Being Earnest" - by Oscar Wilde
+
+"It" - by Stephen King
+
+Books starting with 'T':
+
+"To Kill a Mockingbird" - by Harper Lee
+
+"Treasure Island" - by Robert Louis Stevenson
+
+"The Time Machine" - by H.G. Wells
+
+"A Tale of Two Cities" - by Charles Dickens
+
+"The Hobbit, or, There and Back Again" - by J.R.R. Tolkien
+
+"The Lord of the Rings" - by J.R.R. Tolkien
+
+"The Thorn Birds" - by Colleen McCullough
+
+"A Thousand Splendid Suns" - by Khaled Hosseini
+
+"The Time Traveler's Wife" - by Audrey Niffenegger
+
+"Timeline" - by Michael Crichton
+
+"The Tin Drum" - by Günter Grass
+
+"Tinker, Tailor, Soldier, Spy" - by John le Carré
+
+"Trainspotting" - by Irvine Welsh
+
+"Travels with Charley: In Search of America" - by John Steinbeck
+
+"The Trial" - by Franz Kafka
+
+"Twilight" - by Stephenie Meyer
+
+"Tess of the d'Urbervilles" - by Thomas Hardy
+
+"The Secret History" - by Donna Tartt
+
+------
+vyper
+------
+
+"Vyper Documentation" - by Vyper Team and Vyper Community/Contributors (This is the official online documentation: docs.vyperlang.org)
+
+"Getting Started with Vyper" - by learn.vyperlang.org (An official online tutorial/guide from the Vyper team)
+
+"Mastering Ethereum" (Chapter 8: Smart Contracts and Vyper) - by Andreas M. Antonopoulos and Gavin Wood
+
+"Hands-On Blockchain for Python Developers" (Chapter: Implementing Smart Contracts Using Vyper) - by Michael J. Solomon
+
+-----------
+whitespace
+-----------
+
+"Whitespace: An Esoteric Programming Language Specification" - by Edwin Brady and Chris Morris (This refers to the original defining document/specification, typically found on esolang wikis).
+
+"Perfecting Nothingness by Refactoring Whitespace" - by Rutger Witmans and Vadim Zaytsev (This is an academic paper, but functions as a detailed "book" on Whitespace refactoring).
+
+"Strange Code: Esoteric Languages That Make Programming Fun Again" (Chapter on Whitespace) - by Ronald Kneusel (This commercial book includes a section on Whitespace within a broader discussion of esolangs).
+
+----------------
+Wolfram Language
+----------------
+
+"Mathematica: A System for Doing Mathematics by Computer" - by Stephen Wolfram
+
+"The Mathematica Book" - by Stephen Wolfram
+
+"An Elementary Introduction to the Wolfram Language" - by Stephen Wolfram
+
+"A New Kind of Science" - by Stephen Wolfram
+
+"Wolfram Language Documentation" (online) - by Wolfram Research and the Wolfram Language Development Team (led by Stephen Wolfram)
+
+"Mathematica Cookbook" - by Salvatore Mangano
+
+"Hands-on Start to Wolfram Mathematica and Programming with the Wolfram Language" - by Cliff Hastings, Kelvin Mischo, Michael Morrison
+
+"Programming in Mathematica" - by Roman Maeder
+
+"The Student's Introduction to Mathematica and the Wolfram Language" - by Bruce Torrence and Eve A. Torrence
+
+"Mathematica Beyond Mathematics: The Wolfram Language in the Real World" - by José Guillermo Sánchez León
+
+"Query: Getting Information from Data with the Wolfram Language" - by Seth J. Chandler
+
+-----
+xojo
+-----
+"Introduction to Programming with Xojo" - by Brad Rhine
+
+"Programming the Raspberry Pi with Xojo" - by Eugene Dakin
+
+"Xojo Beginner's Collection" - by Marc Zeedar (from xDev Magazine)
+
+"Achieving Success on iOS" - by Jérémie Leroy (from xDev Library)
+
+"Writing Better Code" - by Christian Schmitz (from xDev Library / Monkeybread Software)
+
+"Xojo Documentation" (Online) - by Xojo, Inc. (and its documentation team)
+
+"Threads and Timers" (eBook) - by Eugene Dakin
+
+"MemoryBlocks" (eBook) - by Eugene Dakin
+
+"Declares" (eBook) - by Eugene Dakin
+
+"Designing Data-Oriented Pop-Ups" - by J.C. Cruz
+
+"Xojo Health Collection" - by J.C. Cruz
+
+"Working with Bitmasks" - by J.C. Cruz
+
+"A Window To Data" - by J.C. Cruz
+
+"Sharing Data for Health" - by J.C. Cruz
+
+"VB.Net to Xojo" - by Paul Abell
+
+"Thread APIs" - by Aaron Ballman
+
+"Threads in REALbasic" - by Aaron Ballman
+
+"Networking for N00bs" - by Aaron Ballman
+
+"Serial Programming for Beginners" - by Aaron Ballman
+
+"Program SQLite with Xojo API2" - by Eugene Dakin
+
+"I Wish I Knew How to Program Excel 2019 with Xojo API2" - by Eugene Dakin
+
+"Program Windows 10 Registry with Xojo" - by Eugene Dakin
+
+"OpenGL 2.1 64-bit for Windows" - by Eugene Dakin
+
+"Program Word 2010-2016 with Xojo" - by Eugene Dakin
+
+"Program HTML, CSS, and JavaScript with Xojo" - by Eugene Dakin
+
+"Begin JSON with Xojo Desktop" - by Eugene Dakin
+
+"Beginning Object Oriented Programming with Xojo" - by Eugene Dakin
+-------
+xquery
+-------
+"XQuery 1.0: An XML Query Language (Second Edition)" - by W3C XML Query Working Group
+
+"XQuery 3.0: An XML Query Language" - by W3C XML Query Working Group
+
+"XQuery 3.1: An XML Query Language" - by W3C XML Query Working Group
+
+"XQuery" - by Priscilla Walmsley
+
+"XQuery: The XML Query Language" - by Michael Brundage
+
+"XQuery from the Experts: A Guide to the W3C XML Query Language" - Edited by Howard Katz
+
+"Querying XML" - by Jim Melton and Stephen Buxton
+
+"Learning XQuery: A Guide to the XML Query Language" - by Brett McLaughlin
+
+"XQuery Kick Start" - by James McGovern, Per Bothner, Kurt Cagle, James Linn, Vaidyanathan Nagarajan
+
+"XQuery 3.0: A Complete Guide to the XML Query Language" - by J. David Eisenberg
+--------
+yabasic
+--------
+
+"Yabasic Manual" - by Marc-Oliver Ihm
+
+"Yabasic Crash Course" (online guide) - by Paul Shutler
+
+-----
+yaml
+-----
+"YAML Ain't Markup Language (YAML) 1.0" - by Oren Ben-Kiki, Clark Evans, Brian Ingerson
+
+"YAML Ain't Markup Language (YAML) Version 1.1" - by Oren Ben-Kiki, Clark Evans, Ingy döt Net
+
+"YAML Ain't Markup Language (YAML™) Version 1.2" - by Oren Ben-Kiki, Clark Evans, Ingy döt Net
+
+"YAML Ain't Markup Language (YAML™) Version 1.2.1" - by Oren Ben-Kiki, Clark Evans, Ingy döt Net
+
+"YAML Ain't Markup Language (YAML™) Version 1.2.2" - by Ingy döt Net, Tina Müller, Pantelis Antoniou, Eemeli Aro, Thomas Smith
+
+"YAML - The Blue Book" - by Lyz
+
+"YAML Tutorial" - by Tutorials Point
+
+"Mastering YAML: A Deep Dive into Data Serialization with YAML" - by Klaus Langer
+
+"Learning YAML" - by Andrew C. Miller
+
+"YAML Essentials" - by Madhavan Iyengar
+
+"YAML Fundamentals for DevOps, Cloud and IaC Engineers" - by Coding Gears | Train Your Brain
+
+"Mastering YAML: From basics to application" - by Dennis Wittmann
+
+"From Zero to YAML: Fundamentals and Practical Applications" - by William dos Santos
+
+"Introduction to YAML" - by Tarun Telang
+
+"YAML: The Missing Battery in Python" - by Joao P. S. F. Lima
+
+"Introduction to YAML" - by Michel Casabianca
+----
+zig
+----
+"Zig Language Reference" - by Andrew Kelley and the Zig Community/Contributors
+
+"Introduction to Zig: a project-based book" - by Pedro Duarte Faria
+
+"zig.guide" - by Sobeston
+
+"Zig Language: A little book" - by Reco
+----
+ZIL
+----
+"ZIL Manual" - by Steven Eric Meretzky
+
+"ZIL Course" - by Marc S. Blank
+
+"The MDL Programming Language" - by S. W. Galley and Greg Pfister
+
+"ZILF Reference Guide" - by Tara McGrew (and ZILF project contributors)
+
+"ZIL Programming for Interactive Fiction: A Technical Guide" - by Jason Self
+
+---
+zsh
+---
+"The Z Shell Manual" - by Paul Falstad and Peter Stephenson (and other Zsh Development Team Contributors)
+
+"From Bash to Z Shell: Conquering the Command Line" - by Oliver Kiddle, Peter Stephenson, and Jerry Peek
+
+"Learning Shell Scripting with Zsh" - by Gastón Festari
+
+"A User's Guide to the Z-Shell" - by Peter Stephenson

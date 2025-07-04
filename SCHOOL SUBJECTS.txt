@@ -1,0 +1,472 @@
+==========
+class 1=5
+==========
+
+📘 Mathematics
+Class-wise Core Books:
+
+Class 1: Math-Magic – NCERT
+
+Class 2: Math-Magic – NCERT
+
+Class 3: Math-Magic – NCERT
+
+Class 4: Math-Magic – NCERT
+
+Class 5: Math-Magic – NCERT
+
+📌 Alternate / Additional:
+
+Joyful Mathematics (Class 1–3) – NCERT (Activity-based)
+
+Mental Mathematics (1–5) – R.S. Aggarwal (Bharti Bhawan)
+
+🌱 Environmental Studies (EVS)
+Class-wise Core Books:
+
+Class 1–2: Environmental Studies – Part 1 & 2 – Sangeeta Goyal (Vishvas Books)
+
+Class 3: Looking Around – NCERT
+
+Class 4: Looking Around – NCERT
+
+Class 5: Looking Around – NCERT
+
+📌 Alternate:
+
+The Blue Planet Series (1–5) – Geeta Nair (Goyal Brothers Prakashan)
+
+📚 General Knowledge
+Books for All Classes (1–5):
+
+Spectrums of General Knowledge – Purushottam Publishers
+
+Wow! World Within World (GK Series) – Collins India
+
+Brainvita General Knowledge – Madhubun Educational Books
+
+💻 Computer Science / ICT
+Books for All Classes (1–5):
+
+Go Digital! (Books 1–5) – Oxford University Press
+
+IT Planet Series – Kips Learning Pvt. Ltd.
+
+Cyber Beans Series – Cordova Publications
+
+📌 Alternate:
+
+Keyboard Series – Oxford
+
+Let’s Log In – Eupheus Learning
+
+🧠 Moral Science / Value Education
+Books for All Classes (1–5):
+
+Exploring Moral Science – Goyal Brothers Prakashan
+
+Wings of Life – Value Education – G. Balasubramanian (New Saraswati House)
+
+Living Values – Ratna Sagar
+
+Moral Science and You – Cordova Publications
+
+
+==========
+class 6-9
+==========
+
+📘 Mathematics
+
+Mathematics (Class 6–8) – NCERT
+
+New Learning Mathematics – M.L. Aggarwal (Avichal Publishing)
+
+Maths Ahead – Macmillan Education
+
+🔬 Science (Physics, Chemistry, Biology)
+
+Science (Class 6–8) – NCERT
+
+Living Science Series – Ratna Sagar
+
+Science Voyage – Oxford University Press
+
+New Science Ahead (ICSE) – Orient BlackSwan
+
+🏛 History
+
+Our Pasts – History (6–8) – NCERT
+
+Together With Social Science – Rachna Sagar
+
+History Alive! – Pearson
+
+🌍 Geography
+
+The Earth: Our Habitat / Resources and Development / India: Climate, Vegetation and Wildlife (6–8) – NCERT
+
+Together With Social Science – Rachna Sagar
+
+Oxford School Atlas – Oxford University Press
+
+🏛 Civics
+
+Social and Political Life (6–8) – NCERT
+
+Together With Social Science – Rachna Sagar
+
+💰 Economics (taught mostly in Class 8)
+
+Understanding Economic Development – NCERT
+
+Basic Economics (Optional) – Macmillan / Rachna Sagar
+
+💻 Computer Science / ICT
+
+Go Digital! (6–8) – Oxford University Press
+
+Cyber Beans – Cordova Publications
+
+IT Planet – Kips Learning Pvt. Ltd.
+
+Computer Masti – InOpen Technologies / Next Education
+
+🤖 Artificial Intelligence (CBSE Optional)
+
+AI Foundation Level – CBSE + Intel Curriculum
+
+Exploring Artificial Intelligence – Cordova Publications
+
+Artificial Intelligence for Schools – Avartan Technologies / Eupheus Learning
+
+📚 General Knowledge
+
+Spectrums of General Knowledge – Purushottam Publishers
+
+GK Planet Series – Macmillan
+
+Knowledge World / Wow! GK Series – Madhubun / Collins India
+
+🩺 Health & Wellness
+
+Health and Physical Education – New Saraswati House
+
+Fit India Movement Activity Book – CBSE / Ministry of Sports
+
+Together With Health & Physical Education – Rachna Sagar
+
+🛠 Work Education / SUPW
+
+SUPW Practical Book (6–8) – New Saraswati House
+
+Skill Builders – SUPW – Vikas Publishing
+
+Work Education – Activity Book – Cordova Publications
+
+🧠 Moral Science / Life Skills
+
+Wings of Life – Value Education – G. Balasubramanian / Saraswati
+
+Exploring Moral Science – Goyal Brothers Prakashan
+
+Life Skills & Value Education – Cordova Publications
+
+Living Values – Ratna Sagar
+
+
+===========
+class 9-10
+===========
+
+📘 Mathematics
+
+Mathematics (Standard / Basic) – NCERT
+
+Mathematics – R.D. Sharma (Dhanpat Rai)
+
+Together with Mathematics – Rachna Sagar
+
+🔬 Science (Physics, Chemistry, Biology)
+
+Science Textbook – NCERT
+
+Foundation Science (PCMB) – S. Chand Publications
+
+Science Exam Guides – MTG / Arihant / Oswaal
+
+🗺️ Social Science
+
+India and the Contemporary World – NCERT
+
+Contemporary India – NCERT
+
+Democratic Politics – NCERT
+
+Understanding Economic Development – NCERT
+
+Together with Social Science – Rachna Sagar
+
+All-in-One Social Science – Arihant
+
+🌿 Environmental Science (EVS)
+
+A Textbook of Environmental Education – Goyal Brothers Prakashan
+
+Foundation Environmental Studies – New Saraswati House / Evergreen
+
+💻 Computer Applications / IT
+
+Computer Applications – Sumita Arora (Dhanpat Rai)
+
+Information Technology – Code 402 – NCERT / Kips Learning / Orange Education
+
+Keyboard – Oxford University Press
+
+Cyber Beans – Cordova Publications
+
+🤖 Artificial Intelligence (Optional)
+
+Artificial Intelligence – CBSE + Intel
+
+Exploring Artificial Intelligence – Cordova Publications
+
+AI Step-by-Step – Avartan Technologies / Eupheus Learning
+
+📚 General Knowledge & Life Skills
+
+Spectrums of General Knowledge – Purushottam / Pearson
+
+Life Skills & Value Education – Cordova / Goyal Brothers / Ratna Sagar
+
+Media & Me – Scholastic
+
+Young Reporter’s Handbook – NCERT
+
+🛠️ SUPW / Work Education
+
+SUPW Practical Book – New Saraswati House / Evergreen
+
+Work Education & Skill Development – Cordova / NCERT
+
+Project-Based Learning (SUPW) – PM Publishers / Vikas Publishing
+
+💡 Moral Science / Value Education
+
+Wings of Life – Value Education – G. Balasubramanian
+
+Living Values – Ratna Sagar
+
+Exploring Moral Science – Goyal Brothers Prakashan
+
+Together with Life Skills – Rachna Sagar
+
+🧑‍🔧 Vocational Subjects (CBSE / NSDC / NSQF)
+
+Retail: NSQF Level 1 & 2 – CBSE
+
+Marketing & Sales – CBSE / NSDC
+
+Introduction to Media & Entertainment – CBSE / PSSCIVE / NSDC
+
+Beauty & Wellness – Level 1 & 2 – CBSE / L’Oréal / NSDC
+
+Tourism Skills / Food & Beverage Services – CBSE / NSDC
+
+Food Production – Bakery & Cooking – CBSE / FSSAI / NSDC
+
+Agriculture – Level 1 & 2 – CBSE / ICAR / NSDC
+
+Healthcare Assistant – Level 1 & 2 – CBSE / Skill India / NSDC
+
+
+============
+CLASS 11-12
+============
+
+🔬 Science Stream
+
+Mathematics / Applied Mathematics
+
+Mathematics Class 11 & 12 – NCERT
+
+Applied Mathematics (CBSE) – NCERT / Oswaal / Together With
+
+Senior Secondary Mathematics – R.D. Sharma / R.S. Aggarwal
+
+Physics
+
+Physics Textbook Part I & II – NCERT
+
+Concepts of Physics Vol 1 & 2 – H.C. Verma
+
+Understanding Physics – D.C. Pandey (Arihant)
+
+Chemistry
+
+Chemistry Part I & II – NCERT
+
+Modern ABC of Chemistry – Modern Publishers
+
+Physical / Inorganic / Organic Chemistry – O.P. Tandon / P. Bahadur
+
+Biology / Biotechnology
+
+Biology Class 11 & 12 – NCERT
+
+Trueman's Biology Vol I & II – Trueman Publications
+
+Biotechnology Class 11 & 12 – CBSE / NCERT / Saraswati
+
+Computer Science / Informatics Practices
+
+Computer Science with Python – Sumita Arora / NCERT
+
+Informatics Practices with Python & DBMS – Dhanpat Rai / NCERT
+
+Engineering Graphics
+
+Engineering Graphics Class 11–12 – Dhanpat Rai / Nootan / S. Chand
+
+Environmental Science
+
+Textbook of Environmental Education – Goyal Brothers / Saraswati
+
+Environmental Science – NCERT / Evergreen
+
+Electronics Technology
+
+Electronics Engineering Textbook – CBSE Vocational / Kopykitab
+
+Psychology
+
+Psychology Class 11 & 12 – NCERT
+
+Introduction to Psychology – Morgan & King
+
+Home Science
+
+Home Science Class 11–12 – NCERT
+
+Together With Home Science – Rachna Sagar
+
+Artificial Intelligence
+
+AI Curriculum Class 11–12 – CBSE + Intel / NASSCOM
+
+AI Textbook (Foundations & Applications) – Eupheus / Cordova / Avartan
+
+Data Science
+
+Data Science Curriculum (Pilot) – CBSE + IBM
+
+Applied Data Science Foundation – CBSE Skill Education
+
+📊 Commerce Stream
+
+Accountancy
+
+Accountancy Class 11 & 12 – NCERT
+
+Double Entry Book Keeping – T.S. Grewal / D.K. Goel
+
+Business Studies
+
+Business Studies Class 11 & 12 – NCERT
+
+Business Studies – Poonam Gandhi / Subhash Dey
+
+Economics
+
+Introductory Micro & Macro Economics – NCERT
+
+Economics – Sandeep Garg / T.R. Jain
+
+Entrepreneurship
+
+Entrepreneurship Class 11–12 – CBSE / NCERT
+
+Startup & Innovation Books – Cordova / Oswaal
+
+Marketing
+
+Marketing Class 11–12 – CBSE Vocational / Private Publishers
+
+Principles of Marketing – Philip Kotler
+
+Retail Operations
+
+Retail Level 3 & 4 – CBSE / NSDC
+
+Banking & Insurance
+
+Foundations of Banking & Insurance – CBSE Skill Education
+
+Financial Market Management
+
+FMM Curriculum Book – CBSE + NSE Academy / NISM
+
+Statistics
+
+Statistics for Economics – NCERT
+
+Applied Statistics – S.P. Gupta / R.S. Nargundkar
+
+Computer Applications / IT
+
+Computer Applications Class 11–12 – Sumita Arora / Saraswati
+
+Information Technology (402 / 065) – Kips Learning / NCERT
+
+🎨 Arts / Humanities Stream
+
+History
+
+Themes in Indian / World History – NCERT
+
+Geography
+
+Fundamentals of Human Geography – NCERT
+
+India: Physical Environment – NCERT
+
+Political Science
+
+Indian Constitution at Work – NCERT
+
+Contemporary World Politics – NCERT
+
+Sociology
+
+Introducing Sociology – NCERT
+
+Understanding Society – NCERT
+
+Philosophy
+
+Indian Philosophy Textbook – NCERT / Private Publishers
+
+Legal Studies
+
+Legal Studies Textbook 11–12 – CBSE / NCERT
+
+Public Administration
+
+Foundations of Public Administration – CBSE Vocational
+
+Mass Media Studies
+
+Mass Media Studies 11–12 – CBSE / Media Literacy Council
+
+Fashion Studies
+
+Fashion Studies Text + Practical – CBSE / NIFT / NIOS
+
+Travel & Tourism
+
+Travel & Tourism Level 3 & 4 – CBSE Vocational / NSDC
+
+Disaster Management
+
+Disaster Management (Elective) – CBSE / NDMA Publications
+
